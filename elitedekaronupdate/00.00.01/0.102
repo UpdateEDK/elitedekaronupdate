@@ -1,0 +1,3731 @@
+n only be used by </color>
+<center><color=ff0000>characters at level 102 and above.</color>
+}
+
+code 60111 #Super Mazoram Mana Item Warning Window
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 102 and above.</color>
+}
+
+code 60112 #Super Mazoram Mana Item Warning Window
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 102 and above.</color>
+}
+
+code 60114 #Miere Potion Item Warning Window
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 130 and above.</color>
+}
+
+code 60115 #Miere Potion Item Warning Window
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 130 and above.</color>
+}
+
+code 60117 #Miere Mana Item Warning Window
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 130 and above.</color>
+}
+
+code 60118 #Miere Mana Item Warning Window
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 130 and above.</color>
+}
+
+code 60120 #Super Miere Potion Item Warning Window
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 130 and above.</color>
+}
+
+code 60121 #Super Miere Potion Item Warning Window
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 130 and above.</color>
+}
+
+code 60123 #Super Miere Mana Item Warning Window
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 130 and above.</color>
+}
+
+code 60124 #Super Miere Mana Item Warning Window
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 130 and above.</color>
+}
+
+code 60128 #Ocarina of Eternity Warning Window
+{
+<color=ffcc00>Attention: Can only be used </color>
+<color=ffcc00> on a sleeping pet.</color>
+}
+
+code 60129 #Pet Item (Ray) Warning Window
+{
+<color=ff0000>Attention: This item will return to </color>
+<color=ff0000>the sleeping state 30 days after it has hatched. </color>
+}
+
+code 60132 #Pet Item (Demi) Warning Window
+{
+<color=ff0000>Attention: This item will return to </color>
+<color=ff0000>the sleeping state 30 days after it has hatched. </color>
+}
+
+code 60135 #Character Name Change Warning Window
+{
+<color=ff0000>Attention: You can use this item only </color>
+<color=ff0000> after leaving a guild and </color>
+<color=ff0000>when initializing the Friends List. </color>
+}
+
+code 60144 #Veteran's Talisman (1days) Warning Window
+{
+<color=FF0000>Warning: This item's effect won't overlap</color>
+<color=FF0000>even when 2 or more are equipped.</color>
+}
+
+code 60145 #Veteran's Talisman (3days) Warning Window
+{
+<color=FF0000>Warning: This item's effect won't overlap</color>
+<color=FF0000>even when 2 or more are equipped.</color>
+}
+
+code 63501 #Novice Warrior Noble Package Warning Window
+{
+<color=ff0000>Attention: This item can only be used </color>
+<color=ff0000>by characters in level 50 and below. </color>
+}
+
+code 63502 #Experienced Newbie Practical Package Warning Window
+{
+<color=ff0000>Attention: This item can only be used </color>
+<color=f00000>by characters in level 50 and below. </color>
+}
+
+code 63505
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+}
+
+code 63506
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+
+}
+
+code 63507
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+
+}
+
+code 63526
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+}
+
+code 63527
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+}
+
+code 63528
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+}
+
+code 63529
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+}
+
+code 63530
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+}
+code 63531
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+}
+code 63532
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+}
+code 63533
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+}
+code 63534
+{
+<color=ff0000>Warning : This Item cannot be traded with</color>
+<color=ff0000>others.</color>
+}
+
+
+code 63707 #Soul of Alchemist (Jpn)
+{
+Effect : Can add 18% successrate to refining socket item with power of alchemist.\\
+<color=ffcc00>Consumable</color> : Put on socket smithing window.
+}
+
+code 63708 #Soul of Alchemist (Jpn)
+{
+Effect : Adds 18% more success rate on enhancing weapons. 
+<color=ffcc00>Consumable</color> : Put on socket smithing window.
+}
+
+code 63717
+{
+<center><color=ff0000>All the items will be sent to you</color>
+<center><color=ff0000>or the person you sent</color>
+<center><color=ff0000>them as a gift by in game mail</color>
+<center><color=ff0000>after buying the package.</color>
+}
+
+code 63718
+{
+<center><color=ff0000>All the items will be sent to you</color>
+<center><color=ff0000>or the person you sent</color>
+<center><color=ff0000>them as a gift by in game mail</color>
+<center><color=ff0000>after buying the package.</color>
+}
+code 63719
+{
+<center><color=ff0000>All the items will be sent to you</color>
+<center><color=ff0000>or the person you sent</color>
+<center><color=ff0000>them as a gift by in game mail</color>
+<center><color=ff0000>after buying the package.</color>
+}
+code 63720
+{
+<center><color=ff0000>All the items will be sent to you</color>
+<center><color=ff0000>or the person you sent</color>
+<center><color=ff0000>them as a gift by in game mail</color>
+<center><color=ff0000>after buying the package.</color>
+}
+code 63721
+{
+<center><color=ff0000>All the items will be sent to you</color>
+<center><color=ff0000>or the person you sent</color>
+<center><color=ff0000>them as a gift by in game mail</color>
+<center><color=ff0000>after buying the package.</color>
+}
+
+code 60369 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 180 and above.</color>
+}
+code 60370 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 180 and above.</color>
+}
+code 60366 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 180 and above.</color>
+}
+code 60367 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 180 and above.</color>
+}
+
+code 60339 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 180 and above.</color>
+}
+code 60340 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 180 and above.</color>
+}
+
+code 60336 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 150 and above.</color>
+}
+code 60337 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 150 and above.</color>
+}
+
+code 60333 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 150 and above.</color>
+}
+code 60334 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 150 and above.</color>
+}
+
+code 60360 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 150 and above.</color>
+}
+code 60361 #Super Elite Mana Potion
+{
+<center><color=ff0000>Attention: This item can only be used by </color>
+<center><color=ff0000>characters at level 150 and above.</color>
+}
+
+
+</cate>
+
+<cate> 260
+code 1
+{
+Inventory
+}
+
+code 2
+{
+Equip
+}
+
+code 3
+{
+Items
+}
+
+code 4
+{
+Equip
+}
+
+code 5
+{
+Costume
+}
+
+code 7
+{
+Drop
+}
+
+code 8
+{
+Send
+}
+
+code 9
+{
+Deposit
+}
+
+code 10
+{
+Withdraw
+}
+
+code 11
+{
+Price
+}
+
+code 12
+{
+Confirm
+}
+
+code 13
+{
+Cancel
+}
+
+code 14
+{
+Quantity
+}
+
+code 15
+{
+Disassemble Item
+}
+
+code 16
+{
+Equip
+}
+
+</cate>
+
+<cate> 1007
+code 1
+{
+<font=7><center>Azure Knight</font>
+
+<center>Knights are filled with the  
+<center>spirit of the sword, forged at 
+<center>Genoa, the land of destruction.
+
+<center>Knights have abandoned other
+<center>martial arts, such as archery
+<center>or the skills of combat magic.
+
+<center>These skills, they have decided,
+<center>are cowardly and unnecessary.
+
+<center>However, as descendants of
+<center>Undo Mazokie, they have no
+<center>quarrel with the land or the other
+<center>defenders of Haran. They seek
+<center>harmony with the world around
+<center>them, and in harmony they find
+<center>strength, power and enhanced
+<center>abilities. 
+}
+
+code 2
+{
+<font=7><center>Segita Hunter</font>
+
+<center>Hunters were the first to start
+<center>the trade between Helicita and
+<center>other cities, and they spread
+<center>from place to place.
+
+<center>The Segita took archery as their 
+<center>skill and their passion, and they
+<center>have learned deadly arts with
+<center>arrow and bolt. They seek the
+<center>protection of the ancient and
+<center>obscure goddess, Cun, who 
+<center>grants them with their special
+<center>powers. 
+
+<center>Segita are tactical
+<center>fighters and rarely get close to
+<center>their enemies, preferring to keep 
+<center>them at distance.
+}
+
+code 3
+{
+<font=7><center>Incar Magician</font>
+
+<center>They are known as priestesses 
+<center>of Zodiac or Incar... magicians.
+
+<center>They are filled with a great 
+<center>passion for the exploration and
+<center>practice of magic. Their magic
+<center>draws from the very elements
+<center>themselves - based in nature
+<center>and not in the Dark Arts.
+
+<center>They work to prevent another
+<center>Great Fall and fight ceaselessly
+<center>against the Pitborn of the Abyss.
+}
+
+code 4
+{
+<font=7><center>Vicious Summoner</font>
+
+<center>The culture of summoners
+<center>existed long before current magic
+<center>was discovered, at the time when
+<center>Alokeneses ruled the land. It is 
+<center>mysterious and dangerous magic,
+<center>that has been labeled a "Dark Art" 
+<center>under the Order of Incar, 
+<center>who disdain the Summoner's arts. 
+
+<center>Summoners care little for the 
+<center>opinions of the Incar, or of any
+<center>other group. They know that
+<center>when the battle begins, all are
+<center>equal and all will kill with ferocity. 
+
+<center>Summoners, with
+<center>summoned creatures and
+<center>fearsome skills, are always
+<center>welcome when the battle
+<center>heats up.
+}
+
+code 5
+{
+<font=7><center>Segnale</font>
+
+<center>Segnale are connected still to
+<center>the Abyss, yet they have one
+<center>foot in the human realms. They
+<center>have mastered the art of the
+<center>Blood Whip, and their taste for
+<center>blood makes them outcasts
+<center>among other people. But their healing
+<center>ability is praised and welcomed
+<center>by most wounded and dead. 
+
+<center>Their fighting abilities
+<center>are also appreciated, as they
+<center>can cause great devastation
+<center>among the enemy with their
+<center>wide range of powers.
+
+<center>All healing and attacks are
+<center>based on controlling the
+<center>opponent's blood, and they always
+<center>leave marks when they murder.
+}
+
+code 6
+{
+<font=7><center>Bagi Warrior</font>
+
+<center>They were contaminated
+<center>at the time of Grand Fall, their
+<center>bodies attaining supernatural
+<center>strength. Within their bodies lives
+<center>the "spirit of Caron," the source
+<center>of their power, and the curse
+<center>of their transformation.
+
+<center>Bagi Warriors must control
+<center>the Caron's power within them
+<center>and battle the rage that can
+<center>overcome them seemingly
+<center>without a moment's notice.
+
+<center>Yet, for all their brute
+<center>strength and savage demeanor,
+<center>the Bagi are noble and dedicated
+<center>to fighting the evil of the Abyss.
+}
+
+code 7  
+{
+<font=7><center>Aloken</font>
+
+<center>Alokens have remained on 
+<center>the land as opposed to their same
+<center>bloods who deserted Trieste.
+
+<center>After the "Grand Fall," Alokens
+<center>have settled in "Jungle of
+<center>Eternity". They have blamed
+<center>their pride for the disaster
+<center>that was brought upon the 
+<center>land. Alokens wished for a
+<center>quiet and peaceful life until Karon,
+<center>who feared Aloken's strength, has
+<center>destroyed the jungle. In order to
+<center>restore their peace, Alokens have
+<center>joined to fight. 
+
+<center>Alokens are skillful in spear
+<center>and magic and they use "Spells"
+<center>that grants special abilities.
+}
+
+code 81
+{
+<font=7><center>Concerra Summoner</font>
+
+<center>Female Summoner
+<center>The culture of Concerra summoners
+<center>existed long before current magic
+<center>was discovered, at the time when
+<center>Alokeneses ruled the land. It is 
+<center>mysterious and dangerous magic,
+<center>that has been labeled a "Dark Art" 
+<center>under the Order of Incar, 
+<center>who disdain the Summoner's arts. 
+
+<center>Summoners care little for the 
+<center>opinions of the Incar, or of any
+<center>other group. They know that
+<center>when the battle begins, all are
+<center>equal and all will kill with ferocity. 
+
+<center>Summoners, with
+<center>summoned creatures and
+<center>fearsome skills, are always
+<center>welcome when the battle
+<center>heats up.
+}
+
+code 91
+{
+<font=7><center>Segeuriper</font>
+
+<center>Male Segnale
+<center>Segeuripers are connected still to
+<center>the Abyss, yet they have one
+<center>foot in the human realms. They
+<center>have mastered the art of the
+<center>Scythe, and their taste for
+<center>blood makes them outcasts
+<center>among other people. But their healing
+<center>ability is praised and welcomed
+<center>by most wounded and dead. 
+
+<center>Their fighting abilities
+<center>are also appreciated, as they
+<center>can cause great devastation
+<center>among the enemy with their
+<center>wide range of powers.
+
+<center>All healing and attacks are
+<center>based on controlling the
+<center>opponent's blood, and they always
+<center>leave marks when they murder.
+}
+
+code 14
+{
+<center>Braiken Castle
+
+
+
+
+
+
+
+
+
+
+<center>This is the northern defense line
+<center>of Kashmir mountain range.
+<center>Since there is no way to pass
+<center>the contamination as of
+<center>now, the fall of Braiken would
+<center>mean fall of Haran's
+<center>defenses.
+}
+
+code 15
+{
+<center>Loa Castle
+
+
+
+
+
+
+
+
+
+
+<center>Loa castle is located on the
+<center>west of Moirai. It is the front
+<center>defense line along with
+<center>Braiken. Some remaining 
+<center>believers in the bonereavers
+<center> still live inside, so there
+<center>is always danger.
+}
+
+code 16
+{
+Classes
+}
+
+code 17
+{
+OK
+}
+
+code 18
+{
+Back
+}
+
+code 19
+{
+Select Start Area
+}
+
+code 20
+{
+Servers
+}
+
+code 21
+{
+Characters
+}
+
+code 22
+{
+New
+}
+
+code 23
+{
+Delete
+}
+
+code 24
+{
+Connect
+}
+
+code 25
+{
+Log Out
+}
+
+code 26
+{
+Log in
+}
+
+code 27
+{
+User Name
+}
+
+code 28
+{
+Password
+}
+
+code 29
+{
+Server
+}
+
+code 30
+{
+Exit
+}
+
+code 31
+{
+Server Group
+}
+
+code 32 #added 10.9
+{
+<font=4>Change Password</font>
+}
+
+code 99
+{
+Classes
+}
+
+</cate>
+
+<cate> 101
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 102
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 103
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 104
+code 1
+{
+Where would you like to go?
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 105
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 106
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 107
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 108
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 109
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 110
+code 1
+{
+Ah, would you like get on the ship?
+Hold on a sec...
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 111
+code 1
+{
+I guess you talked to me because you want to
+use the ship? Where do you want to go?
+Talk to me, I'll send you right away.
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 112
+code 1
+{
+Select one of the locations below to move to
+that siege tunnel.
+}
+
+code 100
+{
+<MAPNAME> Siege Tunnel
+}
+
+code 200
+{
+<MAPNAME> Siege Tunnel
+}
+
+</cate>
+
+<cate> 113
+code 1
+{
+Select the detailed list on the way to Siege
+Battle map.
+}
+
+code 100
+{
+<MAPNAME>
+}
+
+</cate>
+
+<cate> 114
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 200
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 300
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 400
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 500
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 600
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 700
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 800
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+</cate>
+
+
+<cate> 115
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 200
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 300
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 400
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 500
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 600
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 700
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+</cate>
+
+
+<cate> 120
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 200
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 300
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 400
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 500
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 600
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+code 700
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+</cate>
+
+
+
+<cate> 127
+code 1
+{
+Space of Pilgrimage
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV: <LEVEL>+)
+}
+
+</cate>
+<cate> 130
+code 1
+{
+어디로 가시겠습니까?
+
+
+
+
+}
+
+code 100
+{
+이구트 사막-전초기지2
+}
+
+</cate>
+
+<cate> 131
+code 1
+{
+어디로 가시겠습니까?
+
+
+
+
+}
+
+code 100
+{
+이구트 사막-전초기지
+}
+
+</cate>
+
+<cate> 123
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 124
+code 1
+{
+Where would you like to go?
+
+<color=ff0000>This locations aren't currently available</color>
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 125
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 210
+code 1
+{
+Congratulations!
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 211
+code 1
+{
+fight! fight! fight!
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 215
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 216
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 220
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+
+<cate> 221
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>
+
+<cate> 222
+code 1
+{
+Where would you like to go?
+
+
+
+}
+
+code 100
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 200
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 300
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 400
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 500
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 600
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 700
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 800
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+code 900
+{
+<MAPNAME> (LV:<LEVEL>+, DIL:<COST>)
+}
+
+</cate>InitScreen,1,UI\Game\notice\notice.dds,355,0,4,6,0,0,0,0,
+
+InitScreen,2,UI\Tool\ui_logo.dds,0,0,128,64,0,0,0,0,
+InitScreen,3,UI\braiken.dds,0,0,512,512,0,0,0,0,
+InitScreen,4,UI\deneb.dds,0,0,512,512,0,0,0,0,
+InitScreen,5,UI\LOADING.dds,0,0,1024,768,0,0,0,0,
+
+envtool_cam,1,UI\Tool\ui_window02.dds,28,18,6,2,0,0,0,0,
+envtool_cam,2,UI\Game\Option\Option_a.dds,164,373,14,19,0,0,0,0,스크롤
+envtool_cam,3,UI\Game\Option\Option_a.dds,178,373,14,19,0,0,0,0
+envtool_etc,1,UI\Tool\ui_window02.dds,28,18,6,2,0,0,0,0,
+envtool_etc,2,UI\Game\Option\Option_a.dds,164,373,14,19,0,0,0,0,스크롤
+envtool_etc,3,UI\Game\Option\Option_a.dds,178,373,14,19,0,0,0,0
+envtool_etc,4,UI\Tool\ui_winbtn03.dds,110,0,13,13,0,0,0,0,
+envtool_etc,5,UI\Game\Option\Option_a.dds,164,394,16,16,0,0,0,0,V체크
+envtool,10,UI\Tool\ui_window02.dds,28,18,6,2,0,0,0,0,
+envtool,20,UI\Tool\ui_winbtn03.dds,110,0,13,13,0,0,0,0,
+envtool,30,UI\Game\Option\Option_a.dds,164,373,14,19,0,0,0,0,스크롤
+envtool,31,UI\Game\Option\Option_a.dds,178,373,14,19,0,0,0,0
+envtool,40,UI\Game\Option\Option_a.dds,164,394,16,16,0,0,0,0,V체크
+
+common,1,UI\white.bmp,0,0,32,32,0,0,0,0,
+Inven,30,UI\Game\theme01\inven.dds,463,0,13,13,0,0,0,0,맵툴용 설정
+
+ItemIcon,1,UI\Game\theme01\Socket.dds,0,0,64,64,0,0,0,0,캐쉬아이템에 아이템이미지
+ItemIcon,1,UI\Game\theme01\Socket.dds,0,0,64,64,0,0,0,0,
+
+observer,1,UI\Game\Observer\View.dds,0,0,232,327,0,0,0,0,관전지역이동창
+observer,2,UI\Game\Observer\View.dds,232,0,232,157,0,0,0,0,관전모드입장창
+observer,10,UI\Game\Observer\View.dds,0,328,33,33,0,0,0,0,관전모드아이콘일반
+observer,11,UI\Game\Observer\View.dds,33,328,33,33,0,0,0,0,관전모드아이콘마우스오버
+observer,12,UI\Game\Observer\View.dds,66,328,33,33,0,0,0,0,관전모드아이콘마우스클릭
+
+bow,1,UI\Game\theme01\bow.dds,0,0,40,40,0,0,0,0,
+
+autocheck,1,UI\Game\AutoCheck\autocheck.dds,0,0,232,167,0,0,0,0,오토시스템기본판
+autocheck,2,UI\Game\AutoCheck\autocheck.dds,0,168,232,82,0,0,0,0,오토감별상태기본판
+autocheck,10,UI\Game\AutoCheck\autocheck.dds,408,252,22,21,0,0,0,0,초록0
+autocheck,11,UI\Game\AutoCheck\autocheck.dds,210,252,26,21,0,0,0,0,초록1
+autocheck,12,UI\Game\AutoCheck\autocheck.dds,232,252,22,21,0,0,0,0,초록2
+autocheck,13,UI\Game\AutoCheck\autocheck.dds,254,252,22,21,0,0,0,0,초록3
+autocheck,14,UI\Game\AutoCheck\autocheck.dds,276,252,22,21,0,0,0,0,초록4
+autocheck,15,UI\Game\AutoCheck\autocheck.dds,298,252,22,21,0,0,0,0,초록5
+autocheck,16,UI\Game\AutoCheck\autocheck.dds,320,252,22,21,0,0,0,0,초록6
+autocheck,17,UI\Game\AutoCheck\autocheck.dds,342,252,22,21,0,0,0,0,초록7
+autocheck,18,UI\Game\AutoCheck\autocheck.dds,364,252,22,21,0,0,0,0,초록8
+autocheck,19,UI\Game\AutoCheck\autocheck.dds,386,252,22,21,0,0,0,0,초록9
+autocheck,20,UI\Game\AutoCheck\autocheck.dds,408,295,22,21,0,0,0,0,보라0
+autocheck,21,UI\Game\AutoCheck\autocheck.dds,210,295,22,21,0,0,0,0,보라1
+autocheck,22,UI\Game\AutoCheck\autocheck.dds,232,295,22,21,0,0,0,0,보라2
+autocheck,23,UI\Game\AutoCheck\autocheck.dds,254,295,22,21,0,0,0,0,보라3
+autocheck,24,UI\Game\AutoCheck\autocheck.dds,276,295,22,21,0,0,0,0,보라4
+autocheck,25,UI\Game\AutoCheck\autocheck.dds,298,295,22,21,0,0,0,0,보라5
+autocheck,26,UI\Game\AutoCheck\autocheck.dds,320,295,22,21,0,0,0,0,보라6
+autocheck,27,UI\Game\AutoCheck\autocheck.dds,342,295,22,21,0,0,0,0,보라7
+autocheck,28,UI\Game\AutoCheck\autocheck.dds,364,295,22,21,0,0,0,0,보라8
+autocheck,29,UI\Game\AutoCheck\autocheck.dds,386,295,22,21,0,0,0,0,보라9
+autocheck,30,UI\Game\AutoCheck\autocheck.dds,408,338,22,21,0,0,0,0,노랑0
+autocheck,31,UI\Game\AutoCheck\autocheck.dds,210,338,22,21,0,0,0,0,노랑1
+autocheck,32,UI\Game\AutoCheck\autocheck.dds,232,338,22,21,0,0,0,0,노랑2
+autocheck,33,UI\Game\AutoCheck\autocheck.dds,254,338,22,21,0,0,0,0,노랑3
+autocheck,34,UI\Game\AutoCheck\autocheck.dds,276,338,22,21,0,0,0,0,노랑4
+autocheck,35,UI\Game\AutoCheck\autocheck.dds,298,338,22,21,0,0,0,0,노랑5
+autocheck,36,UI\Game\AutoCheck\autocheck.dds,320,338,22,21,0,0,0,0,노랑6
+autocheck,37,UI\Game\AutoCheck\autocheck.dds,342,338,22,21,0,0,0,0,노랑7
+autocheck,38,UI\Game\AutoCheck\autocheck.dds,364,338,22,21,0,0,0,0,노랑8
+autocheck,39,UI\Game\AutoCheck\autocheck.dds,386,338,22,21,0,0,0,0,노랑9
+autocheck,40,UI\Game\AutoCheck\autocheck.dds,408,381,22,21,0,0,0,0,빨강0
+autocheck,41,UI\Game\AutoCheck\autocheck.dds,210,381,22,21,0,0,0,0,빨강1
+autocheck,42,UI\Game\AutoCheck\autocheck.dds,232,381,22,21,0,0,0,0,빨강2
+autocheck,43,UI\Game\AutoCheck\autocheck.dds,254,381,22,21,0,0,0,0,빨강3
+autocheck,44,UI\Game\AutoCheck\autocheck.dds,276,381,22,21,0,0,0,0,빨강4
+autocheck,45,UI\Game\AutoCheck\autocheck.dds,298,381,22,21,0,0,0,0,빨강5
+autocheck,46,UI\Game\AutoCheck\autocheck.dds,320,381,22,21,0,0,0,0,빨강6
+autocheck,47,UI\Game\AutoCheck\autocheck.dds,342,381,22,21,0,0,0,0,빨강7
+autocheck,48,UI\Game\AutoCheck\autocheck.dds,364,381,22,21,0,0,0,0,빨강8
+autocheck,49,UI\Game\AutoCheck\autocheck.dds,386,381,22,21,0,0,0,0,빨강9
+autocheck,110,UI\Game\AutoCheck\autocheck.dds,0,251,207,43,0,0,0,0,초록기본판
+autocheck,120,UI\Game\AutoCheck\autocheck.dds,0,294,207,43,0,0,0,0,보라기본판
+autocheck,130,UI\Game\AutoCheck\autocheck.dds,0,337,207,43,0,0,0,0,노랑기본판
+autocheck,140,UI\Game\AutoCheck\autocheck.dds,0,380,207,43,0,0,0,0,빨강기본판
+
+Pvp,1,UI\Game\PVP\pvp_pop.dds,0,0,280,200,0,0,0,0,대결신청
+Pvp,2,UI\Game\PVP\pvp_pop.dds,0,206,278,167,0,0,0,0,대결 수락대기
+Pvp,3,UI\Game\PVP\pvp_pop.dds,0,378,210,95,0,0,0,0,제 자리부활
+Pvp,4,UI\Game\PVP\pvp_pop.dds,287,0,221,79,0,0,0,0,승부 결과
+Pvp,5,UI\Game\PVP\pvp_pop.dds,287,81,221,79,0,0,0,0,대결 카운터
+Pvp,11,UI\Game\PVP\pvp_pop.dds,290,168,95,23,0,0,0,0,버튼
+Pvp,12,UI\Game\PVP\pvp_pop.dds,290,197,130,25,0,0,0,0,제 자리 부활 버튼
+Pvp,21,UI\Game\PVP\pvp_pop.dds,1,477,2,10,0,0,0,0,바
+
+qnotice,1,UI\Game\theme01\qnotice.dds,0,0,296,185,0,0,0,0,베이스
+qnotice,2,UI\Game\theme01\qnotice.dds,0,187,271,50,0,0,0,0,판넬
+qnotice,11,UI\Game\theme01\qnotice.dds,300,2,30,30,0,0,0,0,느낌표 노멀
+qnotice,12,UI\Game\theme01\qnotice.dds,333,2,30,30,0,0,0,0,느낌표 오버
+qnotice,13,UI\Game\theme01\qnotice.dds,367,2,30,30,0,0,0,0,느낌표 클릭
+qnotice,21,UI\Game\theme01\qnotice.dds,300,33,13,13,0,0,0,0,종료버튼
+qnotice,22,UI\Game\theme01\qnotice.dds,314,33,13,13,0,0,0,0,
+qnotice,23,UI\Game\theme01\qnotice.dds,328,33,13,13,0,0,0,0,
+qnotice,31,UI\Game\theme01\qnotice.dds,300,49,16,19,0,0,0,0,스크롤바 위
+qnotice,32,UI\Game\theme01\qnotice.dds,300,68,16,19,0,0,0,0,
+qnotice,41,UI\Game\theme01\qnotice.dds,317,49,16,19,0,0,0,0,스크롤바 아래
+qnotice,42,UI\Game\theme01\qnotice.dds,317,68,16,19,0,0,0,0,
+qnotice,51,UI\Game\theme01\qnotice.dds,334,49,16,31,0,0,0,0,스크롤바 중간
+qnotice,52,UI\Game\theme01\qnotice.dds,334,80,16,31,0,0,0,0,
+
+questwin,11,UI\Game\theme01\quest.dds,0,0,254,355,0,0,0,0,
+questwin,12,UI\Game\theme01\quest_1.dds,0,0,360,355,0,0,0,0,
+questwin,21,UI\Game\theme01\quest.dds,0,356,91,34,0,0,0,0,
+questwin,22,UI\Game\theme01\quest.dds,0,390,91,34,0,0,0,0,
+questwin,23,UI\Game\theme01\quest.dds,0,424,91,34,0,0,0,0,
+questwin,30,UI\Game\theme01\quest.dds,91,356,85,30,0,0,0,0,
+questwin,31,UI\Game\theme01\quest.dds,91,386,85,30,0,0,0,0,
+questwin,32,UI\Game\theme01\quest.dds,91,416,85,30,0,0,0,0,
+questwin,33,UI\Game\theme01\quest.dds,91,446,85,30,0,0,0,0,
+questwin,40,UI\Game\theme01\quest.dds,184,356,85,30,0,0,0,0,
+questwin,41,UI\Game\theme01\quest.dds,184,386,85,30,0,0,0,0,
+questwin,42,UI\Game\theme01\quest.dds,184,416,85,30,0,0,0,0,
+questwin,43,UI\Game\theme01\quest.dds,184,446,85,30,0,0,0,0,
+questwin,50,UI\Game\theme01\quest.dds,278,356,85,30,0,0,0,0,
+questwin,51,UI\Game\theme01\quest.dds,278,386,85,30,0,0,0,0,
+questwin,52,UI\Game\theme01\quest.dds,278,416,85,30,0,0,0,0,
+questwin,53,UI\Game\theme01\quest.dds,278,446,85,30,0,0,0,0,
+questwin,61,UI\Game\theme01\quest.dds,374,356,21,21,0,0,0,0,
+questwin,62,UI\Game\theme01\quest.dds,374,377,21,21,0,0,0,0,
+questwin,63,UI\Game\theme01\quest.dds,374,398,21,21,0,0,0,0,
+questwin,71,UI\Game\theme01\quest.dds,416,356,19,22,0,0,0,0,
+questwin,72,UI\Game\theme01\quest.dds,416,378,19,22,0,0,0,0,
+questwin,73,UI\Game\theme01\quest.dds,416,400,19,22,0,0,0,0,
+questwin,74,UI\Game\theme01\quest.dds,416,422,19,22,0,0,0,0,
+questwin,75,UI\Game\theme01\quest.dds,435,356,19,22,0,0,0,0,
+questwin,76,UI\Game\theme01\quest.dds,435,378,19,22,0,0,0,0,
+questwin,77,UI\Game\theme01\quest.dds,435,400,19,22,0,0,0,0,
+questwin,78,UI\Game\theme01\quest.dds,435,422,19,22,0,0,0,0,
+questwin,79,UI\Game\theme01\quest.dds,454,356,25,25,0,0,0,0,
+questwin,81,UI\Game\theme01\quest.dds,454,381,13,12,0,0,0,0,
+questwin,82,UI\Game\theme01\quest.dds,454,393,14,14,0,0,0,0,
+questwin,91,UI\Game\theme01\quest.dds,185,480,220,26,0,0,0,0,
+questwin,95,UI\Game\theme01\quest.dds,91,476,80,18,0,0,0,0,
+questwin,96,UI\Game\theme01\quest.dds,91,494,80,18,0,0,0,0,
+questwin,97,UI\Game\theme01\crespo.dds,0,0,100,100,0,0,0,0,
+
+new_quest_npc,0,UI\Game\ClientQuest\new_quest_npc.dds,0,0,232,449,0,0,0,0,판
+new_quest_npc,10,UI\Game\ClientQuest\new_quest_npc.dds,236,0,14,14,0,0,0,0,화살
+new_quest_npc,11,UI\Game\ClientQuest\new_quest_npc.dds,251,0,14,14,0,0,0,0,엑스
+new_quest_npc,12,UI\Game\ClientQuest\new_quest_npc.dds,266,0,14,14,0,0,0,0,체크
+new_quest_npc,13,UI\Game\ClientQuest\new_quest_npc.dds,286,0,14,14,0,0,0,0,빈칸
+new_quest_npc,20,UI\Game\ClientQuest\new_quest_npc.dds,236,16,13,13,0,0,0,0,닫기
+new_quest_npc,21,UI\Game\ClientQuest\new_quest_npc.dds,250,16,13,13,0,0,0,0,
+new_quest_npc,22,UI\Game\ClientQuest\new_quest_npc.dds,264,16,13,13,0,0,0,0,
+
+partywar,1,UI\Game\partywar\mission_01.dds,0,0,315,210,0,0,0,0,미션결과기본창
+partywar,2,UI\Game\partywar\mission_01.dds,0,211,88,39,0,0,0,0,파티정보기본창
+msgbox01,1,UI\Game\theme01\party_popup_base.dds,0,0,284,161,0,0,0,0,
+msgbox01,2,UI\Game\theme01\party_popup_base.dds,0,194,284,115,0,0,0,0,
+msgbox01,10,UI\Game\theme01\party_popup_base.dds,0,161,255,32,0,0,0,0,
+msgbox01,11,UI\Game\theme01\party_popup_base.dds,0,193,255,32,0,0,0,0,
+msgbox01,20,UI\Game\theme01\party_popup_base.dds,284,0,211,54,0,0,0,0,
+msgbox01,21,UI\Game\theme01\party_popup_base.dds,284,54,211,54,0,0,0,0,
+msgbox01,30,UI\Game\theme01\party_popup_base.dds,0,320,94,32,0,0,0,0,
+msgbox01,31,UI\Game\theme01\party_popup_base.dds,0,352,94,32,0,0,0,0,
+msgbox01,32,UI\Game\theme01\party_popup_base.dds,0,384,94,32,0,0,0,0,
+msgbox01,40,UI\Game\theme01\party_popup_base.dds,94,320,94,32,0,0,0,0,
+msgbox01,41,UI\Game\theme01\party_popup_base.dds,94,352,94,32,0,0,0,0,
+msgbox01,42,UI\Game\theme01\party_popup_base.dds,94,384,94,32,0,0,0,0,
+msgbox01,50,UI\Game\theme01\party_popup_base.dds,0,416,94,32,0,0,0,0,
+msgbox01,51,UI\Game\theme01\party_popup_base.dds,0,448,94,32,0,0,0,0,
+msgbox01,52,UI\Game\theme01\party_popup_base.dds,0,480,94,32,0,0,0,0,
+msgbox01,60,UI\Game\theme01\party_popup_base.dds,94,416,94,32,0,0,0,0,
+msgbox01,61,UI\Game\theme01\party_popup_base.dds,94,448,94,32,0,0,0,0,
+msgbox01,62,UI\Game\theme01\party_popup_base.dds,94,480,94,32,0,0,0,0,
+msgbox01,70,UI\Game\theme01\party_popup_base.dds,188,416,94,32,0,0,0,0,
+msgbox01,71,UI\Game\theme01\party_popup_base.dds,188,448,94,32,0,0,0,0,
+msgbox01,72,UI\Game\theme01\party_popup_base.dds,188,480,94,32,0,0,0,0,
+msgbox01,80,UI\Game\theme01\party_popup_base.dds,281,416,94,32,0,0,0,0,
+msgbox01,81,UI\Game\theme01\party_popup_base.dds,281,448,94,32,0,0,0,0,
+msgbox01,82,UI\Game\theme01\party_popup_base.dds,281,480,94,32,0,0,0,0,
+msgbox01,90,UI\Game\theme01\party_popup_base.dds,375,416,94,32,0,0,0,0,
+msgbox01,91,UI\Game\theme01\party_popup_base.dds,375,448,94,32,0,0,0,0,
+msgbox01,92,UI\Game\theme01\party_popup_base.dds,375,480,94,32,0,0,0,0,
+msgbox01,100,UI\Game\theme01\party_popup_base.dds,188,320,132,24,0,0,0,0,
+msgbox01,101,UI\Game\theme01\party_popup_base.dds,188,344,132,24,0,0,0,0,
+msgbox01,102,UI\Game\theme01\party_popup_base.dds,188,368,132,24,0,0,0,0,
+msgbox01,103,UI\Game\theme01\party_popup_base.dds,188,392,132,24,0,0,0,0,
+msgbox01,104,UI\Game\theme01\party_popup_base.dds,188,296,132,24,0,0,0,0,
+msgbox01,110,UI\Game\theme01\party_popup_base.dds,380,128,132,24,0,0,0,0,
+msgbox01,111,UI\Game\theme01\party_popup_base.dds,380,152,132,24,0,0,0,0,
+msgbox01,112,UI\Game\theme01\party_popup_base.dds,380,176,132,24,0,0,0,0,
+msgbox01,113,UI\Game\theme01\party_popup_base.dds,380,200,132,24,0,0,0,0,
+msgbox01,114,UI\Game\theme01\party_popup_base.dds,380,224,132,24,0,0,0,0,
+msgbox01,115,UI\Game\theme01\party_popup_base.dds,380,248,132,24,0,0,0,0,
+msgbox01,116,UI\Game\theme01\party_popup_base.dds,380,272,132,24,0,0,0,0,
+msgbox01,117,UI\Game\theme01\party_popup_base.dds,380,296,132,24,0,0,0,0,
+msgbox01,118,UI\Game\theme01\party_popup_base.dds,380,320,132,24,0,0,0,0,
+msgbox01,119,UI\Game\theme01\party_popup_base.dds,380,344,132,24,0,0,0,0,
+msgbox01,120,UI\Game\theme01\party_popup_base.dds,380,368,132,24,0,0,0,0,
+msgbox01,121,UI\Game\theme01\party_popup_base.dds,380,392,132,24,0,0,0,0,
+msgbox01,122,UI\Game\theme01\death.dds,0,199,132,24,0,0,0,0,
+msgbox02,130,UI\Game\theme01\add_popup.dds,0,0,284,109,0,0,0,0,
+msgbox02,131,UI\Game\theme01\add_popup.dds,0,109,284,109,0,0,0,0,
+msgbox02,132,UI\Game\theme01\add_popup.dds,284,0,94,32,0,0,0,0,
+msgbox02,133,UI\Game\theme01\add_popup.dds,284,32,94,32,0,0,0,0,
+msgbox02,134,UI\Game\theme01\add_popup.dds,284,64,94,32,0,0,0,0,
+msgbox03,1,UI\Game\theme01\new_pop.dds,0,0,284,161,0,0,0,0,
+msgbox03,10,UI\Game\theme01\new_pop.dds,298,0,5,12,0,0,0,0,
+msgbox03,20,UI\Game\theme01\new_pop.dds,322,0,130,20,0,0,0,0,
+msgbox03,21,UI\Game\theme01\new_pop.dds,322,20,130,20,0,0,0,0,
+msgbox03,30,UI\Game\theme01\new_pop.dds,322,42,94,32,0,0,0,0,
+msgbox03,31,UI\Game\theme01\new_pop.dds,322,74,94,32,0,0,0,0,
+msgbox03,32,UI\Game\theme01\new_pop.dds,322,106,94,32,0,0,0,0,
+msgbox04,1,UI\Game\Messenger\add_pop_b.dds,0,0,132,24,0,0,0,0,
+msgbox05,1,UI\Game\Messenger\add_pop_b.dds,0,48,132,24,0,0,0,0,스탯초기화글씨
+msgbox06,1,UI\Game\Messenger\add_pop_b.dds,0,72,132,24,0,0,0,0,권한변경글씨
+
+
+Mainbar,1,UI\Game\theme01\mainbar.dds,0,0,350,79,0,0,0,0,
+Mainbar,2,UI\Game\theme01\mainbar.dds,0,79,336,88,0,0,0,0,
+Mainbar,3,UI\Game\theme01\mainbar.dds,0,167,338,80,0,0,0,0,
+Mainbar,4,UI\Game\theme01\mainbar.dds,0,473,325,11,0,0,0,0,
+
+Mainbar,10,UI\Game\theme01\mainbar.dds,350,0,59,62,0,0,0,0,
+Mainbar,11,UI\Game\theme01\mainbar.dds,411,0,60,62,0,0,0,0,
+
+Mainbar,20,UI\Game\theme01\mainbar.dds,476,0,18,19,0,0,0,0,
+Mainbar,21,UI\Game\theme01\mainbar.dds,476,19,18,19,0,0,0,0,
+Mainbar,22,UI\Game\theme01\mainbar.dds,476,38,18,19,0,0,0,0,
+Mainbar,23,UI\Game\theme01\mainbar.dds,476,57,18,19,0,0,0,0,
+
+Mainbar,30,UI\Game\theme01\mainbar.dds,494,0,18,19,0,0,0,0,
+Mainbar,31,UI\Game\theme01\mainbar.dds,494,19,18,19,0,0,0,0,
+Mainbar,32,UI\Game\theme01\mainbar.dds,494,38,18,19,0,0,0,0,
+Mainbar,33,UI\Game\theme01\mainbar.dds,494,57,18,19,0,0,0,0,
+
+Mainbar,40,UI\Game\theme01\mainbar.dds,353,65,31,14,0,0,0,0,
+Mainbar,41,UI\Game\theme01\mainbar.dds,385,65,31,14,0,0,0,0,
+
+Mainbar,50,UI\Game\theme01\mainbar.dds,419,74,20,9,0,0,0,0,
+Mainbar,51,UI\Game\theme01\mainbar.dds,440,74,20,9,0,0,0,0,
+
+Mainbar,80,UI\Game\theme01\mainbar.dds,456,65,3,5,0,0,0,0,
+Mainbar,81,UI\Game\theme01\mainbar.dds,459,65,3,5,0,0,0,0,
+Mainbar,82,UI\Game\theme01\mainbar.dds,462,65,3,5,0,0,0,0,
+
+Mainbar,90,UI\Game\theme01\mainbar.dds,356,85,52,51,0,0,0,0,
+Mainbar,91,UI\Game\theme01\mainbar.dds,408,85,52,51,0,0,0,0,
+Mainbar,92,UI\Game\theme01\mainbar.dds,460,85,52,51,0,0,0,0,
+
+Mainbar,100,UI\Game\theme01\mainbar.dds,356,136,52,51,0,0,0,0,
+Mainbar,101,UI\Game\theme01\mainbar.dds,408,136,52,51,0,0,0,0,
+Mainbar,102,UI\Game\theme01\mainbar.dds,460,136,52,51,0,0,0,0,
+
+Mainbar,110,UI\Game\theme01\mainbar.dds,356,187,52,51,0,0,0,0,
+Mainbar,111,UI\Game\theme01\mainbar.dds,408,187,52,51,0,0,0,0,
+Mainbar,112,UI\Game\theme01\mainbar.dds,460,187,52,51,0,0,0,0,
+
+Mainbar,120,UI\Game\theme01\mainbar.dds,0,247,33,37,0,0,0,0,
+Mainbar,121,UI\Game\theme01\mainbar.dds,33,247,33,37,0,0,0,0,
+Mainbar,122,UI\Game\theme01\mainbar.dds,66,247,33,37,0,0,0,0,
+Mainbar,123,UI\Game\theme01\mainbar.dds,99,247,33,37,0,0,0,0,
+Mainbar,124,UI\Game\theme01\mainbar.dds,132,247,33,37,0,0,0,0,
+Mainbar,125,UI\Game\theme01\mainbar.dds,165,247,33,37,0,0,0,0,
+
+Mainbar,130,UI\Game\theme01\mainbar.dds,0,284,33,37,0,0,0,0,
+Mainbar,131,UI\Game\theme01\mainbar.dds,33,284,33,37,0,0,0,0,
+Mainbar,132,UI\Game\theme01\mainbar.dds,66,284,33,37,0,0,0,0,
+Mainbar,133,UI\Game\theme01\mainbar.dds,99,284,33,37,0,0,0,0,
+Mainbar,134,UI\Game\theme01\mainbar.dds,132,284,33,37,0,0,0,0,
+Mainbar,135,UI\Game\theme01\mainbar.dds,165,284,33,37,0,0,0,0,
+
+Mainbar,140,UI\Game\theme01\mainbar.dds,0,321,33,37,0,0,0,0,
+Mainbar,141,UI\Game\theme01\mainbar.dds,33,321,33,37,0,0,0,0,
+Mainbar,142,UI\Game\theme01\mainbar.dds,66,321,33,37,0,0,0,0,
+Mainbar,143,UI\Game\theme01\mainbar.dds,99,321,33,37,0,0,0,0,
+Mainbar,144,UI\Game\theme01\mainbar.dds,132,321,33,37,0,0,0,0,
+Mainbar,145,UI\Game\theme01\mainbar.dds,165,321,33,37,0,0,0,0,
+
+Mainbar,150,UI\Game\theme01\mainbar.dds,0,358,33,37,0,0,0,0,
+Mainbar,151,UI\Game\theme01\mainbar.dds,33,358,33,37,0,0,0,0,
+Mainbar,152,UI\Game\theme01\mainbar.dds,66,358,33,37,0,0,0,0,
+Mainbar,153,UI\Game\theme01\mainbar.dds,99,358,33,37,0,0,0,0,
+Mainbar,154,UI\Game\theme01\mainbar.dds,132,358,33,37,0,0,0,0,
+Mainbar,155,UI\Game\theme01\mainbar.dds,165,358,33,37,0,0,0,0,
+
+Mainbar,160,UI\Game\theme01\mainbar.dds,0,395,33,37,0,0,0,0,
+Mainbar,161,UI\Game\theme01\mainbar.dds,33,395,33,37,0,0,0,0,
+Mainbar,162,UI\Game\theme01\mainbar.dds,66,395,33,37,0,0,0,0,
+Mainbar,163,UI\Game\theme01\mainbar.dds,99,395,33,37,0,0,0,0,
+Mainbar,164,UI\Game\theme01\mainbar.dds,132,395,33,37,0,0,0,0,
+Mainbar,165,UI\Game\theme01\mainbar.dds,165,395,33,37,0,0,0,0,
+
+Mainbar,180,UI\Game\theme01\mainbar.dds,198,284,33,37,0,0,0,0,
+Mainbar,181,UI\Game\theme01\mainbar.dds,231,284,33,37,0,0,0,0,
+Mainbar,182,UI\Game\theme01\mainbar.dds,264,284,33,37,0,0,0,0,
+Mainbar,183,UI\Game\theme01\mainbar.dds,297,284,33,37,0,0,0,0,
+
+Mainbar,190,UI\Game\theme01\mainbar.dds,0,432,33,37,0,0,0,0,
+Mainbar,191,UI\Game\theme01\mainbar.dds,33,432,33,37,0,0,0,0,
+Mainbar,192,UI\Game\theme01\mainbar.dds,66,432,33,37,0,0,0,0,
+Mainbar,193,UI\Game\theme01\mainbar.dds,99,432,33,37,0,0,0,0,
+Mainbar,194,UI\Game\theme01\mainbar.dds,132,432,33,37,0,0,0,0,
+Mainbar,195,UI\Game\theme01\mainbar.dds,165,432,33,37,0,0,0,0,
+
+Mainbar,200,UI\Game\theme01\mainbar.dds,356,238,35,24,0,0,0,0,
+Mainbar,201,UI\Game\theme01\mainbar.dds,356,262,35,24,0,0,0,0,
+Mainbar,202,UI\Game\theme01\mainbar.dds,356,286,35,24,0,0,0,0,
+Mainbar,203,UI\Game\theme01\mainbar.dds,356,309,35,24,0,0,0,0,
+
+Mainbar,205,UI\Game\theme01\mainbar.dds,356,335,35,24,0,0,0,0,
+Mainbar,206,UI\Game\theme01\mainbar.dds,356,359,35,24,0,0,0,0,
+Mainbar,207,UI\Game\theme01\mainbar.dds,356,383,35,24,0,0,0,0,
+Mainbar,208,UI\Game\theme01\mainbar.dds,356,406,35,24,0,0,0,0,
+
+Mainbar,210,UI\Game\theme01\mainbar.dds,391,238,35,24,0,0,0,0,
+Mainbar,211,UI\Game\theme01\mainbar.dds,391,262,35,24,0,0,0,0,
+Mainbar,212,UI\Game\theme01\mainbar.dds,391,286,35,24,0,0,0,0,
+Mainbar,213,UI\Game\theme01\mainbar.dds,391,309,35,24,0,0,0,0,
+
+Mainbar,220,UI\Game\theme01\mainbar.dds,426,238,35,24,0,0,0,0,
+Mainbar,221,UI\Game\theme01\mainbar.dds,426,262,35,24,0,0,0,0,
+Mainbar,222,UI\Game\theme01\mainbar.dds,426,286,35,24,0,0,0,0,
+Mainbar,223,UI\Game\theme01\mainbar.dds,426,309,35,24,0,0,0,0,
+
+Mainbar,230,UI\Game\theme01\mainbar.dds,461,238,35,24,0,0,0,0,
+Mainbar,231,UI\Game\theme01\mainbar.dds,461,262,35,24,0,0,0,0,
+Mainbar,232,UI\Game\theme01\mainbar.dds,461,286,35,24,0,0,0,0,
+Mainbar,233,UI\Game\theme01\mainbar.dds,461,309,35,24,0,0,0,0,
+
+Mainbar,234,UI\Game\theme01\mainbar.dds,0,432,171,54,0,0,0,0,
+
+Mainbar,235,UI\Game\theme01\mainbar.dds,171,448,34,38,0,0,0,0,
+
+Mainbar,236,UI\Game\theme01\mainbar.dds,205,451,11,32,0,0,0,0,
+Mainbar,237,UI\Game\theme01\mainbar.dds,216,451,11,32,0,0,0,0,
+
+Mainbar,238,UI\Game\theme01\mainbar.dds,0,486,25,26,0,0,0,0,
+Mainbar,239,UI\Game\theme01\mainbar.dds,25,486,319,26,0,0,0,0,
+
+Mainbar,240,UI\Game\theme01\mainbar.dds,443,484,6,8,0,0,0,0,
+Mainbar,241,UI\Game\theme01\mainbar.dds,449,484,6,8,0,0,0,0,
+Mainbar,242,UI\Game\theme01\mainbar.dds,455,484,6,8,0,0,0,0,
+
+Mainbar,243,UI\Game\theme01\mainbar.dds,443,492,19,20,0,0,0,0,
+Mainbar,244,UI\Game\theme01\mainbar.dds,462,492,19,20,0,0,0,0,
+
+Mainbar,245,UI\Game\theme01\mainbar.dds,198,358,18,19,0,0,0,0,
+Mainbar,246,UI\Game\theme01\mainbar.dds,198,377,18,19,0,0,0,0,
+
+Mainbar,247,UI\Game\theme01\mainbar.dds,216,358,18,19,0,0,0,0,
+Mainbar,248,UI\Game\theme01\mainbar.dds,216,377,18,19,0,0,0,0,
+
+Mainbar,249,UI\Game\theme01\mainbar.dds,234,358,18,19,0,0,0,0,
+Mainbar,250,UI\Game\theme01\mainbar.dds,234,377,18,19,0,0,0,0,
+
+Mainbar,251,UI\Game\theme01\mainbar.dds,252,358,18,27,0,0,0,0,
+Mainbar,252,UI\Game\theme01\mainbar.dds,252,385,18,27,0,0,0,0,
+
+Mainbar,341,UI\Game\theme01\mainbar.dds,391,335,35,24,0,0,0,0,임원
+Mainbar,342,UI\Game\theme01\mainbar.dds,391,359,35,24,0,0,0,0,
+Mainbar,343,UI\Game\theme01\mainbar.dds,391,383,35,24,0,0,0,0,
+
+Mainbar,344,UI\Game\theme01\mainbar.dds,391,406,35,24,0,0,0,0,
+Mainbar,345,UI\Game\theme01\mainbar.dds,426,335,35,24,0,0,0,0,비활성화
+
+Mainbar,351,UI\Game\theme01\mainbar.dds,461,335,35,24,0,0,0,0,전체
+Mainbar,352,UI\Game\theme01\mainbar.dds,461,359,35,24,0,0,0,0,
+Mainbar,353,UI\Game\theme01\mainbar.dds,461,383,35,24,0,0,0,0,
+Mainbar,354,UI\Game\theme01\mainbar.dds,461,406,35,24,0,0,0,0,
+
+Mainbar,360,UI\Game\theme01\mainbar.dds,198,432,33,37,0,0,0,0,
+Mainbar,361,UI\Game\theme01\mainbar.dds,231,432,33,37,0,0,0,0,
+Mainbar,362,UI\Game\theme01\mainbar.dds,264,432,33,37,0,0,0,0,
+Mainbar,363,UI\Game\theme01\mainbar.dds,297,432,33,37,0,0,0,0,
+Mainbar,364,UI\Game\theme01\mainbar.dds,330,432,33,37,0,0,0,0,
+Mainbar,365,UI\Game\theme01\mainbar.dds,363,432,33,37,0,0,0,0,
+
+Mainbar_c,1,UI\Game\theme01\mainbar_c.dds,0,0,105,12,0,0,0,0,가로선
+Mainbar_c,2,UI\Game\theme01\mainbar_c.dds,108,1,12,12,0,0,0,0,핸들
+
+Mainbar_c,11,UI\Game\theme01\mainbar_c.dds,2,14,18,19,0,0,0,0,액션단축 버튼
+Mainbar_c,12,UI\Game\theme01\mainbar_c.dds,2,34,18,19,0,0,0,0,
+
+Mainbar_c,21,UI\Game\theme01\mainbar_c.dds,21,14,18,19,0,0,0,0,사이즈 조절 버튼
+Mainbar_c,22,UI\Game\theme01\mainbar_c.dds,21,34,18,19,0,0,0,0,
+
+Mainbar_c,31,UI\Game\theme01\mainbar_c.dds,40,14,18,19,0,0,0,0,명령어 안내 버튼
+Mainbar_c,32,UI\Game\theme01\mainbar_c.dds,40,34,18,19,0,0,0,0,
+
+Mainbar_c,41,UI\Game\theme01\mainbar_c.dds,59,14,18,19,0,0,0,0,로그 저장 버튼
+Mainbar_c,42,UI\Game\theme01\mainbar_c.dds,59,34,18,19,0,0,0,0,
+
+Store,1,UI\Game\theme01\store.dds,0,0,339,457,0,0,0,0,
+
+Store,10,UI\Game\theme01\store.dds,339,0,64,26,0,0,0,0,무기류
+Store,11,UI\Game\theme01\store.dds,339,26,64,26,0,0,0,0,
+Store,12,UI\Game\theme01\store.dds,339,52,64,26,0,0,0,0,
+Store,13,UI\Game\theme01\store.dds,339,78,64,26,0,0,0,0,
+
+Store,20,UI\Game\theme01\store.dds,415,0,64,26,0,0,0,0,갑옷류
+Store,21,UI\Game\theme01\store.dds,415,26,64,26,0,0,0,0,
+Store,22,UI\Game\theme01\store.dds,415,52,64,26,0,0,0,0,
+Store,23,UI\Game\theme01\store.dds,415,78,64,26,0,0,0,0,
+
+Store,30,UI\Game\theme01\store.dds,339,104,64,26,0,0,0,0,잡화
+Store,31,UI\Game\theme01\store.dds,339,130,64,26,0,0,0,0,
+Store,32,UI\Game\theme01\store.dds,339,156,64,26,0,0,0,0,
+Store,33,UI\Game\theme01\store.dds,339,182,64,26,0,0,0,0,
+
+Store,40,UI\Game\theme01\store.dds,339,208,62,25,0,0,0,0,
+Store,41,UI\Game\theme01\store.dds,339,233,62,25,0,0,0,0,
+Store,42,UI\Game\theme01\store.dds,339,260,62,25,0,0,0,0,
+
+
+Store,50,UI\Game\theme01\store.dds,491,0,21,21,0,0,0,0,
+Store,51,UI\Game\theme01\store.dds,491,21,21,21,0,0,0,0,
+Store,52,UI\Game\theme01\store.dds,491,42,21,21,0,0,0,0,
+
+Store,60,UI\Game\theme01\store_01.dds,0,0,64,26,0,0,0,0,마스터
+Store,61,UI\Game\theme01\store_01.dds,0,26,64,26,0,0,0,0,
+Store,62,UI\Game\theme01\store_01.dds,0,52,64,26,0,0,0,0,
+Store,63,UI\Game\theme01\store_01.dds,0,78,64,26,0,0,0,0,
+
+Store,70,UI\Game\theme01\store_01.dds,0,104,64,26,0,0,0,0,파이어
+Store,71,UI\Game\theme01\store_01.dds,0,130,64,26,0,0,0,0,
+Store,72,UI\Game\theme01\store_01.dds,0,156,64,26,0,0,0,0,
+Store,73,UI\Game\theme01\store_01.dds,0,182,64,26,0,0,0,0,
+
+Store,80,UI\Game\theme01\store_01.dds,67,0,64,26,0,0,0,0,특성
+Store,81,UI\Game\theme01\store_01.dds,67,26,64,26,0,0,0,0,
+Store,82,UI\Game\theme01\store_01.dds,67,52,64,26,0,0,0,0,
+Store,83,UI\Game\theme01\store_01.dds,67,78,64,26,0,0,0,0,
+
+Store,90,UI\Game\theme01\store_01.dds,67,104,64,26,0,0,0,0,아이스
+Store,91,UI\Game\theme01\store_01.dds,67,130,64,26,0,0,0,0,
+Store,92,UI\Game\theme01\store_01.dds,67,156,64,26,0,0,0,0,
+Store,93,UI\Game\theme01\store_01.dds,67,182,64,26,0,0,0,0,
+
+Store,100,UI\Game\theme01\store_01.dds,134,0,64,26,0,0,0,0,보조
+Store,101,UI\Game\theme01\store_01.dds,134,26,64,26,0,0,0,0,
+Store,102,UI\Game\theme01\store_01.dds,134,52,64,26,0,0,0,0,
+Store,103,UI\Game\theme01\store_01.dds,134,78,64,26,0,0,0,0,
+
+Store,110,UI\Game\theme01\store_01.dds,134,104,64,26,0,0,0,0,라이트닝
+Store,111,UI\Game\theme01\store_01.dds,134,130,64,26,0,0,0,0,
+Store,112,UI\Game\theme01\store_01.dds,134,156,64,26,0,0,0,0,
+Store,113,UI\Game\theme01\store_01.dds,134,182,64,26,0,0,0,0,
+
+Store,120,UI\Game\theme01\store_01.dds,201,0,64,26,0,0,0,0,아처
+Store,121,UI\Game\theme01\store_01.dds,201,26,64,26,0,0,0,0,
+Store,122,UI\Game\theme01\store_01.dds,201,52,64,26,0,0,0,0,
+Store,123,UI\Game\theme01\store_01.dds,201,78,64,26,0,0,0,0,
+
+Store,130,UI\Game\theme01\store_01.dds,201,104,64,26,0,0,0,0,비스트
+Store,131,UI\Game\theme01\store_01.dds,201,130,64,26,0,0,0,0,
+Store,132,UI\Game\theme01\store_01.dds,201,156,64,26,0,0,0,0,
+Store,133,UI\Game\theme01\store_01.dds,201,182,64,26,0,0,0,0,
+
+Store,140,UI\Game\theme01\store_01.dds,268,0,64,26,0,0,0,0,컴뱃
+Store,141,UI\Game\theme01\store_01.dds,268,26,64,26,0,0,0,0,
+Store,142,UI\Game\theme01\store_01.dds,268,52,64,26,0,0,0,0,
+Store,143,UI\Game\theme01\store_01.dds,268,78,64,26,0,0,0,0,
+
+Store,150,UI\Game\theme01\store_01.dds,268,104,64,26,0,0,0,0,리비도
+Store,151,UI\Game\theme01\store_01.dds,268,130,64,26,0,0,0,0,
+Store,152,UI\Game\theme01\store_01.dds,268,156,64,26,0,0,0,0,
+Store,153,UI\Game\theme01\store_01.dds,268,182,64,26,0,0,0,0,
+
+Store,160,UI\Game\theme01\store_01.dds,335,0,64,26,0,0,0,0,헌터
+Store,161,UI\Game\theme01\store_01.dds,335,26,64,26,0,0,0,0,
+Store,162,UI\Game\theme01\store_01.dds,335,52,64,26,0,0,0,0,
+Store,163,UI\Game\theme01\store_01.dds,335,78,64,26,0,0,0,0,
+
+Store,170,UI\Game\theme01\store_01.dds,335,104,64,26,0,0,0,0,코스모스
+Store,171,UI\Game\theme01\store_01.dds,335,130,64,26,0,0,0,0,
+Store,172,UI\Game\theme01\store_01.dds,335,156,64,26,0,0,0,0,
+Store,173,UI\Game\theme01\store_01.dds,335,182,64,26,0,0,0,0,
+
+Store,180,UI\Game\theme01\store_01.dds,402,0,64,26,0,0,0,0,에너지
+Store,181,UI\Game\theme01\store_01.dds,402,26,64,26,0,0,0,0,
+Store,182,UI\Game\theme01\store_01.dds,402,52,64,26,0,0,0,0,
+Store,183,UI\Game\theme01\store_01.dds,402,78,64,26,0,0,0,0,
+
+Store,190,UI\Game\theme01\store_01.dds,402,104,64,26,0,0,0,0,포션
+Store,191,UI\Game\theme01\store_01.dds,402,130,64,26,0,0,0,0,
+
+Store,192,UI\Game\theme01\store_01.dds,402,156,64,26,0,0,0,0,
+Store,193,UI\Game\theme01\store_01.dds,402,182,64,26,0,0,0,0,
+
+Store,480,UI\Game\theme01\store_a.dds,201,106,64,26,0,0,0,0,건틀렛
+Store,481,UI\Game\theme01\store_a.dds,201,132,64,26,0,0,0,0,
+Store,482,UI\Game\theme01\store_a.dds,201,158,64,26,0,0,0,0,
+Store,483,UI\Game\theme01\store_a.dds,201,182,64,26,0,0,0,0,
+Store,490,UI\Game\theme01\store_a.dds,134,106,64,26,0,0,0,0,혼
+Store,491,UI\Game\theme01\store_a.dds,134,132,64,26,0,0,0,0,
+Store,492,UI\Game\theme01\store_a.dds,134,158,64,26,0,0,0,0,
+Store,493,UI\Game\theme01\store_a.dds,134,182,64,26,0,0,0,0,
+Store,510,UI\Game\theme01\store_a.dds,0,0,64,26,0,0,0,0,팬츠
+Store,511,UI\Game\theme01\store_a.dds,0,26,64,26,0,0,0,0,
+Store,512,UI\Game\theme01\store_a.dds,0,52,64,26,0,0,0,0,
+Store,513,UI\Game\theme01\store_a.dds,0,78,64,26,0,0,0,0,
+Store,520,UI\Game\theme01\store_a.dds,67,0,64,26,0,0,0,0,부츠
+Store,521,UI\Game\theme01\store_a.dds,67,26,64,26,0,0,0,0,
+Store,522,UI\Game\theme01\store_a.dds,67,52,64,26,0,0,0,0,
+Store,523,UI\Game\theme01\store_a.dds,67,78,64,26,0,0,0,0,
+Store,530,UI\Game\theme01\store_a.dds,134,0,64,26,0,0,0,0,글러브
+Store,531,UI\Game\theme01\store_a.dds,134,26,64,26,0,0,0,0,
+Store,532,UI\Game\theme01\store_a.dds,134,52,64,26,0,0,0,0,
+Store,533,UI\Game\theme01\store_a.dds,134,78,64,26,0,0,0,0,
+Store,540,UI\Game\theme01\store_a.dds,201,0,64,26,0,0,0,0,아머
+Store,541,UI\Game\theme01\store_a.dds,201,26,64,26,0,0,0,0,
+Store,542,UI\Game\theme01\store_a.dds,201,52,64,26,0,0,0,0,
+Store,543,UI\Game\theme01\store_a.dds,201,78,64,26,0,0,0,0,
+Store,550,UI\Game\theme01\store_a.dds,268,0,64,26,0,0,0,0,헬멧
+Store,551,UI\Game\theme01\store_a.dds,268,26,64,26,0,0,0,0,
+Store,552,UI\Game\theme01\store_a.dds,268,52,64,26,0,0,0,0,
+Store,553,UI\Game\theme01\store_a.dds,268,78,64,26,0,0,0,0,
+Store,560,UI\Game\theme01\store_a.dds,335,0,64,26,0,0,0,0,근거리
+Store,561,UI\Game\theme01\store_a.dds,335,26,64,26,0,0,0,0,
+Store,562,UI\Game\theme01\store_a.dds,335,52,64,26,0,0,0,0,
+Store,563,UI\Game\theme01\store_a.dds,335,78,64,26,0,0,0,0,
+Store,570,UI\Game\theme01\store_a.dds,402,0,64,26,0,0,0,0,원거리
+Store,571,UI\Game\theme01\store_a.dds,402,26,64,26,0,0,0,0,
+Store,572,UI\Game\theme01\store_a.dds,402,52,64,26,0,0,0,0,
+Store,573,UI\Game\theme01\store_a.dds,402,78,64,26,0,0,0,0,
+Store,580,UI\Game\theme01\store_a.dds,0,104,64,26,0,0,0,0,마법
+Store,581,UI\Game\theme01\store_a.dds,0,130,64,26,0,0,0,0,
+Store,582,UI\Game\theme01\store_a.dds,0,156,64,26,0,0,0,0,
+Store,583,UI\Game\theme01\store_a.dds,0,182,64,26,0,0,0,0,
+Store,590,UI\Game\theme01\store_a.dds,67,106,64,26,0,0,0,0,마샬아츠
+Store,591,UI\Game\theme01\store_a.dds,67,132,64,26,0,0,0,0,
+Store,592,UI\Game\theme01\store_a.dds,67,158,64,26,0,0,0,0,
+Store,593,UI\Game\theme01\store_a.dds,67,182,64,26,0,0,0,0,
+
+Store,600,UI\Game\theme01\store_b.dds,0,0,64,26,0,0,0,0,메이스
+Store,601,UI\Game\theme01\store_b.dds,0,26,64,26,0,0,0,0,
+Store,602,UI\Game\theme01\store_b.dds,0,52,64,26,0,0,0,0,
+Store,603,UI\Game\theme01\store_b.dds,0,78,64,26,0,0,0,0,
+Store,610,UI\Game\theme01\store_b.dds,67,0,64,26,0,0,0,0,소드
+Store,611,UI\Game\theme01\store_b.dds,67,26,64,26,0,0,0,0,
+Store,612,UI\Game\theme01\store_b.dds,67,52,64,26,0,0,0,0,
+Store,613,UI\Game\theme01\store_b.dds,67,78,64,26,0,0,0,0,
+Store,620,UI\Game\theme01\store_b.dds,134,0,64,26,0,0,0,0,엑스
+Store,621,UI\Game\theme01\store_b.dds,134,26,64,26,0,0,0,0,
+Store,622,UI\Game\theme01\store_b.dds,134,52,64,26,0,0,0,0,
+Store,623,UI\Game\theme01\store_b.dds,134,78,64,26,0,0,0,0,
+Store,630,UI\Game\theme01\store_b.dds,201,0,64,26,0,0,0,0,활
+Store,631,UI\Game\theme01\store_b.dds,201,26,64,26,0,0,0,0,
+Store,632,UI\Game\theme01\store_b.dds,201,52,64,26,0,0,0,0,
+Store,633,UI\Game\theme01\store_b.dds,201,78,64,26,0,0,0,0,
+Store,640,UI\Game\theme01\store_b.dds,268,0,64,26,0,0,0,0,석궁
+Store,641,UI\Game\theme01\store_b.dds,268,26,64,26,0,0,0,0,
+Store,642,UI\Game\theme01\store_b.dds,268,52,64,26,0,0,0,0,
+Store,643,UI\Game\theme01\store_b.dds,268,78,64,26,0,0,0,0,
+Store,650,UI\Game\theme01\store_b.dds,335,0,64,26,0,0,0,0,단검
+Store,651,UI\Game\theme01\store_b.dds,335,26,64,26,0,0,0,0,
+Store,652,UI\Game\theme01\store_b.dds,335,52,64,26,0,0,0,0,
+Store,653,UI\Game\theme01\store_b.dds,335,78,64,26,0,0,0,0,
+Store,660,UI\Game\theme01\store_b.dds,402,0,64,26,0,0,0,0,스태프
+Store,661,UI\Game\theme01\store_b.dds,402,26,64,26,0,0,0,0,
+Store,662,UI\Game\theme01\store_b.dds,402,52,64,26,0,0,0,0,
+Store,663,UI\Game\theme01\store_b.dds,402,78,64,26,0,0,0,0,
+Store,670,UI\Game\theme01\store_b.dds,0,104,64,26,0,0,0,0,완드
+Store,671,UI\Game\theme01\store_b.dds,0,130,64,26,0,0,0,0,
+Store,672,UI\Game\theme01\store_b.dds,0,156,64,26,0,0,0,0,
+Store,673,UI\Game\theme01\store_b.dds,0,182,64,26,0,0,0,0,
+Store,680,UI\Game\theme01\store_b.dds,67,104,64,26,0,0,0,0,쉴드
+Store,681,UI\Game\theme01\store_b.dds,67,130,64,26,0,0,0,0,
+Store,682,UI\Game\theme01\store_b.dds,67,156,64,26,0,0,0,0,
+
+Store,683,UI\Game\theme01\store_b.dds,67,182,64,26,0,0,0,0,
+Store,690,UI\Game\theme01\store_b.dds,134,104,64,26,0,0,0,0,트윈소드
+Store,691,UI\Game\theme01\store_b.dds,134,130,64,26,0,0,0,0,
+Store,692,UI\Game\theme01\store_b.dds,134,156,64,26,0,0,0,0,
+Store,693,UI\Game\theme01\store_b.dds,134,182,64,26,0,0,0,0,
+Store,700,UI\Game\theme01\store_b.dds,201,104,64,26,0,0,0,0,블러드 윕
+Store,701,UI\Game\theme01\store_b.dds,201,130,64,26,0,0,0,0,
+Store,702,UI\Game\theme01\store_b.dds,201,156,64,26,0,0,0,0,
+Store,703,UI\Game\theme01\store_b.dds,201,182,64,26,0,0,0,0,
+Store,710,UI\Game\theme01\store_b.dds,268,104,64,26,0,0,0,0,힐
+Store,711,UI\Game\theme01\store_b.dds,268,130,64,26,0,0,0,0,
+Store,712,UI\Game\theme01\store_b.dds,268,156,64,26,0,0,0,0,
+Store,713,UI\Game\theme01\store_b.dds,268,182,64,26,0,0,0,0,
+Store,720,UI\Game\theme01\store_b.dds,335,104,64,26,0,0,0,0,저주
+Store,721,UI\Game\theme01\store_b.dds,335,130,64,26,0,0,0,0,
+Store,722,UI\Game\theme01\store_b.dds,335,156,64,26,0,0,0,0,
+Store,723,UI\Game\theme01\store_b.dds,335,182,64,26,0,0,0,0,
+Store,730,UI\Game\theme01\store_b.dds,402,104,64,26,0,0,0,0,블러드
+Store,731,UI\Game\theme01\store_b.dds,402,130,64,26,0,0,0,0,
+Store,732,UI\Game\theme01\store_b.dds,402,156,64,26,0,0,0,0,
+Store,733,UI\Game\theme01\store_b.dds,402,182,64,26,0,0,0,0,
+
+Store,800,ui\game\theme01\store_c.dds,0,0,67,26,0,0,0,0,미끼
+Store,801,ui\game\theme01\store_c.dds,0,26,67,26,0,0,0,0,
+Store,802,ui\game\theme01\store_c.dds,0,52,67,26,0,0,0,0,
+Store,803,ui\game\theme01\store_c.dds,0,78,67,26,0,0,0,0,
+
+Store,804,ui\game\theme01\store_c.dds,67,0,67,26,0,0,0,0,스킬
+Store,805,ui\game\theme01\store_c.dds,67,26,67,26,0,0,0,0,
+Store,806,ui\game\theme01\store_c.dds,67,52,67,26,0,0,0,0,
+Store,807,ui\game\theme01\store_c.dds,67,78,67,26,0,0,0,0,
+
+Store,808,ui\game\theme01\store_c.dds,134,0,67,26,0,0,0,0,낚시대
+Store,809,ui\game\theme01\store_c.dds,134,26,67,26,0,0,0,0,
+Store,810,ui\game\theme01\store_c.dds,134,52,67,26,0,0,0,0,
+Store,811,ui\game\theme01\store_c.dds,134,78,67,26,0,0,0,0,
+
+trade,1,UI\Game\trade\trade_a.dds,0,0,333,493,0,0,0,0,
+trade,2,UI\Game\trade\trade_b.dds,0,0,333,493,0,0,0,0,
+trade,3,UI\Game\trade\trade_c.dds,0,0,333,36,0,0,0,0,
+trade,4,UI\Game\trade\trade_c.dds,0,36,333,36,0,0,0,0,
+trade,10,UI\Game\trade\trade_c.dds,334,0,53,23,0,0,0,0,
+trade,11,UI\Game\trade\trade_c.dds,334,23,53,23,0,0,0,0,
+trade,20,UI\Game\trade\trade_c.dds,0,73,124,25,0,0,0,0,
+trade,21,UI\Game\trade\trade_c.dds,0,99,124,25,0,0,0,0,
+trade,22,UI\Game\trade\trade_c.dds,0,125,124,25,0,0,0,0,
+trade,23,UI\Game\trade\trade_c.dds,0,151,124,25,0,0,0,0,
+trade,30,UI\Game\trade\trade_c.dds,125,73,124,25,0,0,0,0,
+trade,31,UI\Game\trade\trade_c.dds,125,99,124,25,0,0,0,0,
+trade,32,UI\Game\trade\trade_c.dds,125,125,124,25,0,0,0,0,
+trade,33,UI\Game\trade\trade_c.dds,125,151,124,25,0,0,0,0,
+trade,40,UI\Game\trade\trade_c.dds,390,0,5,6,0,0,0,0,
+
+trade,100,UI\Game\theme01\Bubble.dds,0,0,20,20,4,4,4,4,pop
+
+repair,1,UI\Game\repair\repair_a.dds,0,0,40,101,0,0,0,0,1단계
+repair,2,UI\Game\repair\repair_a.dds,40,0,40,101,0,0,0,0,
+repair,3,UI\Game\repair\repair_a.dds,80,0,40,101,0,0,0,0,
+repair,4,UI\Game\repair\repair_a.dds,120,0,40,101,0,0,0,0,
+repair,5,UI\Game\repair\repair_a.dds,160,0,40,101,0,0,0,0,
+
+repair,11,UI\Game\repair\repair_a.dds,0,101,40,101,0,0,0,0,2단계
+repair,12,UI\Game\repair\repair_a.dds,40,0,40,101,0,0,0,0,
+repair,13,UI\Game\repair\repair_a.dds,80,0,40,101,0,0,0,0,
+repair,14,UI\Game\repair\repair_a.dds,120,0,40,101,0,0,0,0,
+repair,15,UI\Game\repair\repair_a.dds,160,0,40,101,0,0,0,0,
+
+
+repair,21,UI\Game\repair\repair_a.dds,0,202,40,101,0,0,0,0,3단계
+repair,22,UI\Game\repair\repair_a.dds,40,0,40,101,0,0,0,0,
+repair,23,UI\Game\repair\repair_a.dds,80,0,40,101,0,0,0,0,
+repair,24,UI\Game\repair\repair_a.dds,120,0,40,101,0,0,0,0,
+repair,25,UI\Game\repair\repair_a.dds,160,0,40,101,0,0,0,0,
+
+repair,31,UI\Game\repair\repair_a.dds,0,303,40,101,0,0,0,0,4단계
+repair,32,UI\Game\repair\repair_a.dds,40,0,40,101,0,0,0,0,
+repair,33,UI\Game\repair\repair_a.dds,80,0,40,101,0,0,0,0,
+repair,34,UI\Game\repair\repair_a.dds,120,0,40,101,0,0,0,0,
+repair,35,UI\Game\repair\repair_a.dds,160,0,40,101,0,0,0,0,
+
+repair,41,UI\Game\repair\repair_a.dds,200,0,28,73,0,0,0,0,칼
+
+repair,42,UI\Game\repair\repair_a.dds,228,0,28,73,0,0,0,0,
+repair,43,UI\Game\repair\repair_a.dds,256,0,28,73,0,0,0,0,
+repair,44,UI\Game\repair\repair_a.dds,284,0,28,73,0,0,0,0,
+
+repair,51,UI\Game\repair\repair_a.dds,200,73,28,73,0,0,0,0,활
+repair,52,UI\Game\repair\repair_a.dds,228,73,28,73,0,0,0,0,
+repair,53,UI\Game\repair\repair_a.dds,256,73,28,73,0,0,0,0,
+repair,54,UI\Game\repair\repair_a.dds,284,73,28,73,0,0,0,0,
+
+repair,61,UI\Game\repair\repair_a.dds,200,146,28,73,0,0,0,0,오브
+repair,62,UI\Game\repair\repair_a.dds,228,146,28,73,0,0,0,0,
+repair,63,UI\Game\repair\repair_a.dds,256,146,28,73,0,0,0,0,
+repair,64,UI\Game\repair\repair_a.dds,284,146,28,73,0,0,0,0,
+
+repair,71,UI\Game\repair\repair_a.dds,200,219,28,73,0,0,0,0,메이스
+repair,72,UI\Game\repair\repair_a.dds,228,219,28,73,0,0,0,0,
+repair,73,UI\Game\repair\repair_a.dds,256,219,28,73,0,0,0,0,
+repair,74,UI\Game\repair\repair_a.dds,284,219,28,73,0,0,0,0,
+
+repair,81,UI\Game\repair\repair_a.dds,200,292,28,73,0,0,0,0,도끼
+repair,82,UI\Game\repair\repair_a.dds,228,292,28,73,0,0,0,0,
+repair,83,UI\Game\repair\repair_a.dds,256,292,28,73,0,0,0,0,
+repair,84,UI\Game\repair\repair_a.dds,284,292,28,73,0,0,0,0,
+
+repair,91,UI\Game\repair\repair_a.dds,200,365,28,73,0,0,0,0,채칙
+repair,92,UI\Game\repair\repair_a.dds,228,365,28,73,0,0,0,0,
+repair,93,UI\Game\repair\repair_a.dds,256,365,28,73,0,0,0,0,
+repair,94,UI\Game\repair\repair_a.dds,284,365,28,73,0,0,0,0,
+
+repair,101,UI\Game\repair\repair_a.dds,200,438,28,73,0,0,0,0,방패
+repair,102,UI\Game\repair\repair_a.dds,228,438,28,73,0,0,0,0,
+repair,103,UI\Game\repair\repair_a.dds,256,438,28,73,0,0,0,0,
+repair,104,UI\Game\repair\repair_a.dds,284,438,28,73,0,0,0,0,
+
+repair,111,UI\Game\repair\repair.dds,0,0,333,481,0,0,0,0,수리 판넬
+
+repair,121,UI\Game\repair\repair.dds,336,0,60,25,0,0,0,0,수리 버튼
+repair,122,UI\Game\repair\repair.dds,336,25,60,25,0,0,0,0,
+repair,123,UI\Game\repair\repair.dds,336,50,60,25,0,0,0,0,
+
+repair,131,UI\Game\repair\repair.dds,396,0,60,25,0,0,0,0,모든장비
+repair,132,UI\Game\repair\repair.dds,396,25,60,25,0,0,0,0,
+repair,133,UI\Game\repair\repair.dds,396,50,60,25,0,0,0,0,
+
+repair,141,UI\Game\trade\trade_c.dds,0,177,333,48,0,0,0,0,수리 아랫부분  trade_c
+
+skill_line,10,UI\Game\skill\skill_line.dds,0,0,62,62,0,0,0,0,
+skill_line,5,UI\Game\skill\skill_line.dds,62,0,62,62,0,0,0,0,
+skill_line,9,UI\Game\skill\skill_line.dds,124,0,62,62,0,0,0,0,
+skill_line,3,UI\Game\skill\skill_line.dds,186,0,62,62,0,0,0,0,
+skill_line,13,UI\Game\skill\skill_line.dds,248,0,62,62,0,0,0,0,
+skill_line,12,UI\Game\skill\skill_line.dds,0,62,62,62,0,0,0,0,
+skill_line,6,UI\Game\skill\skill_line.dds,62,62,62,62,0,0,0,0,
+skill_line,11,UI\Game\skill\skill_line.dds,124,62,62,62,0,0,0,0,
+skill_line,15,UI\Game\skill\skill_line.dds,186,62,62,62,0,0,0,0,
+skill_line,14,UI\Game\skill\skill_line.dds,248,62,62,62,0,0,0,0,
+skill_line,8,UI\Game\skill\skill_line.dds,0,124,62,62,0,0,0,0,
+skill_line,2,UI\Game\skill\skill_line.dds,62,124,62,62,0,0,0,0,
+skill_line,1,UI\Game\skill\skill_line.dds,124,124,62,62,0,0,0,0,
+skill_line,4,UI\Game\skill\skill_line.dds,186,124,62,62,0,0,0,0,
+skill_line,7,UI\Game\skill\skill_line.dds,248,124,62,62,0,0,0,0,
+skill_line,26,UI\Game\skill\skill_line.dds,0,186,62,62,0,0,0,0,
+skill_line,21,UI\Game\skill\skill_line.dds,62,186,62,62,0,0,0,0,
+skill_line,25,UI\Game\skill\skill_line.dds,124,186,62,62,0,0,0,0,
+skill_line,19,UI\Game\skill\skill_line.dds,186,186,62,62,0,0,0,0,
+
+skill_line,29,UI\Game\skill\skill_line.dds,248,186,62,62,0,0,0,0,
+skill_line,28,UI\Game\skill\skill_line.dds,0,248,62,62,0,0,0,0,
+skill_line,22,UI\Game\skill\skill_line.dds,62,248,62,62,0,0,0,0,
+skill_line,27,UI\Game\skill\skill_line.dds,124,248,62,62,0,0,0,0,
+skill_line,31,UI\Game\skill\skill_line.dds,186,248,62,62,0,0,0,0,
+skill_line,30,UI\Game\skill\skill_line.dds,248,248,62,62,0,0,0,0,
+skill_line,24,UI\Game\skill\skill_line.dds,0,310,62,62,0,0,0,0,
+skill_line,18,UI\Game\skill\skill_line.dds,62,310,62,62,0,0,0,0,
+skill_line,17,UI\Game\skill\skill_line.dds,124,310,62,62,0,0,0,0,
+skill_line,20,UI\Game\skill\skill_line.dds,186,310,62,62,0,0,0,0,
+skill_line,23,UI\Game\skill\skill_line.dds,248,310,62,62,0,0,0,0,
+
+skill_line,60,UI\Game\skill\skill_line.dds,320,0,40,40,0,0,0,0,
+skill_line,61,UI\Game\skill\skill_line.dds,320,40,40,40,0,0,0,0,
+skill_line,62,UI\Game\skill\skill_line.dds,320,80,40,40,0,0,0,0,
+skill_line,63,UI\Game\skill\skill_line.dds,320,120,40,40,0,0,0,0,
+skill_line,64,UI\Game\skill\skill_line.dds,320,160,40,40,0,0,0,0,
+skill_line,65,UI\Game\skill\skill_line.dds,320,200,40,40,0,0,0,0,
+skill_line,66,UI\Game\skill\skill_line.dds,320,240,40,40,0,0,0,0,
+
+skill_line,67,UI\Game\skill\skill_line.dds,320,280,40,40,0,0,0,0,
+skill_line,68,UI\Game\skill\skill_line.dds,320,320,40,40,0,0,0,0,
+skill_line,69,UI\Game\skill\skill_line.dds,320,360,40,40,0,0,0,0,
+skill_line,70,UI\Game\skill\skill_line.dds,320,400,40,40,0,0,0,0,
+skill_line,71,UI\Game\skill\skill_line.dds,320,440,40,40,0,0,0,0,
+
+skill_line,80,UI\Game\skill\skill_line.dds,400,0,40,40,0,0,0,0,
+skill_line,81,UI\Game\skill\skill_line.dds,400,40,40,40,0,0,0,0,
+skill_line,82,UI\Game\skill\skill_line.dds,400,80,40,40,0,0,0,0,
+skill_line,83,UI\Game\skill\skill_line.dds,400,120,40,40,0,0,0,0,
+skill_line,84,UI\Game\skill\skill_line.dds,400,160,40,40,0,0,0,0,
+skill_line,85,UI\Game\skill\skill_line.dds,400,200,40,40,0,0,0,0,
+skill_line,86,UI\Game\skill\skill_line.dds,400,240,40,40,0,0,0,0,
+skill_line,87,UI\Game\skill\skill_line.dds,400,280,40,40,0,0,0,0,
+skill_line,88,UI\Game\skill\skill_line.dds,400,320,40,40,0,0,0,0,
+skill_line,89,UI\Game\skill\skill_line.dds,400,360,40,40,0,0,0,0,
+skill_line,90,UI\Game\skill\skill_line.dds,400,400,40,40,0,0,0,0,
+skill_line,91,UI\Game\skill\skill_line.dds,400,440,40,40,0,0,0,0,
+
+skill_line,100,UI\Game\skill\skill_line.dds,0,467,46,45,0,0,0,0,
+skill_line,101,UI\Game\skill\skill_line.dds,46,467,46,45,0,0,0,0,
+skill_line,102,UI\Game\skill\skill_line.dds,92,467,46,45,0,0,0,0,
+skill_line,103,UI\Game\skill\skill_line.dds,138,467,46,45,0,0,0,0,
+skill_line,104,UI\Game\skill\skill_line.dds,184,467,46,45,0,0,0,0,
+skill_line,105,UI\Game\skill\skill_line.dds,230,467,46,45,0,0,0,0,
+
+
+Skill,1,UI\Game\skill\skill.dds,0,0,307,417,0,0,0,0,
+Skill,2,UI\Game\skill\skill.dds,0,54,307,363,0,0,0,0,
+
+Skill,60,UI\Game\skill\skill.dds,471,0,21,21,0,0,0,0,
+Skill,61,UI\Game\skill\skill.dds,471,21,21,21,0,0,0,0,
+Skill,62,UI\Game\skill\skill.dds,471,42,21,21,0,0,0,0,
+
+Skill,70,UI\Game\skill\skill.dds,417,116,81,34,0,0,0,0,
+Skill,71,UI\Game\skill\skill.dds,417,150,81,34,0,0,0,0,
+Skill,72,UI\Game\skill\skill.dds,417,184,81,34,0,0,0,0,
+
+Skill,80,UI\Game\skill\skill.dds,315,243,67,26,0,0,0,0,
+Skill,81,UI\Game\skill\skill.dds,315,269,67,26,0,0,0,0,
+Skill,82,UI\Game\skill\skill.dds,315,295,67,26,0,0,0,0,
+Skill,83,UI\Game\skill\skill.dds,315,321,67,26,0,0,0,0,
+
+Skill,90,UI\Game\skill\skill.dds,392,243,67,26,0,0,0,0,
+Skill,91,UI\Game\skill\skill.dds,392,269,67,26,0,0,0,0,
+Skill,92,UI\Game\skill\skill.dds,392,295,67,26,0,0,0,0,
+Skill,93,UI\Game\skill\skill.dds,392,321,67,26,0,0,0,0,
+
+Skill,100,UI\Game\skill\skill.dds,315,349,67,26,0,0,0,0,
+Skill,101,UI\Game\skill\skill.dds,315,375,67,26,0,0,0,0,
+Skill,102,UI\Game\skill\skill.dds,315,401,67,26,0,0,0,0,
+Skill,103,UI\Game\skill\skill.dds,315,427,67,26,0,0,0,0,
+
+Skill,110,UI\Game\skill\skill.dds,0,418,118,17,0,0,0,0,
+
+Skill,111,UI\Game\skill\skill.dds,0,435,118,17,0,0,0,0,
+Skill,112,UI\Game\skill\skill.dds,0,452,118,17,0,0,0,0,
+
+Skill,120,UI\Game\skill\skill.dds,118,418,18,21,0,0,0,0,
+Skill,121,UI\Game\skill\skill.dds,118,439,18,21,0,0,0,0,
+
+Skill,130,UI\Game\skill\skill.dds,136,418,18,21,0,0,0,0,
+Skill,131,UI\Game\skill\skill.dds,136,439,18,21,0,0,0,0,
+
+Skill,140,UI\Game\skill\skill.dds,154,418,22,27,0,0,0,0,
+Skill,141,UI\Game\skill\skill.dds,154,445,22,27,0,0,0,0,
+
+Skill,150,UI\Game\skill\skill.dds,191,459,51,51,0,0,0,0,
+Skill,151,UI\Game\skill\skill.dds,253,459,51,51,0,0,0,0,
+Skill,152,UI\Game\skill\skill.dds,315,459,51,51,0,0,0,0,
+Skill,153,UI\Game\skill\skill.dds,377,459,51,51,0,0,0,0,
+
+Skill,160,UI\Game\skill\skill.dds,468,218,24,21,0,0,0,0,
+
+Skill,170,UI\Game\skill\skill.dds,467,239,18,20,0,0,0,0,
+Skill,171,UI\Game\skill\skill.dds,467,259,18,20,0,0,0,0,
+Skill,172,UI\Game\skill\skill.dds,467,279,18,20,0,0,0,0,
+Skill,173,UI\Game\skill\skill.dds,467,299,18,20,0,0,0,0,
+
+storage,1,UI\Game\theme01\storage.dds,0,0,349,437,0,0,0,0,
+
+storage,10,UI\Game\theme01\storage.dds,339,0,67,26,0,0,0,0,
+storage,11,UI\Game\theme01\storage.dds,369,4,56,23,0,0,0,0,
+storage,12,UI\Game\theme01\storage.dds,426,4,56,23,0,0,0,0,
+storage,13,UI\Game\theme01\storage.dds,339,78,67,26,0,0,0,0,
+
+storage,20,UI\Game\theme01\storage.dds,406,0,67,26,0,0,0,0,
+storage,21,UI\Game\theme01\storage.dds,369,36,57,19,0,0,0,0,
+storage,22,UI\Game\theme01\storage.dds,406,52,67,26,0,0,0,0,
+storage,23,UI\Game\theme01\storage.dds,406,78,67,26,0,0,0,0,
+
+storage,30,UI\Game\theme01\storage.dds,339,104,54,25,0,0,0,0,
+storage,31,UI\Game\theme01\storage.dds,0,456,173,56,0,0,0,0,
+storage,32,UI\Game\theme01\storage.dds,339,154,54,25,0,0,0,0,
+storage,33,UI\Game\theme01\storage.dds,339,179,54,25,0,0,0,0,
+
+storage,40,UI\Game\theme01\storage.dds,393,104,34,48,0,0,0,0,
+storage,41,UI\Game\theme01\storage.dds,183,464,132,24,0,0,0,0,
+storage,42,UI\Game\theme01\storage.dds,183,488,132,24,0,0,0,0,
+
+storage,50,UI\Game\theme01\storage.dds,472,104,34,48,0,0,0,0,
+storage,51,UI\Game\theme01\storage.dds,472,152,34,48,0,0,0,0,
+storage,52,UI\Game\theme01\storage.dds,472,200,34,48,0,0,0,0,
+
+storage,60,UI\Game\theme01\storage.dds,339,248,132,24,0,0,0,0,
+storage,61,UI\Game\theme01\storage.dds,339,272,132,24,0,0,0,0,
+storage,62,UI\Game\theme01\storage.dds,339,296,132,24,0,0,0,0,
+storage,63,UI\Game\theme01\storage.dds,339,320,132,24,0,0,0,0,
+storage,64,UI\Game\theme01\storage.dds,339,344,132,24,0,0,0,0,
+storage,65,UI\Game\theme01\storage.dds,339,368,132,24,0,0,0,0,
+storage,66,UI\Game\theme01\storage.dds,339,392,132,24,0,0,0,0,
+
+storage,70,UI\Game\theme01\storage.dds,0,456,173,56,0,0,0,0,
+
+storage,80,UI\Game\theme01\storage.dds,491,0,21,21,0,0,0,0,
+storage,81,UI\Game\theme01\storage.dds,491,21,21,21,0,0,0,0,
+storage,82,UI\Game\theme01\storage.dds,491,42,21,21,0,0,0,0,
+
+State_002,1,UI\Game\theme01\state_002.dds,0,0,309,330,0,0,0,0,능력치 판넬
+
+State_002,11,UI\Game\theme01\state_002.dds,310,0,42,18,0,0,0,0,Up버튼 노멀
+State_002,12,UI\Game\theme01\state_002.dds,310,19,42,18,0,0,0,0,오버
+State_002,13,UI\Game\theme01\state_002.dds,310,38,42,18,0,0,0,0,클릭
+State_002,14,UI\Game\theme01\state_002.dds,310,57,42,18,0,0,0,0,비활성
+
+State_002,21,UI\Game\theme01\state_002.dds,353,0,95,23,0,0,0,0,적용
+State_002,22,UI\Game\theme01\state_002.dds,353,24,95,23,0,0,0,0,
+State_002,23,UI\Game\theme01\state_002.dds,353,48,95,23,0,0,0,0,
+
+State_002,31,UI\Game\theme01\state_002.dds,449,0,13,13,0,0,0,0,엑스
+State_002,32,UI\Game\theme01\state_002.dds,463,0,13,13,0,0,0,0,
+State_002,33,UI\Game\theme01\state_002.dds,477,0,13,13,0,0,0,0,
+
+State_002,41,UI\Game\theme01\state_002.dds,450,19,12,11,0,0,0,0,화살표 Up노멀
+State_002,42,UI\Game\theme01\state_002.dds,463,19,12,11,0,0,0,0,화살표 오버
+State_002,43,UI\Game\theme01\state_002.dds,476,19,12,11,0,0,0,0,화살표 클릭
+
+State_002,51,UI\Game\theme01\state_002.dds,450,29,12,11,0,0,0,0,화살표 down노멀
+State_002,52,UI\Game\theme01\state_002.dds,463,29,12,11,0,0,0,0,
+State_002,53,UI\Game\theme01\state_002.dds,476,29,12,11,0,0,0,0,
+
+target_pop,1,UI\Game\theme01\target.dds,0,0,194,41,0,0,0,0,타겟창
+target_pop,2,UI\Game\theme01\target.dds,195,0,13,28,0,0,0,0,옆날개
+target_pop,3,UI\Game\theme01\target.dds,212,0,1,8,0,0,0,0,에너지
+
+target_pop,4,UI\Game\theme01\target.dds,215,0,13,13,0,0,0,0,녹색
+target_pop,5,UI\Game\theme01\target.dds,229,0,13,13,0,0,0,0,노랑
+target_pop,6,UI\Game\theme01\target.dds,243,0,13,13,0,0,0,0,주황
+target_pop,7,UI\Game\theme01\target.dds,257,0,13,13,0,0,0,0,빨강
+
+target_pop,11,UI\Game\theme01\target.dds,0,41,16,19,0,0,0,0,화살1
+target_pop,12,UI\Game\theme01\target.dds,0,61,16,19,0,0,0,0,
+target_pop,13,UI\Game\theme01\target.dds,0,81,16,19,0,0,0,0,
+
+target_pop,21,UI\Game\theme01\target.dds,17,41,16,19,0,0,0,0,화살2
+target_pop,22,UI\Game\theme01\target.dds,17,61,16,19,0,0,0,0,
+target_pop,23,UI\Game\theme01\target.dds,17,81,16,19,0,0,0,0,
+
+target_pop,31,UI\Game\theme01\target.dds,34,41,32,19,0,0,0,0,거래
+target_pop,32,UI\Game\theme01\target.dds,34,61,32,19,0,0,0,0,
+target_pop,33,UI\Game\theme01\target.dds,34,81,32,19,0,0,0,0,
+
+target_pop,41,UI\Game\theme01\target.dds,67,41,32,19,0,0,0,0,친구
+target_pop,42,UI\Game\theme01\target.dds,67,61,32,19,0,0,0,0,
+target_pop,43,UI\Game\theme01\target.dds,67,81,32,19,0,0,0,0,
+
+target_pop,51,UI\Game\theme01\target.dds,100,41,32,19,0,0,0,0,동행
+target_pop,52,UI\Game\theme01\target.dds,100,61,32,19,0,0,0,0,
+target_pop,53,UI\Game\theme01\target.dds,100,81,32,19,0,0,0,0,
+
+target_pop,61,UI\Game\theme01\target.dds,133,41,32,19,0,0,0,0,귓말
+target_pop,62,UI\Game\theme01\target.dds,133,61,32,19,0,0,0,0,
+target_pop,63,UI\Game\theme01\target.dds,133,81,32,19,0,0,0,0,
+
+target_pop,71,UI\Game\theme01\target.dds,166,41,32,19,0,0,0,0,파티 
+target_pop,72,UI\Game\theme01\target.dds,166,61,32,19,0,0,0,0,
+target_pop,73,UI\Game\theme01\target.dds,166,81,32,19,0,0,0,0,
+
+target_pop,81,UI\Game\theme01\target.dds,199,41,57,19,0,0,0,0,길드초대
+target_pop,82,UI\Game\theme01\target.dds,199,61,57,19,0,0,0,0,
+target_pop,83,UI\Game\theme01\target.dds,199,81,57,19,0,0,0,0,
+
+target_pop,91,UI\Game\theme01\target.dds,257,41,32,19,0,0,0,0,길드초대
+target_pop,92,UI\Game\theme01\target.dds,257,61,32,19,0,0,0,0,
+target_pop,93,UI\Game\theme01\target.dds,257,81,32,19,0,0,0,0,
+
+pc_pop,50,UI\Game\theme01\tool.dds,0,0,56,9,0,0,0,0,
+pc_pop,51,UI\Game\theme01\tool.dds,0,11,56,8,0,0,0,0,
+pc_pop,52,UI\Game\theme01\tool.dds,0,21,56,9,0,0,0,0,
+pc_pop,53,UI\Game\theme01\tool.dds,58,0,24,9,0,0,0,0,
+pc_pop,54,UI\Game\theme01\tool.dds,58,11,24,8,0,0,0,0,
+pc_pop,55,UI\Game\theme01\tool.dds,58,21,24,9,0,0,0,0,
+pc_pop,56,UI\Game\theme01\tool.dds,84,0,56,9,0,0,0,0,
+pc_pop,57,UI\Game\theme01\tool.dds,84,11,56,8,0,0,0,0,
+pc_pop,58,UI\Game\theme01\tool.dds,84,21,56,9,0,0,0,0,
+
+tool,10,UI\Game\theme01\tool.dds,141,1,5,5,0,0,0,0,
+tool,11,UI\Game\theme01\tool.dds,141,6,5,5,0,0,0,0,
+tool,12,UI\Game\theme01\tool.dds,141,11,5,5,0,0,0,0,
+tool,13,UI\Game\theme01\tool.dds,146,1,5,5,0,0,0,0,
+tool,14,UI\Game\theme01\tool.dds,146,6,5,5,0,0,0,0,
+tool,15,UI\Game\theme01\tool.dds,146,11,5,5,0,0,0,0,
+tool,16,UI\Game\theme01\tool.dds,151,1,5,5,0,0,0,0,
+tool,17,UI\Game\theme01\tool.dds,151,6,5,5,0,0,0,0,
+tool,18,UI\Game\theme01\tool.dds,151,11,5,5,0,0,0,0,
+
+skill_icon,10001,UI\Game\skill\S_Azure_Knight.dds,0,0,40,40,0,0,0,0,
+skill_icon,10041,UI\Game\skill\S_Azure_Knight.dds,0,40,40,40,0,0,0,0,
+skill_icon,10021,UI\Game\skill\S_Azure_Knight.dds,0,80,40,40,0,0,0,0,
+skill_icon,10002,UI\Game\skill\S_Azure_Knight.dds,0,120,40,40,0,0,0,0,
+skill_icon,10083,UI\Game\skill\S_Azure_Knight.dds,0,160,40,40,0,0,0,0,
+skill_icon,10084,UI\Game\skill\S_Azure_Knight.dds,0,200,40,40,0,0,0,0,
+skill_icon,10081,UI\Game\skill\S_Azure_Knight.dds,0,240,40,40,0,0,0,0,
+skill_icon,10102,UI\Game\skill\S_Azure_Knight.dds,0,280,40,40,0,0,0,0,
+skill_icon,10082,UI\Game\skill\S_Azure_Knight.dds,0,320,40,40,0,0,0,0,
+skill_icon,10101,UI\Game\skill\S_Azure_Knight.dds,0,360,40,40,0,0,0,0,
+skill_icon,10103,UI\Game\skill\S_Azure_Knight.dds,0,400,40,40,0,0,0,0,
+skill_icon,10042,UI\Game\skill\S_Azure_Knight.dds,0,440,40,40,0,0,0,0,
+skill_icon,10022,UI\Game\skill\S_Azure_Knight.dds,80,0,40,40,0,0,0,0,
+skill_icon,10023,UI\Game\skill\S_Azure_Knight.dds,80,40,40,40,0,0,0,0,
+skill_icon,10061,UI\Game\skill\S_Azure_Knight.dds,80,80,40,40,0,0,0,0,
+skill_icon,10003,UI\Game\skill\S_Azure_Knight.dds,80,120,40,40,0,0,0,0,
+skill_icon,10043,UI\Game\skill\S_Azure_Knight.dds,80,160,40,40,0,0,0,0,
+skill_icon,10062,UI\Game\skill\S_Azure_Knight.dds,80,200,40,40,0,0,0,0,
+skill_icon,10063,UI\Game\skill\S_Azure_Knight.dds,80,240,40,40,0,0,0,0,
+skill_icon,10141,UI\Game\skill\S_Azure_Knight.dds,80,280,40,40,0,0,0,0,
+skill_icon,10142,UI\Game\skill\S_Azure_Knight.dds,80,320,40,40,0,0,0,0,
+skill_icon,10004,UI\Game\skill\S_Azure_Knight.dds,80,360,40,40,0,0,0,0,
+skill_icon,10024,UI\Game\skill\S_Azure_Knight.dds,80,400,40,40,0,0,0,0,
+skill_icon,10044,UI\Game\skill\S_Azure_Knight.dds,80,440,40,40,0,0,0,0,
+skill_icon,10064,UI\Game\skill\S_Azure_Knight.dds,160,0,40,40,0,0,0,0,
+skill_icon,10162,UI\Game\skill\S_Azure_Knight.dds,160,40,40,40,0,0,0,0,
+skill_icon,10104,UI\Game\skill\S_Azure_Knight.dds,160,80,40,40,0,0,0,0,
+skill_icon,10161,UI\Game\skill\S_Azure_Knight.dds,160,120,40,40,0,0,0,0,
+skill_icon,10163,UI\Game\skill\S_Azure_Knight.dds,160,160,40,40,0,0,0,0,
+skill_icon,10143,UI\Game\skill\S_Azure_Knight.dds,160,200,40,40,0,0,0,0,
+skill_icon,10005,UI\Game\skill\S_Azure_Knight.dds,160,240,40,40,0,0,0,0,
+skill_icon,10045,UI\Game\skill\S_Azure_Knight.dds,160,280,40,40,0,0,0,0,
+skill_icon,10065,UI\Game\skill\S_Azure_Knight.dds,160,320,40,40,0,0,0,0,
+skill_icon,10025,UI\Game\skill\S_Azure_Knight.dds,160,360,40,40,0,0,0,0,
+skill_icon,10181,UI\Game\skill\S_Azure_Knight.dds,160,400,40,40,0,0,0,0,
+skill_icon,10144,UI\Game\skill\S_Azure_Knight.dds,160,440,40,40,0,0,0,0,
+skill_icon,10122,UI\Game\skill\S_Azure_Knight.dds,240,0,40,40,0,0,0,0,스파우트앵거
+skill_icon,10121,UI\Game\skill\S_Azure_Knight.dds,240,40,40,40,0,0,0,0,듀얼어드벤스
+skill_icon,10085,UI\Game\skill\S_Azure_Knight.dds,240,80,40,40,0,0,0,0,비거크라이
+skill_icon,10164,UI\Game\skill\S_Azure_Knight.dds,240,120,40,40,0,0,0,0,제노사이드
+skill_icon,10123,UI\Game\skill\S_Azure_Knight.dds,240,160,40,40,0,0,0,0,페이탈해쉬
+skill_icon,10124,UI\Game\skill\S_Azure_Knight.dds,240,200,40,40,0,0,0,0,브랜디쉬
+skill_icon,10145,UI\Game\skill\S_Azure_Knight.dds,240,240,40,40,0,0,0,0,바운스디펜더
+skill_icon,10086,UI\Game\skill\S_Azure_Knight.dds,240,280,40,40,0,0,0,0,디바이드스피어
+skill_icon,10125,UI\Game\skill\S_Azure_Knight.dds,400,40,40,40,0,0,0,0,오프스핀
+skill_icon,10152,UI\Game\skill\S_Azure_Knight.dds,320,440,40,40,0,0,0,0,사크리텍션
+skill_icon,10169,UI\Game\skill\S_Azure_Knight.dds,400,0,40,40,0,0,0,0,브레이크 암스
+
+skill_icon,10182,UI\Game\skill\S_Azure_Knight.dds,240,440,40,40,0,0,0,0,변신
+skill_icon,10183,UI\Game\skill\S_Azure_Knight.dds,240,320,40,40,0,0,0,0,소울 블레이드
+skill_icon,10184,UI\Game\skill\S_Azure_Knight.dds,240,360,40,40,0,0,0,0,바일런스 프릭
+skill_icon,10185,UI\Game\skill\S_Azure_Knight.dds,240,400,40,40,0,0,0,0,져지 오브 헬리온
+
+skill_icon,10146,UI\Game\skill\S_Azure_Knight.dds,320,0,40,40,0,0,0,0,카운터 히트
+skill_icon,10165,UI\Game\skill\S_Azure_Knight.dds,320,40,40,40,0,0,0,0,가이던스
+skill_icon,10087,UI\Game\skill\S_Azure_Knight.dds,320,80,40,40,0,0,0,0,포인트 타겟
+skill_icon,10149,UI\Game\skill\S_Azure_Knight.dds,320,120,40,40,0,0,0,0,에어 스피릿
+skill_icon,10147,UI\Game\skill\S_Azure_Knight.dds,320,160,40,40,0,0,0,0,헬스 스피릿
+skill_icon,10148,UI\Game\skill\S_Azure_Knight.dds,320,200,40,40,0,0,0,0,샤픈 스피릿
+skill_icon,10150,UI\Game\skill\S_Azure_Knight.dds,320,240,40,40,0,0,0,0,타운트 배쉬
+skill_icon,10167,UI\Game\skill\S_Azure_Knight.dds,320,280,40,40,0,0,0,0,퓨리 오브 론도우
+skill_icon,10166,UI\Game\skill\S_Azure_Knight.dds,320,320,40,40,0,0,0,0,바일런트 대쉬
+skill_icon,10151,UI\Game\skill\S_Azure_Knight.dds,320,360,40,40,0,0,0,0,프로텍션 센츄어리
+skill_icon,10168,UI\Game\skill\S_Azure_Knight.dds,320,400,40,40,0,0,0,0,차지드 쇼크
+skill_icon,10088,UI\Game\skill\S_Bagi_Warrior.dds,240,80,40,40,0,0,0,0,헬리온의 축복
+skill_icon,10089,UI\Game\skill\S_Bagi_Warrior.dds,240,120,40,40,0,0,0,0,헬리온의 의지
+skill_icon,10090,UI\Game\skill\S_Bagi_Warrior.dds,240,160,40,40,0,0,0,0,헬리온의 신념
+
+skill_icon,1,UI\Game\skill\S_Azure_Knight.dds,40,0,40,40,0,0,0,0,
+skill_icon,41,UI\Game\skill\S_Azure_Knight.dds,40,40,40,40,0,0,0,0,
+skill_icon,21,UI\Game\skill\S_Azure_Knight.dds,40,80,40,40,0,0,0,0,
+skill_icon,2,UI\Game\skill\S_Azure_Knight.dds,40,120,40,40,0,0,0,0,
+skill_icon,83,UI\Game\skill\S_Azure_Knight.dds,40,160,40,40,0,0,0,0,
+skill_icon,84,UI\Game\skill\S_Azure_Knight.dds,40,200,40,40,0,0,0,0,
+skill_icon,81,UI\Game\skill\S_Azure_Knight.dds,40,240,40,40,0,0,0,0,
+skill_icon,102,UI\Game\skill\S_Azure_Knight.dds,40,280,40,40,0,0,0,0,
+skill_icon,82,UI\Game\skill\S_Azure_Knight.dds,40,320,40,40,0,0,0,0,
+skill_icon,101,UI\Game\skill\S_Azure_Knight.dds,40,360,40,40,0,0,0,0,
+skill_icon,103,UI\Game\skill\S_Azure_Knight.dds,40,400,40,40,0,0,0,0,
+skill_icon,42,UI\Game\skill\S_Azure_Knight.dds,40,440,40,40,0,0,0,0,
+skill_icon,22,UI\Game\skill\S_Azure_Knight.dds,120,0,40,40,0,0,0,0,
+skill_icon,23,UI\Game\skill\S_Azure_Knight.dds,120,40,40,40,0,0,0,0,
+skill_icon,61,UI\Game\skill\S_Azure_Knight.dds,120,80,40,40,0,0,0,0,
+skill_icon,3,UI\Game\skill\S_Azure_Knight.dds,120,120,40,40,0,0,0,0,
+skill_icon,43,UI\Game\skill\S_Azure_Knight.dds,120,160,40,40,0,0,0,0,
+skill_icon,62,UI\Game\skill\S_Azure_Knight.dds,120,200,40,40,0,0,0,0,
+skill_icon,63,UI\Game\skill\S_Azure_Knight.dds,120,240,40,40,0,0,0,0,
+skill_icon,141,UI\Game\skill\S_Azure_Knight.dds,120,280,40,40,0,0,0,0,
+skill_icon,142,UI\Game\skill\S_Azure_Knight.dds,120,320,40,40,0,0,0,0,
+skill_icon,4,UI\Game\skill\S_Azure_Knight.dds,120,360,40,40,0,0,0,0,
+skill_icon,24,UI\Game\skill\S_Azure_Knight.dds,120,400,40,40,0,0,0,0,
+skill_icon,44,UI\Game\skill\S_Azure_Knight.dds,120,440,40,40,0,0,0,0,
+skill_icon,64,UI\Game\skill\S_Azure_Knight.dds,200,0,40,40,0,0,0,0,
+skill_icon,162,UI\Game\skill\S_Azure_Knight.dds,200,40,40,40,0,0,0,0,
+skill_icon,104,UI\Game\skill\S_Azure_Knight.dds,200,80,40,40,0,0,0,0,
+skill_icon,161,UI\Game\skill\S_Azure_Knight.dds,200,120,40,40,0,0,0,0,
+skill_icon,163,UI\Game\skill\S_Azure_Knight.dds,200,160,40,40,0,0,0,0,
+skill_icon,143,UI\Game\skill\S_Azure_Knight.dds,200,200,40,40,0,0,0,0,
+skill_icon,5,UI\Game\skill\S_Azure_Knight.dds,200,240,40,40,0,0,0,0,
+skill_icon,45,UI\Game\skill\S_Azure_Knight.dds,200,280,40,40,0,0,0,0,
+skill_icon,65,UI\Game\skill\S_Azure_Knight.dds,200,320,40,40,0,0,0,0,
+skill_icon,25,UI\Game\skill\S_Azure_Knight.dds,200,360,40,40,0,0,0,0,
+skill_icon,181,UI\Game\skill\S_Azure_Knight.dds,200,400,40,40,0,0,0,0,
+skill_icon,144,UI\Game\skill\S_Azure_Knight.dds,200,440,40,40,0,0,0,0,
+skill_icon,122,UI\Game\skill\S_Azure_Knight.dds,280,0,40,40,0,0,0,0,스파우트앵거
+skill_icon,121,UI\Game\skill\S_Azure_Knight.dds,280,40,40,40,0,0,0,0,듀얼어드벤스
+skill_icon,85,UI\Game\skill\S_Azure_Knight.dds,280,80,40,40,0,0,0,0,비거크라이
+skill_icon,164,UI\Game\skill\S_Azure_Knight.dds,280,120,40,40,0,0,0,0,제노사이드
+skill_icon,123,UI\Game\skill\S_Azure_Knight.dds,280,160,40,40,0,0,0,0,페이탈해쉬
+skill_icon,124,UI\Game\skill\S_Azure_Knight.dds,280,200,40,40,0,0,0,0,브랜디쉬
+skill_icon,145,UI\Game\skill\S_Azure_Knight.dds,280,240,40,40,0,0,0,0,바운스디펜더
+skill_icon,86,UI\Game\skill\S_Azure_Knight.dds,280,280,40,40,0,0,0,0,디바이드스피어
+skill_icon,125,UI\Game\skill\S_Azure_Knight.dds,440,40,40,40,0,0,0,0,오프스핀
+skill_icon,152,UI\Game\skill\S_Azure_Knight.dds,360,440,40,40,0,0,0,0,사크리텍션
+skill_icon,169,UI\Game\skill\S_Azure_Knight.dds,440,0,40,40,0,0,0,0,브레이크 암스
+
+skill_icon,182,UI\Game\skill\S_Azure_Knight.dds,280,440,40,40,0,0,0,0,변신
+skill_icon,183,UI\Game\skill\S_Azure_Knight.dds,280,320,40,40,0,0,0,0,소울 블레이드
+skill_icon,184,UI\Game\skill\S_Azure_Knight.dds,280,360,40,40,0,0,0,0,바일런스 프릭
+skill_icon,185,UI\Game\skill\S_Azure_Knight.dds,280,400,40,40,0,0,0,0,져지 오브 헬리온
+
+skill_icon,146,UI\Game\skill\S_Azure_Knight.dds,360,0,40,40,0,0,0,0,카운터 히트
+skill_icon,165,UI\Game\skill\S_Azure_Knight.dds,360,40,40,40,0,0,0,0,가이던스
+skill_icon,87,UI\Game\skill\S_Azure_Knight.dds,360,80,40,40,0,0,0,0,포인트 타겟
+skill_icon,149,UI\Game\skill\S_Azure_Knight.dds,360,120,40,40,0,0,0,0,에어 스피릿
+skill_icon,147,UI\Game\skill\S_Azure_Knight.dds,360,160,40,40,0,0,0,0,헬스 스피릿
+skill_icon,148,UI\Game\skill\S_Azure_Knight.dds,360,200,40,40,0,0,0,0,샤픈 스피릿
+skill_icon,150,UI\Game\skill\S_Azure_Knight.dds,360,240,40,40,0,0,0,0,타운트 배쉬
+skill_icon,167,UI\Game\skill\S_Azure_Knight.dds,360,280,40,40,0,0,0,0,퓨리 오브 론도우
+skill_icon,166,UI\Game\skill\S_Azure_Knight.dds,360,320,40,40,0,0,0,0,바일런트 대쉬
+skill_icon,151,UI\Game\skill\S_Azure_Knight.dds,360,360,40,40,0,0,0,0,프로텍션 센츄어리
+skill_icon,168,UI\Game\skill\S_Azure_Knight.dds,360,400,40,40,0,0,0,0,차지드 쇼크
+skill_icon,88,UI\Game\skill\S_Bagi_Warrior.dds,280,80,40,40,0,0,0,0,헬리온의 축복
+skill_icon,89,UI\Game\skill\S_Bagi_Warrior.dds,280,120,40,40,0,0,0,0,헬리온의 의지
+skill_icon,90,UI\Game\skill\S_Bagi_Warrior.dds,280,160,40,40,0,0,0,0,헬리온의 신념
+
+skill_icon,10461,UI\Game\skill\S_Incar_Magician.dds,0,0,40,40,0,0,0,0,
+skill_icon,10501,UI\Game\skill\S_Incar_Magician.dds,0,40,40,40,0,0,0,0,
+skill_icon,10402,UI\Game\skill\S_Incar_Magician.dds,0,80,40,40,0,0,0,0,
+skill_icon,10462,UI\Game\skill\S_Incar_Magician.dds,0,120,40,40,0,0,0,0,
+skill_icon,10463,UI\Game\skill\S_Incar_Magician.dds,0,160,40,40,0,0,0,0,
+skill_icon,10464,UI\Game\skill\S_Incar_Magician.dds,0,200,40,40,0,0,0,0,
+skill_icon,10542,UI\Game\skill\S_Incar_Magician.dds,0,240,40,40,0,0,0,0,
+skill_icon,10543,UI\Game\skill\S_Incar_Magician.dds,0,280,40,40,0,0,0,0,
+skill_icon,10541,UI\Game\skill\S_Incar_Magician.dds,0,320,40,40,0,0,0,0,
+skill_icon,10401,UI\Game\skill\S_Incar_Magician.dds,0,360,40,40,0,0,0,0,
+skill_icon,10421,UI\Game\skill\S_Incar_Magician.dds,0,400,40,40,0,0,0,0,
+skill_icon,10441,UI\Game\skill\S_Incar_Magician.dds,0,440,40,40,0,0,0,0,
+skill_icon,10465,UI\Game\skill\S_Incar_Magician.dds,80,0,40,40,0,0,0,0,
+skill_icon,10502,UI\Game\skill\S_Incar_Magician.dds,80,40,40,40,0,0,0,0,
+skill_icon,10504,UI\Game\skill\S_Incar_Magician.dds,80,80,40,40,0,0,0,0,
+skill_icon,10503,UI\Game\skill\S_Incar_Magician.dds,80,120,40,40,0,0,0,0,
+skill_icon,10505,UI\Game\skill\S_Incar_Magician.dds,80,160,40,40,0,0,0,0,
+skill_icon,10545,UI\Game\skill\S_Incar_Magician.dds,80,200,40,40,0,0,0,0,
+skill_icon,10544,UI\Game\skill\S_Incar_Magician.dds,80,240,40,40,0,0,0,0,
+skill_icon,10403,UI\Game\skill\S_Incar_Magician.dds,80,280,40,40,0,0,0,0,
+skill_icon,10466,UI\Game\skill\S_Incar_Magician.dds,80,320,40,40,0,0,0,0,
+skill_icon,10546,UI\Game\skill\S_Incar_Magician.dds,80,360,40,40,0,0,0,0,
+skill_icon,10506,UI\Game\skill\S_Incar_Magician.dds,80,400,40,40,0,0,0,0,
+skill_icon,10404,UI\Game\skill\S_Incar_Magician.dds,160,0,40,40,0,0,0,0,
+skill_icon,10467,UI\Game\skill\S_Incar_Magician.dds,160,40,40,40,0,0,0,0,
+skill_icon,10507,UI\Game\skill\S_Incar_Magician.dds,160,80,40,40,0,0,0,0,
+skill_icon,10547,UI\Game\skill\S_Incar_Magician.dds,160,120,40,40,0,0,0,0,
+skill_icon,10581,UI\Game\skill\S_Incar_Magician.dds,160,160,40,40,0,0,0,0,
+skill_icon,10405,UI\Game\skill\S_Incar_Magician.dds,160,200,40,40,0,0,0,0,
+skill_icon,10508,UI\Game\skill\S_Incar_Magician.dds,160,240,40,40,0,0,0,0,
+skill_icon,10468,UI\Game\skill\S_Incar_Magician.dds,160,280,40,40,0,0,0,0,
+skill_icon,10548,UI\Game\skill\S_Incar_Magician.dds,160,320,40,40,0,0,0,0,
+skill_icon,10406,UI\Game\skill\S_Incar_Magician.dds,160,360,40,40,0,0,0,0,
+skill_icon,10422,UI\Game\skill\S_Incar_Magician.dds,160,400,40,40,0,0,0,0,
+skill_icon,10407,UI\Game\skill\S_Incar_Magician.dds,160,440,40,40,0,0,0,0,
+skill_icon,10510,UI\Game\skill\S_Incar_Magician.dds,320,0,40,40,0,0,0,0,버텍스 홀트
+skill_icon,10550,UI\Game\skill\S_Incar_Magician.dds,240,400,40,40,0,0,0,0,디포미티
+skill_icon,10470,UI\Game\skill\S_Incar_Magician.dds,240,440,40,40,0,0,0,0,매져
+
+skill_icon,10582,UI\Game\skill\S_Incar_Magician.dds,240,80,40,40,0,0,0,0, 변신
+skill_icon,10583,UI\Game\skill\S_Incar_Magician.dds,240,0,40,40,0,0,0,0, 그라비티 루인
+skill_icon,10584,UI\Game\skill\S_Incar_Magician.dds,240,40,40,40,0,0,0,0, 엘리멘탈마스터 
+
+skill_icon,10424,UI\Game\skill\S_Incar_Magician.dds,240,120,40,40,0,0,0,0, 마인드 블레스
+skill_icon,10408,UI\Game\skill\S_Incar_Magician.dds,240,160,40,40,0,0,0,0, 스테이시스 오브
+skill_icon,10423,UI\Game\skill\S_Incar_Magician.dds,240,200,40,40,0,0,0,0, 네온 블레스
+skill_icon,10469,UI\Game\skill\S_Incar_Magician.dds,240,240,40,40,0,0,0,0, 플레임 가싱
+skill_icon,10509,UI\Game\skill\S_Incar_Magician.dds,240,280,40,40,0,0,0,0, 프로스트 노바
+skill_icon,10409,UI\Game\skill\S_Incar_Magician.dds,240,320,40,40,0,0,0,0, 쉴드 오브 시즈
+skill_icon,10549,UI\Game\skill\S_Incar_Magician.dds,240,360,40,40,0,0,0,0, 트랜스퍼 라이트닝
+skill_icon,10481,UI\Game\skill\S_Bagi_Warrior.dds,240,80,40,40,0,0,0,0,헬리온의 축복
+skill_icon,10482,UI\Game\skill\S_Bagi_Warrior.dds,240,120,40,40,0,0,0,0,헬리온의 의지
+skill_icon,10483,UI\Game\skill\S_Bagi_Warrior.dds,240,160,40,40,0,0,0,0,헬리온의 신념
+
+skill_icon,461,UI\Game\skill\S_Incar_Magician.dds,40,0,40,40,0,0,0,0,
+skill_icon,501,UI\Game\skill\S_Incar_Magician.dds,40,40,40,40,0,0,0,0,
+skill_icon,402,UI\Game\skill\S_Incar_Magician.dds,40,80,40,40,0,0,0,0,
+skill_icon,462,UI\Game\skill\S_Incar_Magician.dds,40,120,40,40,0,0,0,0,
+skill_icon,463,UI\Game\skill\S_Incar_Magician.dds,40,160,40,40,0,0,0,0,
+skill_icon,464,UI\Game\skill\S_Incar_Magician.dds,40,200,40,40,0,0,0,0,
+skill_icon,542,UI\Game\skill\S_Incar_Magician.dds,40,240,40,40,0,0,0,0,
+skill_icon,543,UI\Game\skill\S_Incar_Magician.dds,40,280,40,40,0,0,0,0,
+skill_icon,541,UI\Game\skill\S_Incar_Magician.dds,40,320,40,40,0,0,0,0,
+skill_icon,401,UI\Game\skill\S_Incar_Magician.dds,40,360,40,40,0,0,0,0,
+skill_icon,421,UI\Game\skill\S_Incar_Magician.dds,40,400,40,40,0,0,0,0,
+skill_icon,441,UI\Game\skill\S_Incar_Magician.dds,40,440,40,40,0,0,0,0,
+skill_icon,465,UI\Game\skill\S_Incar_Magician.dds,120,0,40,40,0,0,0,0,
+skill_icon,502,UI\Game\skill\S_Incar_Magician.dds,120,40,40,40,0,0,0,0,
+skill_icon,504,UI\Game\skill\S_Incar_Magician.dds,120,80,40,40,0,0,0,0,
+skill_icon,503,UI\Game\skill\S_Incar_Magician.dds,120,120,40,40,0,0,0,0,
+skill_icon,505,UI\Game\skill\S_Incar_Magician.dds,120,160,40,40,0,0,0,0,
+skill_icon,545,UI\Game\skill\S_Incar_Magician.dds,120,200,40,40,0,0,0,0,
+skill_icon,544,UI\Game\skill\S_Incar_Magician.dds,120,240,40,40,0,0,0,0,
+skill_icon,403,UI\Game\skill\S_Incar_Magician.dds,120,280,40,40,0,0,0,0,
+skill_icon,466,UI\Game\skill\S_Incar_Magician.dds,120,320,40,40,0,0,0,0,
+skill_icon,546,UI\Game\skill\S_Incar_Magician.dds,120,360,40,40,0,0,0,0,
+skill_icon,506,UI\Game\skill\S_Incar_Magician.dds,120,400,40,40,0,0,0,0,
+skill_icon,404,UI\Game\skill\S_Incar_Magician.dds,200,0,40,40,0,0,0,0,
+skill_icon,467,UI\Game\skill\S_Incar_Magician.dds,200,40,40,40,0,0,0,0,
+skill_icon,507,UI\Game\skill\S_Incar_Magician.dds,200,80,40,40,0,0,0,0,
+skill_icon,547,UI\Game\skill\S_Incar_Magician.dds,200,120,40,40,0,0,0,0,
+skill_icon,581,UI\Game\skill\S_Incar_Magician.dds,200,160,40,40,0,0,0,0,
+skill_icon,405,UI\Game\skill\S_Incar_Magician.dds,200,200,40,40,0,0,0,0,
+skill_icon,508,UI\Game\skill\S_Incar_Magician.dds,200,240,40,40,0,0,0,0,
+skill_icon,468,UI\Game\skill\S_Incar_Magician.dds,200,280,40,40,0,0,0,0,
+skill_icon,548,UI\Game\skill\S_Incar_Magician.dds,200,320,40,40,0,0,0,0,
+skill_icon,406,UI\Game\skill\S_Incar_Magician.dds,200,360,40,40,0,0,0,0,
+skill_icon,422,UI\Game\skill\S_Incar_Magician.dds,200,400,40,40,0,0,0,0,
+skill_icon,407,UI\Game\skill\S_Incar_Magician.dds,200,440,40,40,0,0,0,0,
+skill_icon,510,UI\Game\skill\S_Incar_Magician.dds,360,0,40,40,0,0,0,0, 버텍스 홀트
+skill_icon,550,UI\Game\skill\S_Incar_Magician.dds,280,400,40,40,0,0,0,0, 디포미티
+skill_icon,470,UI\Game\skill\S_Incar_Magician.dds,280,440,40,40,0,0,0,0, 매져
+
+skill_icon,582,UI\Game\skill\S_Incar_Magician.dds,280,80,40,40,0,0,0,0,변신
+skill_icon,583,UI\Game\skill\S_Incar_Magician.dds,280,0,40,40,0,0,0,0,그라비티 루인
+skill_icon,584,UI\Game\skill\S_Incar_Magician.dds,280,40,40,40,0,0,0,0,엘리멘탈마스터 
+
+skill_icon,424,UI\Game\skill\S_Incar_Magician.dds,280,120,40,40,0,0,0,0, 마인드 블레스
+skill_icon,408,UI\Game\skill\S_Incar_Magician.dds,280,160,40,40,0,0,0,0, 스테이시스 오브
+skill_icon,423,UI\Game\skill\S_Incar_Magician.dds,280,200,40,40,0,0,0,0, 네온 블레스
+skill_icon,469,UI\Game\skill\S_Incar_Magician.dds,280,240,40,40,0,0,0,0, 플레임 가싱
+skill_icon,509,UI\Game\skill\S_Incar_Magician.dds,280,280,40,40,0,0,0,0, 프로스트 노바
+skill_icon,409,UI\Game\skill\S_Incar_Magician.dds,280,320,40,40,0,0,0,0, 쉴드 오브 시즈
+skill_icon,549,UI\Game\skill\S_Incar_Magician.dds,280,360,40,40,0,0,0,0, 트랜스퍼 라이트닝
+skill_icon,481,UI\Game\skill\S_Bagi_Warrior.dds,280,80,40,40,0,0,0,0,헬리온의 축복
+skill_icon,482,UI\Game\skill\S_Bagi_Warrior.dds,280,120,40,40,0,0,0,0,헬리온의 의지
+skill_icon,483,UI\Game\skill\S_Bagi_Warrior.dds,280,160,40,40,0,0,0,0,헬리온의 신념
+
+skill_icon,10201,UI\Game\skill\S_Segita_Hunter.dds,0,0,40,40,0,0,0,0,
+skill_icon,10202,UI\Game\skill\S_Segita_Hunter.dds,0,40,40,40,0,0,0,0,
+skill_icon,10203,UI\Game\skill\S_Segita_Hunter.dds,0,80,40,40,0,0,0,0,
+skill_icon,10204,UI\Game\skill\S_Segita_Hunter.dds,0,120,40,40,0,0,0,0,
+skill_icon,10242,UI\Game\skill\S_Segita_Hunter.dds,0,160,40,40,0,0,0,0,
+skill_icon,10241,UI\Game\skill\S_Segita_Hunter.dds,0,200,40,40,0,0,0,0,
+skill_icon,10243,UI\Game\skill\S_Segita_Hunter.dds,0,240,40,40,0,0,0,0,
+skill_icon,10244,UI\Game\skill\S_Segita_Hunter.dds,0,280,40,40,0,0,0,0,
+skill_icon,10341,UI\Game\skill\S_Segita_Hunter.dds,0,320,40,40,0,0,0,0,
+skill_icon,10361,UI\Game\skill\S_Segita_Hunter.dds,0,360,40,40,0,0,0,0,
+skill_icon,10207,UI\Game\skill\S_Segita_Hunter.dds,0,400,40,40,0,0,0,0,
+skill_icon,10208,UI\Game\skill\S_Segita_Hunter.dds,0,440,40,40,0,0,0,0,
+skill_icon,10206,UI\Game\skill\S_Segita_Hunter.dds,80,0,40,40,0,0,0,0,
+skill_icon,10205,UI\Game\skill\S_Segita_Hunter.dds,80,40,40,40,0,0,0,0,
+skill_icon,10282,UI\Game\skill\S_Segita_Hunter.dds,80,80,40,40,0,0,0,0,
+skill_icon,10281,UI\Game\skill\S_Segita_Hunter.dds,80,120,40,40,0,0,0,0,
+skill_icon,10245,UI\Game\skill\S_Segita_Hunter.dds,80,160,40,40,0,0,0,0,
+skill_icon,10209,UI\Game\skill\S_Segita_Hunter.dds,80,200,40,40,0,0,0,0,
+skill_icon,10342,UI\Game\skill\S_Segita_Hunter.dds,80,240,40,40,0,0,0,0,
+skill_icon,10283,UI\Game\skill\S_Segita_Hunter.dds,80,280,40,40,0,0,0,0,
+skill_icon,10210,UI\Game\skill\S_Segita_Hunter.dds,80,320,40,40,0,0,0,0,
+skill_icon,10221,UI\Game\skill\S_Segita_Hunter.dds,80,360,40,40,0,0,0,0,
+skill_icon,10211,UI\Game\skill\S_Segita_Hunter.dds,80,400,40,40,0,0,0,0,
+skill_icon,10381,UI\Game\skill\S_Segita_Hunter.dds,80,440,40,40,0,0,0,0,
+skill_icon,10212,UI\Game\skill\S_Segita_Hunter.dds,160,0,40,40,0,0,0,0,
+skill_icon,10213,UI\Game\skill\S_Segita_Hunter.dds,160,120,40,40,0,0,0,0,
+skill_icon,10214,UI\Game\skill\S_Segita_Hunter.dds,160,200,40,40,0,0,0,0,
+skill_icon,10284,UI\Game\skill\S_Segita_Hunter.dds,160,160,40,40,0,0,0,0,
+skill_icon,10285,UI\Game\skill\S_Segita_Hunter.dds,160,80,40,40,0,0,0,0,
+skill_icon,10362,UI\Game\skill\S_Segita_Hunter.dds,160,40,40,40,0,0,0,0,
+
+skill_icon,10382,UI\Game\skill\S_Segita_Hunter.dds,160,360,40,40,0,0,0,0,변신 
+skill_icon,10383,UI\Game\skill\S_Segita_Hunter.dds,160,280,40,40,0,0,0,0,멀티블링크
+skill_icon,10384,UI\Game\skill\S_Segita_Hunter.dds,160,240,40,40,0,0,0,0,엘라스틱 포스
+skill_icon,10385,UI\Game\skill\S_Segita_Hunter.dds,160,320,40,40,0,0,0,0,디비니티 레이지 
+
+skill_icon,10216,UI\Game\skill\S_Segita_Hunter.dds,160,400,40,40,0,0,0,0,트리플 애로우
+skill_icon,10215,UI\Game\skill\S_Segita_Hunter.dds,160,440,40,40,0,0,0,0,캐치 블로우업
+skill_icon,10222,UI\Game\skill\S_Segita_Hunter.dds,240,0,40,40,0,0,0,0,트램블링 샷
+skill_icon,10219,UI\Game\skill\S_Segita_Hunter.dds,240,40,40,40,0,0,0,0,캐논 플로우
+skill_icon,10217,UI\Game\skill\S_Segita_Hunter.dds,240,80,40,40,0,0,0,0,플레임 블래스트
+skill_icon,10218,UI\Game\skill\S_Segita_Hunter.dds,240,120,40,40,0,0,0,0,래피드 파이어
+skill_icon,10321,UI\Game\skill\S_Bagi_Warrior.dds,240,80,40,40,0,0,0,0,헬리온의 축복
+skill_icon,10322,UI\Game\skill\S_Bagi_Warrior.dds,240,120,40,40,0,0,0,0,헬리온의 의지
+skill_icon,10323,UI\Game\skill\S_Bagi_Warrior.dds,240,160,40,40,0,0,0,0,헬리온의 신념
+skill_icon,10223,UI\Game\skill\S_Segita_Hunter.dds,240,200,40,40,0,0,0,0,퀵 아레스트
+skill_icon,10224,UI\Game\skill\S_Segita_Hunter.dds,240,160,40,40,0,0,0,0,카오스 블래스트
+
+skill_icon,201,UI\Game\skill\S_Segita_Hunter.dds,40,0,40,40,0,0,0,0,
+skill_icon,202,UI\Game\skill\S_Segita_Hunter.dds,40,40,40,40,0,0,0,0,
+skill_icon,203,UI\Game\skill\S_Segita_Hunter.dds,40,80,40,40,0,0,0,0,
+skill_icon,204,UI\Game\skill\S_Segita_Hunter.dds,40,120,40,40,0,0,0,0,
+skill_icon,242,UI\Game\skill\S_Segita_Hunter.dds,40,160,40,40,0,0,0,0,
+skill_icon,241,UI\Game\skill\S_Segita_Hunter.dds,40,200,40,40,0,0,0,0,
+skill_icon,243,UI\Game\skill\S_Segita_Hunter.dds,40,240,40,40,0,0,0,0,
+skill_icon,244,UI\Game\skill\S_Segita_Hunter.dds,40,280,40,40,0,0,0,0,
+skill_icon,341,UI\Game\skill\S_Segita_Hunter.dds,40,320,40,40,0,0,0,0,
+skill_icon,361,UI\Game\skill\S_Segita_Hunter.dds,40,360,40,40,0,0,0,0,
+skill_icon,207,UI\Game\skill\S_Segita_Hunter.dds,40,400,40,40,0,0,0,0,
+skill_icon,208,UI\Game\skill\S_Segita_Hunter.dds,40,440,40,40,0,0,0,0,
+skill_icon,206,UI\Game\skill\S_Segita_Hunter.dds,120,0,40,40,0,0,0,0,
+skill_icon,205,UI\Game\skill\S_Segita_Hunter.dds,120,40,40,40,0,0,0,0,
+skill_icon,282,UI\Game\skill\S_Segita_Hunter.dds,120,80,40,40,0,0,0,0,
+skill_icon,281,UI\Game\skill\S_Segita_Hunter.dds,120,120,40,40,0,0,0,0,
+skill_icon,245,UI\Game\skill\S_Segita_Hunter.dds,120,160,40,40,0,0,0,0,
+skill_icon,209,UI\Game\skill\S_Segita_Hunter.dds,120,200,40,40,0,0,0,0,
+skill_icon,342,UI\Game\skill\S_Segita_Hunter.dds,120,240,40,40,0,0,0,0,
+skill_icon,283,UI\Game\skill\S_Segita_Hunter.dds,120,280,40,40,0,0,0,0,
+skill_icon,210,UI\Game\skill\S_Segita_Hunter.dds,120,320,40,40,0,0,0,0,
+skill_icon,221,UI\Game\skill\S_Segita_Hunter.dds,120,360,40,40,0,0,0,0,
+skill_icon,211,UI\Game\skill\S_Segita_Hunter.dds,120,400,40,40,0,0,0,0,
+skill_icon,381,UI\Game\skill\S_Segita_Hunter.dds,120,440,40,40,0,0,0,0,
+skill_icon,212,UI\Game\skill\S_Segita_Hunter.dds,200,0,40,40,0,0,0,0,
+skill_icon,213,UI\Game\skill\S_Segita_Hunter.dds,200,120,40,40,0,0,0,0,
+skill_icon,214,UI\Game\skill\S_Segita_Hunter.dds,200,200,40,40,0,0,0,0,
+skill_icon,284,UI\Game\skill\S_Segita_Hunter.dds,200,160,40,40,0,0,0,0,
+skill_icon,285,UI\Game\skill\S_Segita_Hunter.dds,200,80,40,40,0,0,0,0,
+skill_icon,362,UI\Game\skill\S_Segita_Hunter.dds,200,40,40,40,0,0,0,0,
+
+skill_icon,382,UI\Game\skill\S_Segita_Hunter.dds,200,360,40,40,0,0,0,0,변신 
+skill_icon,383,UI\Game\skill\S_Segita_Hunter.dds,200,280,40,40,0,0,0,0,멀티블링크
+skill_icon,384,UI\Game\skill\S_Segita_Hunter.dds,200,240,40,40,0,0,0,0,엘라스틱 포스
+skill_icon,385,UI\Game\skill\S_Segita_Hunter.dds,200,320,40,40,0,0,0,0,디비니티 레이지 
+
+skill_icon,216,UI\Game\skill\S_Segita_Hunter.dds,200,400,40,40,0,0,0,0,트리플 애로우
+skill_icon,215,UI\Game\skill\S_Segita_Hunter.dds,200,440,40,40,0,0,0,0,캐치 블로우업
+skill_icon,222,UI\Game\skill\S_Segita_Hunter.dds,280,0,40,40,0,0,0,0,트램블링 샷
+skill_icon,219,UI\Game\skill\S_Segita_Hunter.dds,280,40,40,40,0,0,0,0,캐논 플로우
+skill_icon,217,UI\Game\skill\S_Segita_Hunter.dds,280,80,40,40,0,0,0,0,플레임 블래스트
+skill_icon,218,UI\Game\skill\S_Segita_Hunter.dds,280,120,40,40,0,0,0,0,래피드 파이어
+skill_icon,321,UI\Game\skill\S_Bagi_Warrior.dds,280,80,40,40,0,0,0,0,헬리온의 축복
+skill_icon,322,UI\Game\skill\S_Bagi_Warrior.dds,280,120,40,40,0,0,0,0,헬리온의 의지
+skill_icon,323,UI\Game\skill\S_Bagi_Warrior.dds,280,160,40,40,0,0,0,0,헬리온의 신념
+skill_icon,223,UI\Game\skill\S_Segita_Hunter.dds,280,200,40,40,0,0,0,0,퀵 아레스트
+skill_icon,224,UI\Game\skill\S_Segita_Hunter.dds,280,160,40,40,0,0,0,0,카오스 블래스트
+
+skill_icon,10721,UI\Game\skill\S_Vicious_Summoner.dds,0,0,40,40,0,0,0,0,
+skill_icon,10601,UI\Game\skill\S_Vicious_Summoner.dds,0,40,40,40,0,0,0,0,
+skill_icon,10722,UI\Game\skill\S_Vicious_Summoner.dds,0,120,40,40,0,0,0,0,
+skill_icon,10602,UI\Game\skill\S_Vicious_Summoner.dds,0,160,40,40,0,0,0,0,
+skill_icon,10603,UI\Game\skill\S_Vicious_Summoner.dds,0,200,40,40,0,0,0,0,
+skill_icon,10741,UI\Game\skill\S_Vicious_Summoner.dds,0,320,40,40,0,0,0,0,
+skill_icon,10723,UI\Game\skill\S_Vicious_Summoner.dds,240,240,40,40,0,0,0,0,
+skill_icon,10742,UI\Game\skill\S_Vicious_Summoner.dds,0,400,40,40,0,0,0,0,
+skill_icon,10642,UI\Game\skill\S_Vicious_Summoner.dds,0,440,40,40,0,0,0,0,
+skill_icon,10641,UI\Game\skill\S_Vicious_Summoner.dds,80,0,40,40,0,0,0,0,
+skill_icon,10724,UI\Game\skill\S_Vicious_Summoner.dds,80,40,40,40,0,0,0,0,
+skill_icon,10725,UI\Game\skill\S_Vicious_Summoner.dds,80,80,40,40,0,0,0,0,
+skill_icon,10726,UI\Game\skill\S_Vicious_Summoner.dds,80,120,40,40,0,0,0,0,
+skill_icon,10727,UI\Game\skill\S_Vicious_Summoner.dds,80,160,40,40,0,0,0,0,
+skill_icon,10643,UI\Game\skill\S_Vicious_Summoner.dds,80,200,40,40,0,0,0,0,
+skill_icon,10728,UI\Game\skill\S_Vicious_Summoner.dds,80,240,40,40,0,0,0,0,
+skill_icon,10604,UI\Game\skill\S_Vicious_Summoner.dds,80,280,40,40,0,0,0,0,
+skill_icon,10644,UI\Game\skill\S_Vicious_Summoner.dds,80,320,40,40,0,0,0,0,
+skill_icon,10729,UI\Game\skill\S_Vicious_Summoner.dds,80,360,40,40,0,0,0,0,
+skill_icon,10730,UI\Game\skill\S_Vicious_Summoner.dds,80,400,40,40,0,0,0,0,
+skill_icon,10742,UI\Game\skill\S_Vicious_Summoner.dds,80,440,40,40,0,0,0,0,
+skill_icon,10731,UI\Game\skill\S_Vicious_Summoner.dds,160,0,40,40,0,0,0,0,
+skill_icon,10732,UI\Game\skill\S_Vicious_Summoner.dds,160,40,40,40,0,0,0,0,
+skill_icon,10645,UI\Game\skill\S_Vicious_Summoner.dds,160,80,40,40,0,0,0,0,
+skill_icon,10605,UI\Game\skill\S_Vicious_Summoner.dds,160,120,40,40,0,0,0,0,
+skill_icon,10781,UI\Game\skill\S_Vicious_Summoner.dds,160,160,40,40,0,0,0,0,
+skill_icon,10734,UI\Game\skill\S_Vicious_Summoner.dds,160,200,40,40,0,0,0,0,
+skill_icon,10733,UI\Game\skill\S_Vicious_Summoner.dds,160,240,40,40,0,0,0,0,
+skill_icon,10735,UI\Game\skill\S_Vicious_Summoner.dds,160,280,40,40,0,0,0,0,
+skill_icon,10736,UI\Game\skill\S_Vicious_Summoner.dds,160,320,40,40,0,0,0,0,
+skill_icon,10606,UI\Game\skill\S_Vicious_Summoner.dds,160,400,40,40,0,0,0,0,
+skill_icon,10646,UI\Game\skill\S_Vicious_Summoner.dds,160,360,40,40,0,0,0,0,
+skill_icon,10738,UI\Game\skill\S_Vicious_Summoner.dds,240,0,40,40,0,0,0,0,
+skill_icon,10737,UI\Game\skill\S_Vicious_Summoner.dds,240,40,40,40,0,0,0,0,
+skill_icon,10661,UI\Game\skill\S_Vicious_Summoner.dds,240,80,40,40,0,0,0,0,
+skill_icon,10622,UI\Game\skill\S_Vicious_Summoner.dds,240,120,40,40,0,0,0,0,
+skill_icon,10621,UI\Game\skill\S_Vicious_Summoner.dds,240,160,40,40,0,0,0,0,
+skill_icon,10662,UI\Game\skill\S_Vicious_Summoner.dds,240,200,40,40,0,0,0,0,
+skill_icon,10740,UI\Game\skill\S_Vicious_Summoner.dds,240,280,40,40,0,0,0,0,
+skill_icon,10739,UI\Game\skill\S_Vicious_Summoner.dds,160,440,40,40,0,0,0,0,
+skill_icon,10607,UI\Game\skill\S_Vicious_Summoner.dds,400,160,40,40,0,0,0,0,에리골
+skill_icon,10623,UI\Game\skill\S_Vicious_Summoner.dds,400,200,40,40,0,0,0,0,에리골 그레이트
+skill_icon,10647,UI\Game\skill\S_Vicious_Summoner.dds,400,120,40,40,0,0,0,0,기간테스
+skill_icon,10663,UI\Game\skill\S_Vicious_Summoner.dds,400,240,40,40,0,0,0,0,기간테스 그레이트
+skill_icon,10748,UI\Game\skill\S_Vicious_Summoner.dds,400,40,40,40,0,0,0,0,트윈 보어
+skill_icon,10747,UI\Game\skill\S_Vicious_Summoner.dds,400,80,40,40,0,0,0,0,테리블 레인
+
+skill_icon,10782,UI\Game\skill\S_Vicious_Summoner.dds,240,440,40,40,0,0,0,0,변신
+skill_icon,10783,UI\Game\skill\S_Vicious_Summoner.dds,240,360,40,40,0,0,0,0,퓨리익스플루션
+skill_icon,10784,UI\Game\skill\S_Vicious_Summoner.dds,240,320,40,40,0,0,0,0,소울링크
+skill_icon,10785,UI\Game\skill\S_Vicious_Summoner.dds,240,400,40,40,0,0,0,0,퍼밀리어스프릿
+
+skill_icon,10761,UI\Game\skill\S_Vicious_Summoner.dds,320,0,40,40,0,0,0,0,바인드 소드
+skill_icon,10744,UI\Game\skill\S_Vicious_Summoner.dds,320,40,40,40,0,0,0,0,케인 호크
+skill_icon,10745,UI\Game\skill\S_Vicious_Summoner.dds,320,80,40,40,0,0,0,0,스톰 러너
+skill_icon,10706,UI\Game\skill\S_Vicious_Summoner.dds,320,120,40,40,0,0,0,0,파워 사크라
+skill_icon,10708,UI\Game\skill\S_Vicious_Summoner.dds,320,160,40,40,0,0,0,0,언파워 사크라
+skill_icon,10705,UI\Game\skill\S_Vicious_Summoner.dds,320,200,40,40,0,0,0,0,포스 사크라
+skill_icon,10704,UI\Game\skill\S_Vicious_Summoner.dds,320,240,40,40,0,0,0,0,레지스트 사크라
+skill_icon,10707,UI\Game\skill\S_Vicious_Summoner.dds,320,280,40,40,0,0,0,0,안티 레지스트 사크라
+skill_icon,10702,UI\Game\skill\S_Vicious_Summoner.dds,320,320,40,40,0,0,0,0,리콜
+skill_icon,10701,UI\Game\skill\S_Vicious_Summoner.dds,320,360,40,40,0,0,0,0,다크니스
+skill_icon,10703,UI\Game\skill\S_Vicious_Summoner.dds,320,400,40,40,0,0,0,0,리무브 커즈
+skill_icon,10763,UI\Game\skill\S_Vicious_Summoner.dds,320,440,40,40,0,0,0,0,인비저블 쉐도우
+skill_icon,10764,UI\Game\skill\S_Vicious_Summoner.dds,400,0,40,40,0,0,0,0,아웃오브 사이트
+skill_icon,10681,UI\Game\skill\S_Bagi_Warrior.dds,240,80,40,40,0,0,0,0,헬리온의 축복
+skill_icon,10682,UI\Game\skill\S_Bagi_Warrior.dds,240,120,40,40,0,0,0,0,헬리온의 의지
+skill_icon,10683,UI\Game\skill\S_Bagi_Warrior.dds,240,160,40,40,0,0,0,0,헬리온의 신념
+
+skill_icon,721,UI\Game\skill\S_Vicious_Summoner.dds,40,0,40,40,0,0,0,0,
+skill_icon,601,UI\Game\skill\S_Vicious_Summoner.dds,40,40,40,40,0,0,0,0,
+skill_icon,722,UI\Game\skill\S_Vicious_Summoner.dds,40,120,40,40,0,0,0,0,
+skill_icon,602,UI\Game\skill\S_Vicious_Summoner.dds,40,160,40,40,0,0,0,0,
+skill_icon,603,UI\Game\skill\S_Vicious_Summoner.dds,40,200,40,40,0,0,0,0,
+skill_icon,741,UI\Game\skill\S_Vicious_Summoner.dds,40,320,40,40,0,0,0,0,
+skill_icon,723,UI\Game\skill\S_Vicious_Summoner.dds,280,240,40,40,0,0,0,0,
+skill_icon,742,UI\Game\skill\S_Vicious_Summoner.dds,40,400,40,40,0,0,0,0,
+skill_icon,642,UI\Game\skill\S_Vicious_Summoner.dds,40,440,40,40,0,0,0,0,
+skill_icon,641,UI\Game\skill\S_Vicious_Summoner.dds,120,0,40,40,0,0,0,0,
+skill_icon,724,UI\Game\skill\S_Vicious_Summoner.dds,120,40,40,40,0,0,0,0,
+skill_icon,725,UI\Game\skill\S_Vicious_Summoner.dds,120,80,40,40,0,0,0,0,
+skill_icon,726,UI\Game\skill\S_Vicious_Summoner.dds,120,120,40,40,0,0,0,0,
+skill_icon,727,UI\Game\skill\S_Vicious_Summoner.dds,120,160,40,40,0,0,0,0,
+skill_icon,643,UI\Game\skill\S_Vicious_Summoner.dds,120,200,40,40,0,0,0,0,
+skill_icon,728,UI\Game\skill\S_Vicious_Summoner.dds,120,240,40,40,0,0,0,0,
+skill_icon,604,UI\Game\skill\S_Vicious_Summoner.dds,120,280,40,40,0,0,0,0,
+skill_icon,644,UI\Game\skill\S_Vicious_Summoner.dds,120,320,40,40,0,0,0,0,
+skill_icon,729,UI\Game\skill\S_Vicious_Summoner.dds,120,360,40,40,0,0,0,0,
+skill_icon,730,UI\Game\skill\S_Vicious_Summoner.dds,120,400,40,40,0,0,0,0,
+skill_icon,742,UI\Game\skill\S_Vicious_Summoner.dds,120,440,40,40,0,0,0,0,
+skill_icon,731,UI\Game\skill\S_Vicious_Summoner.dds,200,0,40,40,0,0,0,0,
+skill_icon,732,UI\Game\skill\S_Vicious_Summoner.dds,200,40,40,40,0,0,0,0,
+skill_icon,645,UI\Game\skill\S_Vicious_Summoner.dds,200,80,40,40,0,0,0,0,
+skill_icon,605,UI\Game\skill\S_Vicious_Summoner.dds,200,120,40,40,0,0,0,0,
+skill_icon,781,UI\Game\skill\S_Vicious_Summoner.dds,200,160,40,40,0,0,0,0,
+skill_icon,734,UI\Game\skill\S_Vicious_Summoner.dds,200,200,40,40,0,0,0,0,
+skill_icon,733,UI\Game\skill\S_Vicious_Summoner.dds,200,240,40,40,0,0,0,0,
+skill_icon,735,UI\Game\skill\S_Vicious_Summoner.dds,200,280,40,40,0,0,0,0,
+skill_icon,736,UI\Game\skill\S_Vicious_Summoner.dds,200,320,40,40,0,0,0,0,
+skill_icon,606,UI\Game\skill\S_Vicious_Summoner.dds,200,400,40,40,0,0,0,0,
+skill_icon,646,UI\Game\skill\S_Vicious_Summoner.dds,200,360,40,40,0,0,0,0,
+skill_icon,738,UI\Game\skill\S_Vicious_Summoner.dds,280,0,40,40,0,0,0,0,
+skill_icon,737,UI\Game\skill\S_Vicious_Summoner.dds,280,40,40,40,0,0,0,0,
+skill_icon,661,UI\Game\skill\S_Vicious_Summoner.dds,280,80,40,40,0,0,0,0,
+skill_icon,622,UI\Game\skill\S_Vicious_Summoner.dds,280,120,40,40,0,0,0,0,
+skill_icon,621,UI\Game\skill\S_Vicious_Summoner.dds,280,160,40,40,0,0,0,0,
+skill_icon,662,UI\Game\skill\S_Vicious_Summoner.dds,280,200,40,40,0,0,0,0,
+skill_icon,740,UI\Game\skill\S_Vicious_Summoner.dds,280,280,40,40,0,0,0,0,
+skill_icon,739,UI\Game\skill\S_Vicious_Summoner.dds,200,440,40,40,0,0,0,0,
+skill_icon,607,UI\Game\skill\S_Vicious_Summoner.dds,440,160,40,40,0,0,0,0,에리골
+skill_icon,623,UI\Game\skill\S_Vicious_Summoner.dds,440,200,40,40,0,0,0,0,에리골 그레이트
+skill_icon,647,UI\Game\skill\S_Vicious_Summoner.dds,440,120,40,40,0,0,0,0,기간테스
+skill_icon,663,UI\Game\skill\S_Vicious_Summoner.dds,440,240,40,40,0,0,0,0,기간테스 그레이트
+skill_icon,747,UI\Game\skill\S_Vicious_Summoner.dds,440,80,40,40,0,0,0,0,테리블 레인
+skill_icon,748,UI\Game\skill\S_Vicious_Summoner.dds,440,40,40,40,0,0,0,0,트윈 보어
+
+skill_icon,782,UI\Game\skill\S_Vicious_Summoner.dds,280,440,40,40,0,0,0,0,변신
+skill_icon,783,UI\Game\skill\S_Vicious_Summoner.dds,280,360,40,40,0,0,0,0,퓨리익스플루션
+skill_icon,784,UI\Game\skill\S_Vicious_Summoner.dds,280,320,40,40,0,0,0,0,소울링크
+skill_icon,785,UI\Game\skill\S_Vicious_Summoner.dds,280,400,40,40,0,0,0,0,퍼밀리어스프릿
+
+skill_icon,761,UI\Game\skill\S_Vicious_Summoner.dds,360,0,40,40,0,0,0,0,바인드 소드
+skill_icon,744,UI\Game\skill\S_Vicious_Summoner.dds,360,40,40,40,0,0,0,0,케인 호크
+skill_icon,745,UI\Game\skill\S_Vicious_Summoner.dds,360,80,40,40,0,0,0,0,스톰 러너
+skill_icon,706,UI\Game\skill\S_Vicious_Summoner.dds,360,120,40,40,0,0,0,0,파워 사크라
+skill_icon,708,UI\Game\skill\S_Vicious_Summoner.dds,360,160,40,40,0,0,0,0,언파워 사크라
+skill_icon,705,UI\Game\skill\S_Vicious_Summoner.dds,360,200,40,40,0,0,0,0,포스 사크라
+skill_icon,704,UI\Game\skill\S_Vicious_Summoner.dds,360,240,40,40,0,0,0,0,레지스트 사크라
+skill_icon,707,UI\Game\skill\S_Vicious_Summoner.dds,360,280,40,40,0,0,0,0,안티 레지스트 사크라
+skill_icon,702,UI\Game\skill\S_Vicious_Summoner.dds,360,320,40,40,0,0,0,0,리콜
+skill_icon,701,UI\Game\skill\S_Vicious_Summoner.dds,360,360,40,40,0,0,0,0,다크니스
+skill_icon,703,UI\Game\skill\S_Vicious_Summoner.dds,360,400,40,40,0,0,0,0,리무브 커즈
+skill_icon,763,UI\Game\skill\S_Vicious_Summoner.dds,360,440,40,40,0,0,0,0,인비저블 쉐도우
+skill_icon,764,UI\Game\skill\S_Vicious_Summoner.dds,440,0,40,40,0,0,0,0,아웃오브사이트
+skill_icon,681,UI\Game\skill\S_Bagi_Warrior.dds,280,80,40,40,0,0,0,0,헬리온의 축복
+skill_icon,682,UI\Game\skill\S_Bagi_Warrior.dds,280,120,40,40,0,0,0,0,헬리온의 의지
+skill_icon,683,UI\Game\skill\S_Bagi_Warrior.dds,280,160,40,40,0,0,0,0,헬리온의 신념
+
+skill_icon,11522,UI\Game\skill\S_Vicious_Summoner.dds,0,120,40,40,0,0,0,0,켄세라 에볼트샷(0)
+skill_icon,1522,UI\Game\skill\S_Vicious_Summoner.dds,40,120,40,40,0,0,0,0,켄세라 에볼트샷(1).
+skill_icon,11527,UI\Game\skill\S_Vicious_Summoner.dds,80,160,40,40,0,0,0,0,켄세라 비셔스마스터리(0)
+skill_icon,1527,UI\Game\skill\S_Vicious_Summoner.dds,120,160,40,40,0,0,0,0,켄세라 비셔스마스터리(1).
+skill_icon,11528,UI\Game\skill\S_Vicious_Summoner.dds,80,240,40,40,0,0,0,0,켄세라 비셔스쓰론(0)
+skill_icon,1528,UI\Game\skill\S_Vicious_Summoner.dds,120,240,40,40,0,0,0,0,켄세라 비셔스쓰론(1).
+skill_icon,11534,UI\Game\skill\S_Vicious_Summoner.dds,160,200,40,40,0,0,0,0,켄세라 베넘라이트(0)
+skill_icon,1534,UI\Game\skill\S_Vicious_Summoner.dds,200,200,40,40,0,0,0,0,켄세라 베넘라이트(1).
+skill_icon,11504,UI\Game\skill\S_Vicious_Summoner.dds,320,240,40,40,0,0,0,0,켄세라 레지스트사크라(0)
+skill_icon,1504,UI\Game\skill\S_Vicious_Summoner.dds,360,240,40,40,0,0,0,0,켄세라 레지스트사크라(1).
+skill_icon,11539,UI\Game\skill\S_Vicious_Summoner.dds,160,440,40,40,0,0,0,0,켄세라 인크리즈포이즌(0)
+skill_icon,1539,UI\Game\skill\S_Vicious_Summoner.dds,200,440,40,40,0,0,0,0,켄세라 인크리즈포이즌(1).
+skill_icon,11503,UI\Game\skill\S_Vicious_Summoner.dds,320,400,40,40,0,0,0,0,켄세라 리무브 커즈(0)
+skill_icon,1503,UI\Game\skill\S_Vicious_Summoner.dds,360,400,40,40,0,0,0,0,켄세라 리무브 커즈(1).
+skill_icon,11505,UI\Game\skill\S_Vicious_Summoner.dds,320,200,40,40,0,0,0,0,켄세라 포스사크라(0)
+skill_icon,1505,UI\Game\skill\S_Vicious_Summoner.dds,360,200,40,40,0,0,0,0,켄세라 포스사크라(1).
+skill_icon,11502,UI\Game\skill\S_Vicious_Summoner.dds,320,320,40,40,0,0,0,0,켄세라 리콜(0)
+skill_icon,1502,UI\Game\skill\S_Vicious_Summoner.dds,360,320,40,40,0,0,0,0,켄세라 리콜(1).
+skill_icon,11530,UI\Game\skill\S_Vicious_Summoner.dds,80,400,40,40,0,0,0,0,켄세라 서먼고스트(0)
+skill_icon,1530,UI\Game\skill\S_Vicious_Summoner.dds,120,400,40,40,0,0,0,0,켄세라 서먼고스트(1).
+skill_icon,11507,UI\Game\skill\S_Vicious_Summoner.dds,320,280,40,40,0,0,0,0,켄세라 안티레지스트사크라(0)
+skill_icon,1507,UI\Game\skill\S_Vicious_Summoner.dds,360,280,40,40,0,0,0,0,켄세라 안티레지스트사크라(1).
+skill_icon,11532,UI\Game\skill\S_Vicious_Summoner.dds,160,40,40,40,0,0,0,0,켄세라 인펙티드얼스(0)
+skill_icon,1532,UI\Game\skill\S_Vicious_Summoner.dds,200,40,40,40,0,0,0,0,켄세라 인펙티드얼스(1).
+skill_icon,11506,UI\Game\skill\S_Vicious_Summoner.dds,320,120,40,40,0,0,0,0,켄세라 파워사크라(0)
+skill_icon,1506,UI\Game\skill\S_Vicious_Summoner.dds,360,120,40,40,0,0,0,0,켄세라 파워사크라(1).
+skill_icon,11535,UI\Game\skill\S_Vicious_Summoner.dds,160,280,40,40,0,0,0,0,켄세라 헬버스트(0)
+skill_icon,1535,UI\Game\skill\S_Vicious_Summoner.dds,200,280,40,40,0,0,0,0,켄세라 헬버스트(1).
+skill_icon,11537,UI\Game\skill\S_Vicious_Summoner.dds,240,40,40,40,0,0,0,0,켄세라 팔퍼스(0)
+skill_icon,1537,UI\Game\skill\S_Vicious_Summoner.dds,280,40,40,40,0,0,0,0,켄세라 팔퍼스(1).
+skill_icon,11508,UI\Game\skill\S_Vicious_Summoner.dds,320,160,40,40,0,0,0,0,켄세라 언파워사크라(0)
+skill_icon,1508,UI\Game\skill\S_Vicious_Summoner.dds,360,160,40,40,0,0,0,0,켄세라 언파워사크라(1).
+skill_icon,11547,UI\Game\skill\S_Vicious_Summoner.dds,400,80,40,40,0,0,0,0,켄세라 테리블레인(0)
+skill_icon,1547,UI\Game\skill\S_Vicious_Summoner.dds,440,80,40,40,0,0,0,0,켄세라 테리블레인(1).
+skill_icon,11536,UI\Game\skill\S_Vicious_Summoner.dds,160,320,40,40,0,0,0,0,켄세라 크로스핵(0)
+skill_icon,1536,UI\Game\skill\S_Vicious_Summoner.dds,200,320,40,40,0,0,0,0,켄세라 크로스핵(1)
+skill_icon,11541,UI\Game\skill\S_Vicious_Summoner.dds,0,320,40,40,0,0,0,0,켄세라 이계의 피부(0)
+skill_icon,1541,UI\Game\skill\S_Vicious_Summoner.dds,40,320,40,40,0,0,0,0,켄세라 이계의 피부(1)
+skill_icon,11524,UI\Game\skill\S_Vicious_Summoner.dds,80,40,40,40,0,0,0,0,켄세라 블러드배츠(0)
+skill_icon,1524,UI\Game\skill\S_Vicious_Summoner.dds,120,40,40,40,0,0,0,0,켄세라 블러드배츠(1)
+skill_icon,11544,UI\Game\skill\S_Vicious_Summoner.dds,320,40,40,40,0,0,0,0,켄세라 케인 호크(0)
+skill_icon,1544,UI\Game\skill\S_Vicious_Summoner.dds,360,40,40,40,0,0,0,0,켄세라 케인 호크(1)
+skill_icon,11581,UI\Game\skill\S_Vicious_Summoner.dds,160,160,40,40,0,0,0,0,켄세라 낚시(0)
+skill_icon,1581,UI\Game\skill\S_Vicious_Summoner.dds,200,160,40,40,0,0,0,0,켄세라 낚시(1)
+skill_icon,11481,UI\Game\skill\S_Bagi_Warrior.dds,240,80,40,40,0,0,0,0,켄세라 헬리온의축복(0)
+skill_icon,1481,UI\Game\skill\S_Bagi_Warrior.dds,280,80,40,40,0,0,0,0,켄세라 헬리온의축복(1)
+skill_icon,11482,UI\Game\skill\S_Bagi_Warrior.dds,240,120,40,40,0,0,0,0,켄세라 헬리온의의지(0)
+skill_icon,1482,UI\Game\skill\S_Bagi_Warrior.dds,280,120,40,40,0,0,0,0,켄세라 헬리온의의지(1)
+skill_icon,11483,UI\Game\skill\S_Bagi_Warrior.dds,240,160,40,40,0,0,0,0,켄세라 헬리온의신념(0)
+skill_icon,1483,UI\Game\skill\S_Bagi_Warrior.dds,280,160,40,40,0,0,0,0,켄세라 헬리온의신념(1)
+skill_icon,11401,UI\Game\skill\S_Vicious_Summoner.dds,0,40,40,40,0,0,0,0,켄세라 비스트마스터리(0)
+skill_icon,1401,UI\Game\skill\S_Vicious_Summoner.dds,40,40,40,40,0,0,0,0,켄세라 비스트마스터리(1).
+skill_icon,11403,UI\Game\skill\S_Vicious_Summoner.dds,0,200,40,40,0,0,0,0,켄세라 그류폐인(0)
+skill_icon,1403,UI\Game\skill\S_Vicious_Summoner.dds,40,200,40,40,0,0,0,0,켄세라 그류폐인(1).
+skill_icon,11441,UI\Game\skill\S_Vicious_Summoner.dds,80,0,40,40,0,0,0,0,켄세라 리비도마스터리(0)
+skill_icon,1441,UI\Game\skill\S_Vicious_Summoner.dds,120,0,40,40,0,0,0,0,켄세라 리비도마스터리(1).
+skill_icon,11442,UI\Game\skill\S_Vicious_Summoner.dds,0,440,40,40,0,0,0,0,켄세라 타란툴라(0)
+skill_icon,1442,UI\Game\skill\S_Vicious_Summoner.dds,40,440,40,40,0,0,0,0,켄세라 타란툴라(1).
+skill_icon,11402,UI\Game\skill\S_Vicious_Summoner.dds,0,160,40,40,0,0,0,0,켄세라 레굴루스(0)
+skill_icon,1402,UI\Game\skill\S_Vicious_Summoner.dds,40,160,40,40,0,0,0,0,켄세라 레굴루스(1).
+skill_icon,11443,UI\Game\skill\S_Vicious_Summoner.dds,80,200,40,40,0,0,0,0,켄세라 알데바란(0)
+skill_icon,1443,UI\Game\skill\S_Vicious_Summoner.dds,120,200,40,40,0,0,0,0,켄세라 알데바란(1).
+skill_icon,11404,UI\Game\skill\S_Vicious_Summoner.dds,80,280,40,40,0,0,0,0,켄세라 셀라임(0)
+skill_icon,1404,UI\Game\skill\S_Vicious_Summoner.dds,120,280,40,40,0,0,0,0,켄세라 셀라임(1).
+skill_icon,11444,UI\Game\skill\S_Vicious_Summoner.dds,80,320,40,40,0,0,0,0,켄세라 텐타토르(0)
+skill_icon,1444,UI\Game\skill\S_Vicious_Summoner.dds,120,320,40,40,0,0,0,0,켄세라 텐타토르(1).
+skill_icon,11405,UI\Game\skill\S_Vicious_Summoner.dds,160,120,40,40,0,0,0,0,켄세라 불라곤(0)
+skill_icon,1405,UI\Game\skill\S_Vicious_Summoner.dds,200,120,40,40,0,0,0,0,켄세라 불라곤(1).
+skill_icon,11421,UI\Game\skill\S_Vicious_Summoner.dds,240,160,40,40,0,0,0,0,켄세라 부메랑(0)
+skill_icon,1421,UI\Game\skill\S_Vicious_Summoner.dds,280,160,40,40,0,0,0,0,켄세라 부메랑(1).
+skill_icon,11445,UI\Game\skill\S_Vicious_Summoner.dds,160,80,40,40,0,0,0,0,켄세라 아나데마(0)
+skill_icon,1445,UI\Game\skill\S_Vicious_Summoner.dds,200,80,40,40,0,0,0,0,켄세라 아나데마(1).
+skill_icon,11461,UI\Game\skill\S_Vicious_Summoner.dds,240,80,40,40,0,0,0,0,켄세라 소드비거(0)
+skill_icon,1461,UI\Game\skill\S_Vicious_Summoner.dds,280,80,40,40,0,0,0,0,켄세라 소드비거(1).
+skill_icon,11406,UI\Game\skill\S_Vicious_Summoner.dds,160,400,40,40,0,0,0,0,켄세라 아가레스(0)
+skill_icon,1406,UI\Game\skill\S_Vicious_Summoner.dds,200,400,40,40,0,0,0,0,켄세라 아가레스(1).
+skill_icon,11422,UI\Game\skill\S_Vicious_Summoner.dds,240,120,40,40,0,0,0,0,켄세라 메테오(0)
+skill_icon,1422,UI\Game\skill\S_Vicious_Summoner.dds,280,120,40,40,0,0,0,0,켄세라 메테오(1).
+skill_icon,11446,UI\Game\skill\S_Vicious_Summoner.dds,160,360,40,40,0,0,0,0,켄세라 무스펠(0)
+skill_icon,1446,UI\Game\skill\S_Vicious_Summoner.dds,200,360,40,40,0,0,0,0,켄세라 무스펠(1).
+skill_icon,11462,UI\Game\skill\S_Vicious_Summoner.dds,240,200,40,40,0,0,0,0,켄세라 포스웨이브(0)
+skill_icon,1462,UI\Game\skill\S_Vicious_Summoner.dds,280,200,40,40,0,0,0,0,켄세라 포스웨이브(1).
+skill_icon,11407,UI\Game\skill\S_Vicious_Summoner.dds,400,160,40,40,0,0,0,0,켄세라 에리골(0)
+skill_icon,1407,UI\Game\skill\S_Vicious_Summoner.dds,440,160,40,40,0,0,0,0,켄세라 에리골(1).
+skill_icon,11423,UI\Game\skill\S_Vicious_Summoner.dds,400,200,40,40,0,0,0,0,켄세라 크로스버스트(0)
+skill_icon,1423,UI\Game\skill\S_Vicious_Summoner.dds,440,200,40,40,0,0,0,0,켄세라 크로스버스트(1).
+skill_icon,11447,UI\Game\skill\S_Vicious_Summoner.dds,400,120,40,40,0,0,0,0,켄세라 기간테스(0)
+skill_icon,1447,UI\Game\skill\S_Vicious_Summoner.dds,440,120,40,40,0,0,0,0,켄세라 기간테스(1).
+skill_icon,11463,UI\Game\skill\S_Vicious_Summoner.dds,400,240,40,40,0,0,0,0,켄세라 더스트데빌(0)
+skill_icon,1463,UI\Game\skill\S_Vicious_Summoner.dds,440,240,40,40,0,0,0,0,켄세라 더스트데빌(1).
+skill_icon,11582,UI\Game\skill\S_Vicious_Summoner.dds,240,440,40,40,0,0,0,0,켄세라 변신(0)
+skill_icon,1582,UI\Game\skill\S_Vicious_Summoner.dds,280,440,40,40,0,0,0,0,켄세라 변신(1).
+skill_icon,11585,UI\Game\skill\S_Vicious_Summoner.dds,240,400,40,40,0,0,0,0,켄세라 퍼밀리어스프릿(0)
+skill_icon,1585,UI\Game\skill\S_Vicious_Summoner.dds,280,400,40,40,0,0,0,0,켄세라 퍼밀리어스프릿(1).
+skill_icon,11583,UI\Game\skill\S_Vicious_Summoner.dds,240,360,40,40,0,0,0,0,켄세라 퓨리익스플루션(0)
+skill_icon,1583,UI\Game\skill\S_Vicious_Summoner.dds,280,360,40,40,0,0,0,0,켄세라 퓨리익스플루션(1).
+skill_icon,11584,UI\Game\skill\S_Vicious_Summoner.dds,240,320,40,40,0,0,0,0,켄세라 소울링크(0)
+skill_icon,1584,UI\Game\skill\S_Vicious_Summoner.dds,280,320,40,40,0,0,0,0,켄세라 소울링크(1).
+
+skill_icon,11521,UI\Game\skill\S_Cancerra_Summoner.dds,240,320,40,40,0,0,0,0,켄세라 블레이드마스터리(0)
+skill_icon,1521,UI\Game\skill\S_Cancerra_Summoner.dds,280,320,40,40,0,0,0,0,켄세라 블레이드마스터리(1)
+skill_icon,11523,UI\Game\skill\S_Cancerra_Summoner.dds,240,360,40,40,0,0,0,0,켄세라 스핀블레이드(0)
+skill_icon,1523,UI\Game\skill\S_Cancerra_Summoner.dds,280,360,40,40,0,0,0,0,켄세라 스핀블레이드(1)
+skill_icon,11525,UI\Game\skill\S_Cancerra_Summoner.dds,240,400,40,40,0,0,0,0,켄세라 트윈블레이드(0)
+skill_icon,1525,UI\Game\skill\S_Cancerra_Summoner.dds,280,400,40,40,0,0,0,0,켄세라 트윈블레이드(1)
+skill_icon,11526,UI\Game\skill\S_Cancerra_Summoner.dds,240,440,40,40,0,0,0,0,켄세라 블레이드레인(0)
+skill_icon,1526,UI\Game\skill\S_Cancerra_Summoner.dds,280,440,40,40,0,0,0,0,켄세라 블레이드레인(1)
+skill_icon,11545,UI\Game\skill\S_Cancerra_Summoner.dds,320,0,40,40,0,0,0,0,켄세라 스톰러너(0)
+skill_icon,1545,UI\Game\skill\S_Cancerra_Summoner.dds,360,0,40,40,0,0,0,0,켄세라 스톰러너(1)
+skill_icon,11563,UI\Game\skill\S_Cancerra_Summoner.dds,320,80,40,40,0,0,0,0,켄세라 인비저블쉐도우(0)
+skill_icon,1563,UI\Game\skill\S_Cancerra_Summoner.dds,360,80,40,40,0,0,0,0,켄세라 인비저블쉐도우(1)
+skill_icon,11561,UI\Game\skill\S_Cancerra_Summoner.dds,320,200,40,40,0,0,0,0,켄세라 브레쓰어드저스트(0)
+skill_icon,1561,UI\Game\skill\S_Cancerra_Summoner.dds,360,200,40,40,0,0,0,0,켄세라 브레쓰어드저스트(1)
+skill_icon,11562,UI\Game\skill\S_Cancerra_Summoner.dds,320,320,40,40,0,0,0,0,켄세라 위크니스글랜스(0)
+skill_icon,1562,UI\Game\skill\S_Cancerra_Summoner.dds,360,320,40,40,0,0,0,0,켄세라 위크니스글랜스(1)
+skill_icon,11531,UI\Game\skill\S_Cancerra_Summoner.dds,320,120,40,40,0,0,0,0,켄세라 플라잉블레이드(0)
+skill_icon,1531,UI\Game\skill\S_Cancerra_Summoner.dds,360,120,40,40,0,0,0,0,켄세라 플라잉블레이드(1)
+skill_icon,11533,UI\Game\skill\S_Cancerra_Summoner.dds,320,160,40,40,0,0,0,0,켄세라 블레이드스톰(0)
+skill_icon,1533,UI\Game\skill\S_Cancerra_Summoner.dds,360,160,40,40,0,0,0,0,켄세라 블레이드스톰(1)
+skill_icon,11538,UI\Game\skill\S_Cancerra_Summoner.dds,320,240,40,40,0,0,0,0,켄세라 비쇼크(0)
+skill_icon,1538,UI\Game\skill\S_Cancerra_Summoner.dds,360,240,40,40,0,0,0,0,켄세라 비쇼크(1)
+skill_icon,11546,UI\Game\skill\S_Cancerra_Summoner.dds,320,360,40,40,0,0,0,0,켄세라 탑블레이드(0)
+skill_icon,1546,UI\Game\skill\S_Cancerra_Summoner.dds,360,360,40,40,0,0,0,0,켄세라 탑블레이드(1)
+skill_icon,11550,UI\Game\skill\S_Cancerra_Summoner.dds,320,440,40,40,0,0,0,0,켄세라 고스트댄싱(0)
+skill_icon,1550,UI\Game\skill\S_Cancerra_Summoner.dds,360,440,40,40,0,0,0,0,켄세라 고스트댄싱(1)
+skill_icon,11564,UI\Game\skill\S_Cancerra_Summoner.dds,400,80,40,40,0,0,0,0,켄세라 아웃오브사이트(0)
+skill_icon,1564,UI\Game\skill\S_Cancerra_Summoner.dds,440,80,40,40,0,0,0,0,켄세라 아웃오브사이트(1)
+skill_icon,11548,UI\Game\skill\S_Cancerra_Summoner.dds,320,400,40,40,0,0,0,0,켄세라 쉐도우어택(0)
+skill_icon,1548,UI\Game\skill\S_Cancerra_Summoner.dds,360,400,40,40,0,0,0,0,켄세라 쉐도우어택(1)
+skill_icon,11551,UI\Game\skill\S_Cancerra_Summoner.dds,400,0,40,40,0,0,0,0,켄세라 블리츠(0)
+skill_icon,1551,UI\Game\skill\S_Cancerra_Summoner.dds,440,0,40,40,0,0,0,0,켄세라 블리츠(1)
+
+skill_icon,10801,UI\Game\skill\S_Segnalle.dds,0,0,40,40,0,0,0,0,
+skill_icon,10806,UI\Game\skill\S_Segnalle.dds,0,40,40,40,0,0,0,0,
+skill_icon,10802,UI\Game\skill\S_Segnalle.dds,0,80,40,40,0,0,0,0,
+skill_icon,10804,UI\Game\skill\S_Segnalle.dds,0,120,40,40,0,0,0,0,
+skill_icon,10805,UI\Game\skill\S_Segnalle.dds,0,160,40,40,0,0,0,0,
+skill_icon,10821,UI\Game\skill\S_Segnalle.dds,0,200,40,40,0,0,0,0,
+skill_icon,10822,UI\Game\skill\S_Segnalle.dds,0,240,40,40,0,0,0,0,
+skill_icon,10823,UI\Game\skill\S_Segnalle.dds,0,280,40,40,0,0,0,0,
+skill_icon,10824,UI\Game\skill\S_Segnalle.dds,0,320,40,40,0,0,0,0,
+skill_icon,10841,UI\Game\skill\S_Segnalle.dds,160,160,40,40,0,

@@ -1,0 +1,2635 @@
+			true
+				layer			100
+				rect			96 182 31 31
+				cellsize		31 31
+				type			suit
+			</item>
+			<item>
+				id				suititem_1
+				enable			true
+				visible			true
+				layer			100
+				rect			205 182 31 31
+				cellsize		31 31
+				type			suit
+			</item>
+			<item>
+				id				suititem_2
+				enable			true
+				visible			true
+				layer			100
+				rect			96 238 31 31
+				cellsize		31 31
+				type			suit
+			</item>
+			<item>
+				id				suititem_3
+				enable			true
+				visible			true
+				layer			100
+				rect			205 238 31 31
+				cellsize		31 31
+				type			suit
+			</item>
+			<item>
+				id				suititem_4
+				enable			true
+				visible			true
+				layer			100
+				rect			25 89 63 127
+				cellsize		31 31
+				type			suit
+			</item>
+			<item>
+				id				suititem_5
+				enable			true
+				visible			true
+				layer			100
+				rect			245 89 63 127
+				cellsize		31 31
+				type			suit
+			</item>
+			<item>
+				id				suititem_6
+				enable			true
+				visible			true
+				layer			100
+				rect			28 54 30 30
+				cellsize		30 30
+				type			suit
+			</item>
+			<item>
+				id				suititem_7
+				enable			true
+				visible			true
+				layer			100
+				rect			82 54 30 30
+				cellsize		30 30
+				type			suit
+			</item>	
+			<item>
+				id				suititem_8
+				enable			true
+				visible			true
+				layer			100
+				rect			135 56 63 63
+				cellsize		31 31
+				type			suit
+			</item>		
+			<item>
+				id				suititem_9
+				enable			true
+				visible			true
+				layer			100
+				rect			135 123 63 95
+				cellsize		31 31
+				type			suit
+			</item>
+			<item>
+				id				suititem_10
+				enable			true
+				visible			true
+				layer			100
+				rect			135 222 63 63
+				cellsize		31 31
+				type			suit
+			</item>
+			<item>
+				id				suititem_11
+				enable			true
+				visible			true
+				layer			100
+				rect			25 221 63 72
+				cellsize		31 31
+				type			suit
+			</item>
+			<item>
+				id				suititem_12
+				enable			true
+				visible			true
+				layer			100
+				rect			245 221 63 72
+				cellsize		31 31
+				type			suit
+			</item>
+			
+			<item>
+				id				suititem_19
+				enable			true
+				visible			true
+				layer			100
+				rect			217 54 30 30
+				cellsize		30 30
+				type			suit
+			</item>
+			<item>
+				id				suititem_20
+				enable			true
+				visible			true
+				layer			100
+				rect			271 54 30 30
+				cellsize		30 30
+				type			suit
+			</item>
+			<item>
+				id				suititem_24
+				enable			true
+				visible			true
+				layer			100
+				rect			96 128 30 30
+				cellsize		30 30
+				type			suit
+			</item>
+			<item>
+				id				suititem_25
+				enable			true
+				visible			true
+				layer			100
+				rect			205 128 30 30
+				cellsize		30 30
+				type			suit
+			</item>	
+			<tab>
+				id				tab_chang_weapon
+				enable			true
+				visible			true
+				layer			100
+				type			false
+				rect			85 93 16 45
+				<image>
+					key			tab1
+					screen		inventory
+					index		4
+				</image>
+				<image>
+					key			tab2
+					screen		inventory
+					index		8
+				</image>
+				<button>
+					id			tab_chang_weapon_tab1
+					enable		true
+					visible		true
+					layer		100
+					rect		0 1 13 20
+				</button>
+				<button>
+					id			tab_chang_weapon_tab2
+					enable		true
+					visible		true
+					layer		100
+					rect		0 22 16 20
+				</button>
+			</tab>
+			<tab>
+				id				tab_chang_shield
+				enable			true
+				visible			true
+				layer			100
+				type			false
+				rect			231 93 16 45
+				<image>
+					key			tab1
+					screen		inventory
+					index		5
+				</image>
+				<image>
+					key			tab2
+					screen		inventory
+					index		9
+				</image>
+				<button>
+					id			tab_chang_shield_tab1
+					enable		true
+					visible		true
+					layer		100
+					rect		0 1 13 20
+				</button>
+				<button>
+					id			tab_chang_shield_tab2
+					enable		true
+					visible		true
+					layer		100
+					rect		0 22 16 20
+				</button>
+			</tab>
+		</panel>
+		<label>
+			id						lbl_tagSlot
+			enable					true
+			visible					true
+			layer					10
+			rect					16 308 62 14
+			<title>
+				color			ffffffff
+				fontIndex		4
+				text2 			260 3
+			</title>
+		</label>
+		<button>
+			id					btn_changebag_0
+			enable				true
+			visible				true
+			align 				center
+			layer				200
+			rect				96 306 46 22
+			<image>
+				key				none
+				screen			etc_01
+				index			76
+			</image>
+			<image>
+				key				check
+				screen			etc_01
+				index			75
+			</image>
+			<title>
+				state 			none
+				color			ff929292
+				fontIndex		4
+				position		0 6
+				text 			"I"
+			</title>
+			<title>
+				state 			over
+				color			ffffffff
+				fontIndex		4
+				position		0 6
+			</title>
+			<title>
+				state 			down
+				color			ff929292
+				fontIndex		4
+				position		2 7
+			</title>
+			<title>
+				state 			check
+				color			ffffffff
+				fontIndex		4
+				position		0 4
+			</title>
+		</button>
+		<button>
+			id					btn_changebag_1
+			enable				true
+			visible				true
+			align 				center
+			layer				200
+			rect				142 306 46 22
+			<image>
+				key				none
+				screen			etc_01
+				index			76
+			</image>
+			<image>
+				key				check
+				screen			etc_01
+				index			75
+			</image>
+			<title>
+				state 			none
+				color			ff929292
+				fontIndex		4
+				position		0 6
+				text 			"II"
+			</title>
+			<title>
+				state 			over
+				color			ffffffff
+				fontIndex		4
+				position		0 6
+			</title>
+			<title>
+				state 			down
+				color			ff929292
+				fontIndex		4
+				position		2 7
+			</title>
+			<title>
+				state 			check
+				color			ffffffff
+				fontIndex		4
+				position		0 4
+			</title>
+		</button>
+		<button>
+			id					btn_changebag_2
+			enable				true
+			visible				true
+			align 				center
+			layer				200
+			rect				188 306 46 22
+			<image>
+				key				none
+				screen			etc_01
+				index			76
+			</image>
+			<image>
+				key				check
+				screen			etc_01
+				index			75
+			</image>
+			<title>
+				state 			none
+				color			ff929292
+				fontIndex		4
+				position		0 6
+				text 			"III"
+			</title>
+			<title>
+				state 			over
+				color			ffffffff
+				fontIndex		4
+				position		0 6
+			</title>
+			<title>
+				state 			down
+				color			ff929292
+				fontIndex		4
+				position		2 7
+			</title>
+			<title>
+				state 			check
+				color			ffffffff
+				fontIndex		4
+				position		0 4
+			</title>
+		</button>
+		<button>
+			id					btn_changebag_3
+			enable				true
+			visible				true
+			align 				center
+			layer				200
+			rect				234 306 46 22
+			<image>
+				key				none
+				screen			etc_01
+				index			76
+			</image>
+			<image>
+				key				check
+				screen			etc_01
+				index			75
+			</image>
+			<title>
+				state 			none
+				color			ff929292
+				fontIndex		4
+				position		0 6
+				text 			"IV"
+			</title>
+			<title>
+				state 			over
+				color			ffffffff
+				fontIndex		4
+				position		0 6
+			</title>
+			<title>
+				state 			down
+				color			ff929292
+				fontIndex		4
+				position		2 7
+			</title>
+			<title>
+				state 			check
+				color			ffffffff
+				fontIndex		4
+				position		0 4
+			</title>
+		</button>
+		<itemslot>
+			id					slotbag
+			enable				true
+			visible				true
+			layer				200
+			rect				7 332 319 160
+			cellsize			32 32
+		</itemslot>
+		<label>
+			id					lbl_money
+			enable				true
+			visible				true
+			layer				101
+			align				right
+			rect				77 500 143 14
+			<title>
+				color			ffffffff
+				fontIndex		2
+			</title>
+		</label>
+		<button>
+			id					btn_drop
+			enable				true
+			visible				true
+			align 				center
+			layer				200
+			rect				230 498 57 19
+			<image>
+				key				none
+				screen			etc_01
+				index			2
+			</image>
+			<title>
+				state			none
+				color			ffb7b7b7
+				fontIndex		4
+				position		0 3
+				text2			260 8
+			</title>
+			<title>
+				state			over
+				color			ffffffff
+				fontIndex		4
+				position		0 3
+			</title>
+			<title>
+				state			down
+				color			ffb7b7b7
+				fontIndex		4
+				position		2 4
+			</title>
+		</button>
+	</panel>
+</window>
+<window>
+	name			Troop_state
+	enable			true
+	visible			false
+	layer			100
+	position		right top
+	rect			-163 217 7 610
+	<panel>
+		id			state_menu
+		enable		true
+		visible		true
+		layer		100
+		rect		0 0 164 19
+		<image>
+			key		none
+			screen	party
+			index	1
+		</image>
+		<button>
+			id			btn_state_plus
+			enable		true
+			visible		true
+			layer		100
+			type		0
+			rect		129 4 12 12
+			<image>
+				key		none
+				screen	etc_01
+				index	7
+			</image>
+			<image>
+				key		over
+				screen	etc_01
+				index	8
+			</image>
+			<image>
+				key		down
+				screen	etc_01
+				index	9
+			</image>
+		</button>
+		<button>
+			id			btn_state_minus
+			enable		true
+			visible		false
+			layer		100
+			type		0
+			rect		129 4 12 12
+			<image>
+				key		none
+				screen	etc_01
+				index	11
+			</image>
+			<image>
+				key		over
+				screen	etc_01
+				index	12
+			</image>
+			<image>
+				key		down
+				screen	etc_01
+				index	13
+			</image>
+		</button>
+		<button>
+			id			btn_state_hide
+			enable		true
+			visible		true
+			layer		100
+			type		0
+			rect		147 4 12 12
+			<image>
+				key		none
+				screen	etc_01
+				index	19
+			</image>
+			<image>
+				key		over
+				screen	etc_01
+				index	20
+			</image>
+			<image>
+				key		down
+				screen	etc_01
+				index	21
+			</image>
+		</button>
+	</panel>
+	<panel>
+		id			state_menu2
+		enable		true
+		visible		false
+		layer		100
+		rect		0 0 164 19
+		<button>
+			id			btn_state_show
+			enable		true
+			visible		true
+			layer		100
+			type		0
+			rect		147 4 12 12
+			<image>
+				key		none
+				screen	etc_01
+				index	15
+			</image>
+			<image>
+				key		over
+				screen	etc_01
+				index	16
+			</image>
+			<image>
+				key		down
+				screen	etc_01
+				index	17
+			</image>
+		</button>
+	</panel>
+	<partystate>	
+		id			state0
+		enable		true
+		visible		true
+		layer		100
+		rect		0 19 164 32	
+		maxstate	10
+		hideheight	22
+		
+		
+		<stateimage>
+			key		0
+			color	ffffffff
+			screen	etc_01
+			index	40
+		</stateimage>
+		<stateimage>
+			key		1
+			color	ffffffff
+			screen	etc_01
+			index	41
+		</stateimage>
+		<stateimage>
+			key		2
+			color	ffffffff
+			screen	etc_01
+			index	42
+		</stateimage>
+		<stateimage>
+			key		3
+			color	ffffffff
+			screen	etc_01
+			index	43
+		</stateimage>	
+		<stateimage>
+			key		4
+			color	ffffffff
+			screen	etc_01
+			index	44
+		</stateimage>
+		<stateimage>
+			key		5
+			color	ffffffff
+			screen	etc_01
+			index	45
+		</stateimage>	
+		
+		<panel>
+			id			state0_bg
+			enable		true
+			visible		true
+			layer		20
+			rect		0 0 164 32
+			<image>
+				key		0
+				screen	party
+				index	2
+			</image>	
+		</panel>
+		<panel>
+			id			state0_pcname
+			enable		true
+			visible		true
+			layer		100
+			rect		22 4 122 14
+			<title>
+				color		ffffffff
+				fontIndex	2
+				position	0 0				
+			</title>
+		</panel>
+		
+		<panel>
+			id			state0_class
+			enable		true
+			visible		true
+			layer		100
+			rect		2 2 18 18
+			<title>
+				color		ffffffff
+				fontIndex	2
+				position	0 0				
+			</title>			
+		</panel>
+		<button>
+			id			state0_follow
+			enable		true
+			visible		true
+			layer		100
+			rect		145 2 16 18
+			<image>
+				key		none
+				screen	party
+				index	7
+			</image>
+			<image>
+				key		over
+				screen	party
+				index	8
+			</image>
+			<image>
+				key		down
+				screen	party
+				index	9
+			</image>
+			<image>
+				key		check
+				screen	party
+				index	8
+			</image>
+		</button>				
+		<processbar>
+			id			state0_hp
+			enable		true
+			visible		true
+			layer		100
+			rect		4 22 155 8
+			maxsize     155
+			<image>
+				key		0
+				color	ffffffff
+				screen	etc_01
+				index	32
+			</image>
+		</processbar>
+		<panel>
+			id			pan_status_0
+			enable		true
+			visible		false
+			layer		100
+			rect		2 32 22 22
+			<image>
+				key		none
+				screen	buffer
+				index	1
+			</image>
+		</panel>
+		<panel>
+			id			pan_status_1
+			enable		true
+			visible		false
+			layer		90
+			rect		23 32 22 22
+			<image>
+				key		none
+				screen	buffer
+				index	1
+			</image>
+		</panel>
+		<panel>
+			id			pan_status_2
+			enable		true
+			visible		false
+			layer		90
+			rect		44 32 22 22
+			<image>
+				key		none
+				screen	buffer
+				index	1
+			</image>
+		</panel>
+		<panel>
+			id			pan_status_3
+			enable		true
+			visible		false
+			layer		90
+			rect		65 32 22 22
+			<image>
+				key		none
+				screen	buffer
+				index	1
+			</image>
+		</panel>
+		<panel>
+			id			pan_status_4
+			enable		true
+			visible		false
+			layer		90
+			rect		86 32 22 22
+			<image>
+				key		none
+				screen	buffer
+				index	1
+			</image>
+		</panel>
+		<panel>
+			id			pan_status_5
+			enable		true
+			visible		false
+			layer		90
+			rect		107 32 22 22
+			<image>
+				key		none
+				screen	buffer
+				index	1
+			</image>
+		</panel>
+		<panel>
+			id			pan_status_6
+			enable		true
+			visible		false
+			layer		90
+			rect		128 32 22 22
+			<image>
+				key		none
+				screen	buffer
+				index	1
+			</image>
+		</panel>
+		<panel>
+			id			pan_status_7
+			enable		true
+			visible		false
+			layer		90
+			rect		149 32 22 22
+			<image>
+				key		none
+				screen	buffer
+				index	1
+			</image>
+		</panel>
+	</partystate>
+			
+</window><window>
+	name			Troopwnd
+	enable			true
+	visible			false
+	layer			100
+	rect			0 0 146 0
+	titlerect		0 0 146 16
+	<panel>
+		id			pan_select0
+		enable		true
+		visible		false
+		layer		102
+		rect		0 0 146 14
+		<button>
+			id			btn_state_show
+			enable		true
+			visible		true
+			layer		100
+			type		0
+			rect		132 2 12 12
+			<image>
+				key		none
+				screen	etc_01
+				index	15
+			</image>
+			<image>
+				key		over
+				screen	etc_01
+				index	16
+			</image>
+			<image>
+				key		down
+				screen	etc_01
+				index	17
+			</image>
+		</button>
+	</panel>
+	<panel>
+		id			pan_select1
+		enable		true
+		visible		true
+		layer		102
+		rect		0 0 146 28
+		<image>   
+			key		none
+			screen	Combatplan_02
+			index	14
+		</image>
+		<button>
+			id			btn_state_hide
+			enable		true
+			visible		true
+			layer		100
+			type		0
+			rect		132 2 12 12
+			<image>
+				key		none
+				screen	etc_01
+				index	19
+			</image>
+			<image>
+				key		over
+				screen	etc_01
+				index	20
+			</image>
+			<image>
+				key		down
+				screen	etc_01
+				index	21
+			</image>
+		</button>
+		<button>
+			id			btn_state_plus
+			enable		true
+			visible		false
+			layer		100
+			type		0
+			rect		109 3 12 12
+			<image>
+				key		none
+				screen	etc_01
+				index	7
+			</image>
+			<image>
+				key		over
+				screen	etc_01
+				index	8
+			</image>
+			<image>
+				key		down
+				screen	etc_01
+				index	9
+			</image>
+		</button>
+		<button>
+			id			btn_state_minus
+			enable		true
+			visible		false
+			layer		100
+			type		0
+			rect		109 3 12 12
+			<image>
+				key		none
+				screen	etc_01
+				index	11
+			</image>
+			<image>
+				key		over
+				screen	etc_01
+				index	12
+			</image>
+			<image>
+				key		down
+				screen	etc_01
+				index	13
+			</image>
+		</button>
+	</panel>
+	<panel>
+		id			pan_select2
+		enable		true
+		visible		true
+		layer		102
+		rect		0 48 146 30
+		<image>   
+			key		none
+			screen	Combatplan_02
+			index	15
+		</image>
+	</panel>
+	<panel>
+		id			pan_select3
+		enable		true
+		visible		true
+		layer		102
+		rect		0 79 146 14
+		<image>
+			key		none
+			screen	Combatplan_02
+			index	16
+		</image>
+	</panel>
+</window><window>
+	name			upgradewnd
+	enable			true
+	visible			true
+	layer			100
+	rect			0 0 800 600
+	titlerect		0 0 581 27
+	
+	<panel>
+		id			pan_upgrade
+		enable		true
+		visible		true
+		layer		1
+		rect		0  0 264 307
+		<image>
+			key		none
+			screen	itemStrength
+			index	1
+		</image>
+		
+		<label>
+			id		    lbl_title
+			enable		true
+			visible		true
+			layer		100
+			align 		center
+			rect		28 2 206 14
+			<title>
+				state 		title
+				color		FFFFFFFF
+				fontIndex	4
+				text2		310 10
+			</title>
+		</label>
+		
+		<button>
+			id			btn_exit
+			enable		true
+			visible		true
+			layer		100
+			rect		248 3 13 13
+			sound  0
+			<image>
+				key		0
+				screen	etc_01
+				index	3
+			</image>
+			<image>
+				key		over
+				screen	etc_01
+				index	4
+			</image>
+			<image>
+				key		down
+				screen	etc_01
+				index	5
+			</image>
+		</button>
+		<label>
+			id		    lbl_tagItem
+			enable		true
+			visible		true
+			layer		100
+			align 		center
+			rect		20 31 64 14
+			<title>
+				state 		none
+				color		FFFFFFFF
+				fontIndex	4
+				text2		310 11
+			</title>
+		</label>
+		<item>
+			id			upgrade_item
+			enable		true
+			visible		true
+			layer		1
+			rect		20 48 64 128	
+			cellsize 	32 32
+			moveable	true
+			type		suit
+		</item>	
+		<label>
+			id		    lbl_tagStone
+			enable		true
+			visible		true
+			layer		100
+			align 		center
+			rect		198 31 32 14
+			<title>
+				state 		none
+				color		FFFFFFFF
+				fontIndex	4
+				text2		310 12
+			</title>
+		</label>	
+		<item>
+			id			stone_item
+			enable		true
+			visible		true
+			layer		1
+			rect		198 59 32 32	
+			cellsize 	32 32
+			moveable	true
+		</item>
+		<item>
+			id			cash_item
+			enable		true
+			visible		true
+			layer		1
+			rect		198 120 32 32	
+			cellsize 	32 32
+			moveable	true
+		</item>
+		<label>
+			id			lbl_percent
+			enable		true
+			visible		true
+			layer		100
+			align		center
+			rect		189 157 50 14
+			<title>
+				color		ffffffff
+				fontIndex	2
+			</title>
+		</label>
+		
+		<panel>
+			id		pan_effect
+			enable		true
+			visible		true
+			layer		160
+			intersect 	false
+			rect		120 60 48 72	
+		</panel>		
+
+		<button>
+			id			btn_strength
+			enable		false
+			visible		true
+			layer		100
+			align       center
+			rect		115 69 48 72
+			sound  0
+			<image>
+				key		none
+				color   0x00000000
+			</image>
+			<image>
+				key		over
+				screen	itemStrength
+				index	2
+			</image>
+			<image>
+				key		disable
+				screen	itemStrength
+				index	3
+			</image>
+			<title>
+    			state 		none
+    			color		ff929292
+    			fontIndex	2
+    			position	0 28
+    			text2		310 3
+    		</title>
+    		<title>
+    			state 		over
+    			color		ffffffff
+    			fontIndex	2
+    			position	0 28
+    		</title>
+    		<title>
+    			state 		down
+    			color		ff929292
+    			fontIndex	2
+    			position	0 30
+    		</title>
+		</button>
+		<label>
+			id		    lbl_tagCost
+			enable		true
+			visible		true
+			layer		100
+			align 		center
+			rect		31 189 52 14
+			<title>
+				state 		none
+				color		FFFFFFFF
+				fontIndex	4
+				text2		310 4
+			</title>
+		</label>		
+		<label>
+			id			lbl_cost
+			enable		true
+			visible		true
+			layer		100
+			align		right
+			rect		84 189 143 14
+			<title>
+				color		ffffffff
+				fontIndex	2
+			</title>
+		</label>
+        <label>
+			id			lbl_msg
+			enable		true
+			visible		true
+			layer		100
+			align		center
+			rect		33 226 197 14
+			<title>
+				color		ffffffff
+				fontIndex	4
+				text2		310 13
+			</title>
+		</label>
+		<label>
+			id			lbl_msg1
+			enable		true
+			visible		true
+			layer		100
+			align		center
+			rect		16 283 63 14
+			<title>
+				color		ffffffff
+				fontIndex	4
+				text2		310 14
+			</title>
+		</label>
+		<label>
+			id			lbl_msg2
+			enable		true
+			visible		true
+			layer		100
+			align		center
+			rect		100 283 63 14
+			<title>
+				color		ffffffff
+				fontIndex	4
+				text2		310 15
+			</title>
+		</label>
+		<label>
+			id			lbl_msg3
+			enable		true
+			visible		true
+			layer		100
+			align		center
+			rect		181 283 63 14
+			<title>
+				color		ffffffff
+				fontIndex	4
+				text2		310 16
+			</title>
+		</label>		
+	</panel>
+	
+	
+	<panel>
+		id			pan_inven
+		enable		true
+		visible		true
+		layer		1
+		rect		264 0 1025 724
+		<label>
+    		id					lbl_title
+    		enable				true
+    		visible				true
+    		layer				108
+    		rect				147 2 42 14
+    		<title>
+    			color			ffffffff
+    			fontIndex		4
+    			text2 			260 1
+    		</title>
+    	</label>
+    	<button>
+    		id					btn_exit
+    		enable				true
+    		visible				true
+    		layer				108
+    		rect				317 3 13 13
+    		sound				0
+    		<image>
+    			key				0
+    			screen			etc_01
+    			index			3
+    		</image>
+    		<image>
+    			key				over
+    			screen			etc_01
+    			index			4
+    		</image>
+    		<image>
+    			key				down
+    			screen			etc_01
+    			index			5
+    		</image>
+    	</button>
+    	<label>
+    		id					lbl_tagSuit
+    		enable				true
+    		visible				true
+    		layer				108
+    		rect				16 25 62 14
+    		<title>
+    			color			ffffffff
+    			fontIndex		4
+    			text2 			260 2
+    		</title>
+    	</label>
+    	<button>
+    		id					btn_equip_item
+    		enable				true
+    		visible				true
+    		check               true
+    		align 				center
+    		layer				108
+    		rect				198 23 70 22
+    		<image>
+    			key				none
+    			screen			etc_01
+    			index			55
+    		</image>
+    		<image>
+    			key				check
+    			screen			etc_01
+    			index			54
+    		</image>
+    		<title>
+    			state 			none
+    			color			ff929292
+    			fontIndex		2
+    			position		0 6
+    			text2 			260 4
+    		</title>
+    		<title>
+    			state 			over
+    			color			ffffffff
+    			fontIndex		2
+    			position		0 6
+    		</title>
+    		<title>
+    			state 			down
+    			color			ff929292
+    			fontIndex		2
+    			position		2 7
+    		</title>
+    		<title>
+    			state 			check
+    			color			ffffffff
+    			fontIndex		2
+    			position		0 4
+    		</title>
+    	</button>
+    	<button>
+    		id					btn_cos_item
+    		enable				false
+    		visible				true
+    		align 				center
+    		layer				110
+    		rect				262 23 70 22
+    		<image>
+    			key				none
+    			screen			etc_01
+    			index			55
+    		</image>
+    		<image>
+    			key				check
+    			screen			etc_01
+    			index			54
+    		</image>
+    		<title>
+    			state 			none
+    			color			ff929292
+    			fontIndex		2
+    			position		0 6
+    			text2 			260 5
+    		</title>
+    		<title>
+    			state 			over
+    			color			ffffffff
+    			fontIndex		2
+    			position		0 6
+    		</title>
+    		<title>
+    			state 			down
+    			color			ff929292
+    			fontIndex		2
+    			position		2 7
+    		</title>
+    		<title>
+    			state 			check
+    			color			ffffffff
+    			fontIndex		2
+    			position		0 4
+    		</title>
+    	</button>
+    	<button>
+			id					btn_equip_unlock
+			enable				true
+			visible				false
+			layer				108
+			rect				88 23 23 23
+			<image>
+				key				none
+				screen			Inven_03
+				index			16
+			</image>
+			<image>
+				key				over
+				screen			Inven_03
+				index			17
+			</image>
+			<image>
+				key				click
+				screen			Inven_03
+				index			18
+			</image>
+		</button>
+    	<button>
+			id					btn_equip_lock
+			enable				true
+			visible				true
+			layer				108
+			rect				88 23 23 23
+			<image>
+				key				none
+				screen			Inven_03
+				index			13
+			</image>
+			<image>
+				key				over
+				screen			Inven_03
+				index			14
+			</image>
+			<image>
+				key				click
+				screen			Inven_03
+				index			15
+			</image>
+		</button>
+    	<panel>
+    		id					pan_bg_equip
+    		enable				true
+    		visible				true
+    		layer				1
+    		rect				0 0 333 337
+    		<image>
+    			key				0
+    			screen			inventory
+    			index			1
+    		</image>
+    	</panel>
+    	<panel>
+    		id					pan_bg_inven
+    		enable				true
+    		visible				true
+    		layer				1
+    		rect				0 337 333 222
+    		<image>
+    			key				0
+    			screen			inventory
+    			index			2
+    		</image>
+    	</panel>
+    	<panel>
+    		id					pan_bg_cos
+    		enable				true
+    		visible				false
+    		layer				120
+    		rect				6 48 321 283
+    		<image>
+    			key				0
+    			screen			inventory
+    			index			3
+    		</image>
+    		<item>
+    			id				suititem_18
+    			enable			true
+    			visible			true
+    			layer			100
+    			rect			119 68 94 127
+    			cellsize		31 31
+    			type			suit
+    		</item>
+    	</panel>
+    	<panel>
+			id					pan_bg_cos_lock
+			enable				true
+			visible				false
+			layer				140
+			rect				113 60 94 127
+			<image>
+				key				0
+				screen			Inven_03
+				index			2
+			</image>
+		</panel>
+		<panel>
+			id					pan_equip_lock
+			enable				true
+			visible				false
+			layer				140
+			rect				6 48 321 248
+			<image>
+				key				0
+				screen			Inven_03
+				index			1
+			</image>
+		</panel>
+    	<panel>
+    		id					pan_equip
+    		enable				true
+    		visible				true
+    		layer				100
+    		rect				0 0 333 589
+ 		<item>
+			id				suititem_0
+			enable			true
+			visible			true
+			layer			100
+			rect			96 201 31 31
+			cellsize		31 31
+			type			suit
+		</item>
+		<item>
+			id				suititem_1
+			enable			true
+			visible			true
+			layer			100
+			rect			205 201 31 31
+			cellsize		31 31
+			type			suit
+		</item>
+		<item>
+			id				suititem_2
+			enable			true
+			visible			true
+			layer			100
+			rect			96 272 31 31
+			cellsize		31 31
+			type			suit
+		</item>
+		<item>
+			id				suititem_3
+			enable			true
+			visible			true
+			layer			100
+			rect			205 272 31 31
+			cellsize		31 31
+			type			suit
+		</item>
+		<item>
+			id				suititem_4
+			enable			true
+			visible			true
+			layer			100
+			rect			25 89 63 127
+			cellsize		31 31
+			type			suit
+		</item>
+		<item>
+			id				suititem_5
+			enable			true
+			visible			true
+			layer			100
+			rect			245 89 63 127
+			cellsize		31 31
+			type			suit
+		</item>
+
+		<item>
+			id				suititem_6
+			enable			true
+			visible			true
+			layer			100
+			rect			28 54 30 30
+			cellsize		30 30
+			type			suit
+		</item>
+		<item>
+			id				suititem_7
+			enable			true
+			visible			true
+			layer			100
+			rect			82 54 30 30
+			cellsize		30 30
+			type			suit
+		</item>		
+		
+		
+		<item>
+			id				suititem_8
+			enable			true
+			visible			true
+			layer			100
+			rect			135 56 63 63
+			cellsize		31 31
+			type			suit
+		</item>		
+		<item>
+			id				suititem_9
+			enable			true
+			visible			true
+			layer			100
+			rect			135 123 63 95
+			cellsize		31 31
+			type			suit
+		</item>
+		<item>
+			id				suititem_10
+			enable			true
+			visible			true
+			layer			100
+			rect			135 258 63 63
+			cellsize		31 31
+			type			suit
+		</item>
+		<item>
+			id				suititem_11
+			enable			true
+			visible			true
+			layer			100
+			rect			25 258 63 72
+			cellsize		31 31
+			type			suit
+		</item>
+		<item>
+			id				suititem_12
+			enable			true
+			visible			true
+			layer			100
+			rect			245 258 63 72
+			cellsize		31 31
+			type			suit
+		</item>
+		
+		<item>
+			id				suititem_19
+			enable			true
+			visible			true
+			layer			100
+			rect			217 54 30 30
+			cellsize		30 30
+			type			suit
+		</item>
+		<item>
+			id				suititem_20
+			enable			true
+			visible			true
+			layer			100
+			rect			271 54 30 30
+			cellsize		30 30
+			type			suit
+		</item>		
+
+		<item>
+			id				suititem_24
+			enable			true
+			visible			true
+			layer			100
+			rect			96 128 30 30
+			cellsize		30 30
+			type			suit
+		</item>
+		<item>
+			id				suititem_25
+			enable			true
+			visible			true
+			layer			100
+			rect			205 128 30 30
+			cellsize		30 30
+			type			suit
+		</item>		
+
+    		<tab>
+    			id				tab_chang_weapon
+    			enable			true
+    			visible			true
+    			layer			200
+    			type			false
+    			rect			85 93 16 45
+    			<image>
+    				key			tab1
+    				screen		inventory
+    				index		4
+    			</image>
+    			<image>
+    				key			tab2
+    				screen		inventory
+    				index		8
+    			</image>
+    			<button>
+    				id			tab_chang_weapon_tab1
+    				enable		true
+    				visible		true
+    				layer		100
+    				rect		0 1 13 20
+    			</button>
+    			<button>
+    				id			tab_chang_weapon_tab2
+    				enable		true
+    				visible		true
+    				layer		100
+    				rect		0 22 16 20
+    			</button>
+    		</tab>
+    		<tab>
+    			id				tab_chang_shield
+    			enable			true
+    			visible			true
+    			layer			200
+    			type			false
+    			rect			231 93 16 45
+    			<image>
+    				key			tab1
+    				screen		inventory
+    				index		5
+    			</image>
+    			<image>
+    				key			tab2
+    				screen		inventory
+    				index		9
+    			</image>
+    			<button>
+    				id			tab_chang_shield_tab1
+    				enable		true
+    				visible		true
+    				layer		100
+    				rect		0 1 13 20
+    			</button>
+    			<button>
+    				id			tab_chang_shield_tab2
+    				enable		true
+    				visible		true
+    				layer		100
+    				rect		0 22 16 20
+    			</button>
+    		</tab>
+    	</panel>
+    	<label>
+        	id						lbl_tagSlot
+        	enable					true
+        	visible					true
+        	layer					10
+        	rect					16 343 70 14
+    		<title>
+    			color			ffffffff
+    			fontIndex		4
+    			text2 			260 3
+    		</title>
+    	</label>
+	<button>
+		id					btn_changebag_0
+		enable				true
+		visible				true
+		align 				center
+		layer				200
+		rect				96 341 46 22
+		<image>
+			key				none
+			screen			etc_01
+			index			76
+		</image>
+		<image>
+			key				check
+			screen			etc_01
+			index			75
+		</image>
+		<title>
+			state 			none
+			color			ff929292
+			fontIndex		4
+			position		0 6
+			text 			"I"
+		</title>
+		<title>
+			state 			over
+			color			ffffffff
+			fontIndex		4
+			position		0 6
+		</title>
+		<title>
+			state 			down
+			color			ff929292
+			fontIndex		4
+			position		2 7
+		</title>
+		<title>
+			state 			check
+			color			ffffffff
+			fontIndex		4
+			position		0 4
+		</title>
+	</button>
+	<button>
+		id					btn_changebag_1
+		enable				true
+		visible				true
+		align 				center
+		layer				200
+		rect				142 341 46 22
+		<image>
+			key				none
+			screen			etc_01
+			index			76
+		</image>
+		<image>
+			key				check
+			screen			etc_01
+			index			75
+		</image>
+		<title>
+			state 			none
+			color			ff929292
+			fontIndex		4
+			position		0 6
+			text 			"II"
+		</title>
+		<title>
+			state 			over
+			color			ffffffff
+			fontIndex		4
+			position		0 6
+		</title>
+		<title>
+			state 			down
+			color			ff929292
+			fontIndex		4
+			position		2 7
+		</title>
+		<title>
+			state 			check
+			color			ffffffff
+			fontIndex		4
+			position		0 4
+		</title>
+	</button>
+	<button>
+		id					btn_changebag_2
+		enable				true
+		visible				true
+		align 				center
+		layer				200
+		rect				188 341 46 22
+		<image>
+			key				none
+			screen			etc_01
+			index			76
+		</image>
+		<image>
+			key				check
+			screen			etc_01
+			index			75
+		</image>
+		<title>
+			state 			none
+			color			ff929292
+			fontIndex		4
+			position		0 6
+			text 			"III"
+		</title>
+		<title>
+			state 			over
+			color			ffffffff
+			fontIndex		4
+			position		0 6
+		</title>
+		<title>
+			state 			down
+			color			ff929292
+			fontIndex		4
+			position		2 7
+		</title>
+		<title>
+			state 			check
+			color			ffffffff
+			fontIndex		4
+			position		0 4
+		</title>
+	</button>
+	<button>
+		id					btn_changebag_3
+		enable				true
+		visible				true
+		align 				center
+		layer				200
+		rect				234 341 46 22
+		<image>
+			key				none
+			screen			etc_01
+			index			76
+		</image>
+		<image>
+			key				check
+			screen			etc_01
+			index			75
+		</image>
+		<title>
+			state 			none
+			color			ff929292
+			fontIndex		4
+			position		0 6
+			text 			"IV"
+		</title>
+		<title>
+			state 			over
+			color			ffffffff
+			fontIndex		4
+			position		0 6
+		</title>
+		<title>
+			state 			down
+			color			ff929292
+			fontIndex		4
+			position		2 7
+		</title>
+		<title>
+			state 			check
+			color			ffffffff
+			fontIndex		4
+			position		0 4
+		</title>
+	</button>
+    	<itemslot>
+    		id					slotbag
+    		enable				true
+    		visible				true
+    		layer				200
+    		rect				7 368 319 160
+    		cellsize			32 32
+    	</itemslot>
+		<label>
+			id					lbl_ppoint
+			enable				true
+			visible				true
+			layer				101
+			align				right
+			rect				25 535 111 14
+			<title>
+				color			ffffffff
+				fontIndex		2
+			</title>
+		</label>
+    	<label>
+    		id					lbl_money
+    		enable				true
+    		visible				true
+    		layer				101
+    		align				right
+    		rect				167 535 100 14
+    		<title>
+    			color			ffffffff
+    			fontIndex		2
+    		</title>
+    	</label>
+	</panel>	
+</window>
+Index,swd/mesh,tpack,effect,arc/mesh,tpack,effect,sor/mesh,tpack,effect,sum/mesh,tpack,effect,seg/mesh,tpack,effect,bgw/mesh,tpack,effect,alo/mesh,tpack,effect,lod
+57001,Item\Costume\SWD_EQU_C001.mesh,Item\Costume\SWD_EQU_C001.tpack,0,Item\Costume\ARC_EQU_C001.mesh,Item\Costume\ARC_EQU_C001.tpack,0,Item\Costume\SOR_EQU_C001.mesh,Item\Costume\SOR_EQU_C001.tpack,0,Item\Costume\SUM_EQU_C001.mesh,Item\Costume\SUM_EQU_C001.tpack,0,Item\Costume\HIL_EQU_C001.mesh,Item\Costume\HIL_EQU_C001.tpack,0,Item\Costume\WAR_EQU_C001.mesh,Item\Costume\WAR_EQU_C001.tpack,0,Item\Costume\ALO_EQU_C001.mesh,Item\Costume\ALO_EQU_C001.tpack,0,TRUE
+57002,Item\Costume\SWD_EQU_C001.mesh,Item\Costume\SWD_EQU_C001.tpack,0,Item\Costume\ARC_EQU_C001.mesh,Item\Costume\ARC_EQU_C001.tpack,0,Item\Costume\SOR_EQU_C001.mesh,Item\Costume\SOR_EQU_C001.tpack,0,Item\Costume\SUM_EQU_C001.mesh,Item\Costume\SUM_EQU_C001.tpack,0,Item\Costume\HIL_EQU_C001.mesh,Item\Costume\HIL_EQU_C001.tpack,0,Item\Costume\WAR_EQU_C001.mesh,Item\Costume\WAR_EQU_C001.tpack,0,Item\Costume\ALO_EQU_C001.mesh,Item\Costume\ALO_EQU_C001.tpack,0,TRUE
+57003,Item\Costume\SWD_EQU_C001.mesh,Item\Costume\SWD_EQU_C001.tpack,0,Item\Costume\ARC_EQU_C001.mesh,Item\Costume\ARC_EQU_C001.tpack,0,Item\Costume\SOR_EQU_C001.mesh,Item\Costume\SOR_EQU_C001.tpack,0,Item\Costume\SUM_EQU_C001.mesh,Item\Costume\SUM_EQU_C001.tpack,0,Item\Costume\HIL_EQU_C001.mesh,Item\Costume\HIL_EQU_C001.tpack,0,Item\Costume\WAR_EQU_C001.mesh,Item\Costume\WAR_EQU_C001.tpack,0,Item\Costume\ALO_EQU_C001.mesh,Item\Costume\ALO_EQU_C001.tpack,0,TRUE
+57004,Item\Costume\SWD_EQU_C001.mesh,Item\Costume\SWD_EQU_C001.tpack,0,Item\Costume\ARC_EQU_C001.mesh,Item\Costume\ARC_EQU_C001.tpack,0,Item\Costume\SOR_EQU_C001.mesh,Item\Costume\SOR_EQU_C001.tpack,0,Item\Costume\SUM_EQU_C001.mesh,Item\Costume\SUM_EQU_C001.tpack,0,Item\Costume\HIL_EQU_C001.mesh,Item\Costume\HIL_EQU_C001.tpack,0,Item\Costume\WAR_EQU_C001.mesh,Item\Costume\WAR_EQU_C001.tpack,0,Item\Costume\ALO_EQU_C001.mesh,Item\Costume\ALO_EQU_C001.tpack,0,TRUE
+57005,Item\Costume\SWD_EQU_C003.mesh,Item\Costume\SWD_EQU_C003.tpack,0,,,0,,,0,Item\Costume\SUM_EQU_C003.mesh,Item\Costume\SUM_EQU_C003.tpack,0,,,0,Item\Costume\WAR_EQU_C003.mesh,Item\Costume\WAR_EQU_C003.tpack,0,,,0,TRUE
+57006,Item\Costume\SWD_EQU_C003.mesh,Item\Costume\SWD_EQU_C003.tpack,0,,,0,,,0,Item\Costume\SUM_EQU_C003.mesh,Item\Costume\SUM_EQU_C003.tpack,0,,,0,Item\Costume\WAR_EQU_C003.mesh,Item\Costume\WAR_EQU_C003.tpack,0,,,0,TRUE
+57007,Item\Costume\SWD_EQU_C003.mesh,Item\Costume\SWD_EQU_C003.tpack,0,,,0,,,0,Item\Costume\SUM_EQU_C003.mesh,Item\Costume\SUM_EQU_C003.tpack,0,,,0,Item\Costume\WAR_EQU_C003.mesh,Item\Costume\WAR_EQU_C003.tpack,0,,,0,TRUE
+57008,Item\Costume\SWD_EQU_C005.mesh,Item\Costume\SWD_EQU_C005.tpack,0,,,0,,,0,Item\Costume\SUM_EQU_C005.mesh,Item\Costume\SUM_EQU_C005.tpack,0,,,0,Item\Costume\WAR_EQU_C005.mesh,Item\Costume\WAR_EQU_C005.tpack,0,,,0,TRUE
+57009,Item\Costume\SWD_EQU_C005.mesh,Item\Costume\SWD_EQU_C005.tpack,0,,,0,,,0,Item\Costume\SUM_EQU_C005.mesh,Item\Costume\SUM_EQU_C005.tpack,0,,,0,Item\Costume\WAR_EQU_C005.mesh,Item\Costume\WAR_EQU_C005.tpack,0,,,0,TRUE
+57010,Item\Costume\SWD_EQU_C005.mesh,Item\Costume\SWD_EQU_C005.tpack,0,,,0,,,0,Item\Costume\SUM_EQU_C005.mesh,Item\Costume\SUM_EQU_C005.tpack,0,,,0,Item\Costume\WAR_EQU_C005.mesh,Item\Costume\WAR_EQU_C005.tpack,0,,,0,TRUE
+57011,Item\Costume\SWD_EQU_C006.mesh,Item\Costume\SWD_EQU_C006.tpack,0,Item\Costume\ARC_EQU_C006.mesh,Item\Costume\ARC_EQU_C006.tpack,0,Item\Costume\SOR_EQU_C006.mesh,Item\Costume\SOR_EQU_C006.tpack,0,Item\Costume\SUM_EQU_C006.mesh,Item\Costume\SUM_EQU_C006.tpack,0,Item\Costume\HIL_EQU_C006.mesh,Item\Costume\HIL_EQU_C006.tpack,0,Item\Costume\WAR_EQU_C006.mesh,Item\Costume\WAR_EQU_C006.tpack,0,Item\Costume\ALO_EQU_C006.mesh,Item\Costume\ALO_EQU_C006.tpack,0,TRUE
+57012,Item\Costume\SWD_EQU_C006.mesh,Item\Costume\SWD_EQU_C006.tpack,0,Item\Costume\ARC_EQU_C006.mesh,Item\Costume\ARC_EQU_C006.tpack,0,Item\Costume\SOR_EQU_C006.mesh,Item\Costume\SOR_EQU_C006.tpack,0,Item\Costume\SUM_EQU_C006.mesh,Item\Costume\SUM_EQU_C006.tpack,0,Item\Costume\HIL_EQU_C006.mesh,Item\Costume\HIL_EQU_C006.tpack,0,Item\Costume\WAR_EQU_C006.mesh,Item\Costume\WAR_EQU_C006.tpack,0,Item\Costume\ALO_EQU_C006.mesh,Item\Costume\ALO_EQU_C006.tpack,0,TRUE
+57013,Item\Costume\SWD_EQU_C006.mesh,Item\Costume\SWD_EQU_C006.tpack,0,Item\Costume\ARC_EQU_C006.mesh,Item\Costume\ARC_EQU_C006.tpack,0,Item\Costume\SOR_EQU_C006.mesh,Item\Costume\SOR_EQU_C006.tpack,0,Item\Costume\SUM_EQU_C006.mesh,Item\Costume\SUM_EQU_C006.tpack,0,Item\Costume\HIL_EQU_C006.mesh,Item\Costume\HIL_EQU_C006.tpack,0,Item\Costume\WAR_EQU_C006.mesh,Item\Costume\WAR_EQU_C006.tpack,0,Item\Costume\ALO_EQU_C006.mesh,Item\Costume\ALO_EQU_C006.tpack,0,TRUE
+57014,,,0,Item\Costume\ARC_EQU_C003.mesh,Item\Costume\ARC_EQU_C003.tpack,0,Item\Costume\SOR_EQU_C003.mesh,Item\Costume\SOR_EQU_C003.tpack,0,,,0,Item\Costume\HIL_EQU_C003.mesh,Item\Costume\HIL_EQU_C003.tpack,0,,,0,Item\Costume\ALO_EQU_C003.mesh,Item\Costume\ALO_EQU_C003.tpack,0,TRUE
+57015,,,0,Item\Costume\ARC_EQU_C003.mesh,Item\Costume\ARC_EQU_C003.tpack,0,Item\Costume\SOR_EQU_C003.mesh,Item\Costume\SOR_EQU_C003.tpack,0,,,0,Item\Costume\HIL_EQU_C003.mesh,Item\Costume\HIL_EQU_C003.tpack,0,,,0,Item\Costume\ALO_EQU_C003.mesh,Item\Costume\ALO_EQU_C003.tpack,0,TRUE
+57016,,,0,Item\Costume\ARC_EQU_C003.mesh,Item\Costume\ARC_EQU_C003.tpack,0,Item\Costume\SOR_EQU_C003.mesh,Item\Costume\SOR_EQU_C003.tpack,0,,,0,Item\Costume\HIL_EQU_C003.mesh,Item\Costume\HIL_EQU_C003.tpack,0,,,0,Item\Costume\ALO_EQU_C003.mesh,Item\Costume\ALO_EQU_C003.tpack,0,TRUE
+57017,,,0,Item\Costume\ARC_EQU_C005.mesh,Item\Costume\ARC_EQU_C005.tpack,0,Item\Costume\SOR_EQU_C005.mesh,Item\Costume\SOR_EQU_C005.tpack,0,,,0,Item\Costume\HIL_EQU_C005.mesh,Item\Costume\HIL_EQU_C005.tpack,0,,,0,Item\Costume\ALO_EQU_C005.mesh,Item\Costume\ALO_EQU_C005.tpack,0,TRUE
+57018,,,0,Item\Costume\ARC_EQU_C005.mesh,Item\Costume\ARC_EQU_C005.tpack,0,Item\Costume\SOR_EQU_C005.mesh,Item\Costume\SOR_EQU_C005.tpack,0,,,0,Item\Costume\HIL_EQU_C005.mesh,Item\Costume\HIL_EQU_C005.tpack,0,,,0,Item\Costume\ALO_EQU_C005.mesh,Item\Costume\ALO_EQU_C005.tpack,0,TRUE
+57019,,,0,Item\Costume\ARC_EQU_C005.mesh,Item\Costume\ARC_EQU_C005.tpack,0,Item\Costume\SOR_EQU_C005.mesh,Item\Costume\SOR_EQU_C005.tpack,0,,,0,Item\Costume\HIL_EQU_C005.mesh,Item\Costume\HIL_EQU_C005.tpack,0,,,0,Item\Costume\ALO_EQU_C005.mesh,Item\Costume\ALO_EQU_C005.tpack,0,TRUE
+57020,Item\Costume\SWD_EQU_C001.mesh,Item\Costume\SWD_EQU_C001.tpack,0,Item\Costume\ARC_EQU_C001.mesh,Item\Costume\ARC_EQU_C001.tpack,0,Item\Costume\SOR_EQU_C001.mesh,Item\Costume\SOR_EQU_C001.tpack,0,Item\Costume\SUM_EQU_C001.mesh,Item\Costume\SUM_EQU_C001.tpack,0,Item\Costume\HIL_EQU_C001.mesh,Item\Costume\HIL_EQU_C001.tpack,0,Item\Costume\WAR_EQU_C001.mesh,Item\Costume\WAR_EQU_C001.tpack,0,Item\Costume\ALO_EQU_C001.mesh,Item\Costume\ALO_EQU_C001.tpack,0,TRUE
+57021,Item\Costume\SWD_EQU_C006.mesh,Item\Costume\SWD_EQU_C006.tpack,0,Item\Costume\ARC_EQU_C006.mesh,Item\Costume\ARC_EQU_C006.tpack,0,Item\Costume\SOR_EQU_C006.mesh,Item\Costume\SOR_EQU_C006.tpack,0,Item\Costume\SUM_EQU_C006.mesh,Item\Costume\SUM_EQU_C006.tpack,0,Item\Costume\HIL_EQU_C006.mesh,Item\Costume\HIL_EQU_C006.tpack,0,Item\Costume\WAR_EQU_C006.mesh,Item\Costume\WAR_EQU_C006.tpack,0,Item\Costume\ALO_EQU_C006.mesh,Item\Costume\ALO_EQU_C006.tpack,0,TRUE
+57022,Item\Costume\SWD_EQU_HEL_HALLOWEEN.mesh,Item\Costume\SWD_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\ARC_EQU_HEL_HALLOWEEN.mesh,Item\Costume\ARC_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\SOR_EQU_HEL_HALLOWEEN.mesh,Item\Costume\SOR_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\SUM_EQU_HEL_HALLOWEEN.mesh,Item\Costume\SUM_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\HIL_EQU_HEL_HALLOWEEN.mesh,Item\Costume\HIL_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\WAR_EQU_HEL_HALLOWEEN.mesh,Item\Costume\WAR_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\ALO_EQU_HEL_HALLOWEEN.mesh,Item\Costume\ALO_EQU_HEL_HALLOWEEN.tpack,0,TRUE
+57023,Item\Costume\SWD_EQU_HEL_HALLOWEEN.mesh,Item\Costume\SWD_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\ARC_EQU_HEL_HALLOWEEN.mesh,Item\Costume\ARC_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\SOR_EQU_HEL_HALLOWEEN.mesh,Item\Costume\SOR_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\SUM_EQU_HEL_HALLOWEEN.mesh,Item\Costume\SUM_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\HIL_EQU_HEL_HALLOWEEN.mesh,Item\Costume\HIL_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\WAR_EQU_HEL_HALLOWEEN.mesh,Item\Costume\WAR_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\ALO_EQU_HEL_HALLOWEEN.mesh,Item\Costume\ALO_EQU_HEL_HALLOWEEN.tpack,0,TRUE
+57024,Item\Costume\SWD_EQU_HEL_HALLOWEEN.mesh,Item\Costume\SWD_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\ARC_EQU_HEL_HALLOWEEN.mesh,Item\Costume\ARC_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\SOR_EQU_HEL_HALLOWEEN.mesh,Item\Costume\SOR_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\SUM_EQU_HEL_HALLOWEEN.mesh,Item\Costume\SUM_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\HIL_EQU_HEL_HALLOWEEN.mesh,Item\Costume\HIL_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\WAR_EQU_HEL_HALLOWEEN.mesh,Item\Costume\WAR_EQU_HEL_HALLOWEEN.tpack,0,Item\Costume\ALO_EQU_HEL_HALLOWEEN.mesh,Item\Costume\ALO_EQU_HEL_HALLOWEEN.tpack,0,TRUE
+57025,Item\Costume\SWD_EQU_C010.mesh,Item\Costume\SWD_EQU_C010.tpack,0,Item\Costume\ARC_EQU_C010.mesh,Item\Costume\ARC_EQU_C010.tpack,0,Item\Costume\SOR_EQU_C010.mesh,Item\Costume\SOR_EQU_C010.tpack,0,Item\Costume\SUM_EQU_C010.mesh,Item\Costume\SUM_EQU_C010.tpack,0,Item\Costume\HIL_EQU_C010.mesh,Item\Costume\HIL_EQU_C010.tpack,0,Item\Costume\WAR_EQU_C010.mesh,Item\Costume\WAR_EQU_C010.tpack,0,Item\Costume\ALO_EQU_C010.mesh,Item\Costume\ALO_EQU_C010.tpack,0,TRUE
+57026,Item\Costume\SWD_EQU_C011.mesh,Item\Costume\SWD_EQU_C011.tpack,0,Item\Costume\ARC_EQU_C011.mesh,Item\Costume\ARC_EQU_C011.tpack,0,Item\Costume\SOR_EQU_C011.mesh,Item\Costume\SOR_EQU_C011.tpack,0,Item\Costume\SUM_EQU_C011.mesh,Item\Costume\SUM_EQU_C011.tpack,0,Item\Costume\HIL_EQU_C011.mesh,Item\Costume\HIL_EQU_C011.tpack,0,Item\Costume\WAR_EQU_C011.mesh,Item\Costume\WAR_EQU_C011.tpack,0,Item\Costume\ALO_EQU_C011.mesh,Item\Costume\ALO_EQU_C011.tpack,0,TRUE
+57027,Item\Costume\SWD_EQU_C011.mesh,Item\Costume\SWD_EQU_C011.tpack,0,Item\Costume\ARC_EQU_C011.mesh,Item\Costume\ARC_EQU_C011.tpack,0,Item\Costume\SOR_EQU_C011.mesh,Item\Costume\SOR_EQU_C011.tpack,0,Item\Costume\SUM_EQU_C011.mesh,Item\Costume\SUM_EQU_C011.tpack,0,Item\Costume\HIL_EQU_C011.mesh,Item\Costume\HIL_EQU_C011.tpack,0,Item\Costume\WAR_EQU_C011.mesh,Item\Costume\WAR_EQU_C011.tpack,0,Item\Costume\ALO_EQU_C011.mesh,Item\Costume\ALO_EQU_C011.tpack,0,TRUE
+57216,Item\Costume\SWD_EQU_C002.mesh,Item\Costume\SWD_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57217,Item\Costume\SWD_EQU_C002.mesh,Item\Costume\SWD_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57218,Item\Costume\SWD_EQU_C002.mesh,Item\Costume\SWD_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57219,Item\Costume\SWD_EQU_C007.mesh,Item\Costume\SWD_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57220,Item\Costume\SWD_EQU_C007.mesh,Item\Costume\SWD_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57221,Item\Costume\SWD_EQU_C007.mesh,Item\Costume\SWD_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57222,Item\Costume\SWD_EQU_C004.mesh,Item\Costume\SWD_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57223,Item\Costume\SWD_EQU_C004.mesh,Item\Costume\SWD_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57224,Item\Costume\SWD_EQU_C004.mesh,Item\Costume\SWD_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57225,Item\Costume\SWD_EQU_C008.mesh,Item\Costume\SWD_EQU_C008.tpack,0,,,0,,0,0,,,0,,,0,,,0,0,0,0,TRUE
+57226,Item\Costume\SWD_EQU_C008.mesh,Item\Costume\SWD_EQU_C008.tpack,0,,,0,,0,0,,,0,,,0,,,0,0,0,0,TRUE
+57227,Item\Costume\SWD_EQU_C008.mesh,Item\Costume\SWD_EQU_C008.tpack,0,,,0,,0,0,,,0,,,0,,,0,0,0,0,TRUE
+57431,,,0,Item\Costume\ARC_EQU_C002.mesh,Item\Costume\ARC_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57432,,,0,Item\Costume\ARC_EQU_C002.mesh,Item\Costume\ARC_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57433,,,0,Item\Costume\ARC_EQU_C002.mesh,Item\Costume\ARC_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57434,,,0,Item\Costume\ARC_EQU_C007.mesh,Item\Costume\ARC_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57435,,,0,Item\Costume\ARC_EQU_C007.mesh,Item\Costume\ARC_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57436,,,0,Item\Costume\ARC_EQU_C007.mesh,Item\Costume\ARC_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57437,,,0,Item\Costume\ARC_EQU_C004.mesh,Item\Costume\ARC_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57438,,,0,Item\Costume\ARC_EQU_C004.mesh,Item\Costume\ARC_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57439,,,0,Item\Costume\ARC_EQU_C004.mesh,Item\Costume\ARC_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57440,,,0,Item\Costume\ARC_EQU_C008.mesh,Item\Costume\ARC_EQU_C008.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57441,,,0,Item\Costume\ARC_EQU_C008.mesh,Item\Costume\ARC_EQU_C008.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57442,,,0,Item\Costume\ARC_EQU_C008.mesh,Item\Costume\ARC_EQU_C008.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57646,,,0,,,0,Item\Costume\SOR_EQU_C002.mesh,Item\Costume\SOR_EQU_C002.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57647,,,0,,,0,Item\Costume\SOR_EQU_C002.mesh,Item\Costume\SOR_EQU_C002.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57648,,,0,,,0,Item\Costume\SOR_EQU_C002.mesh,Item\Costume\SOR_EQU_C002.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57649,,,0,,,0,Item\Costume\SOR_EQU_C007.mesh,Item\Costume\SOR_EQU_C007.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57650,,,0,,,0,Item\Costume\SOR_EQU_C007.mesh,Item\Costume\SOR_EQU_C007.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57651,,,0,,,0,Item\Costume\SOR_EQU_C007.mesh,Item\Costume\SOR_EQU_C007.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57652,,,0,,,0,Item\Costume\SOR_EQU_C004.mesh,Item\Costume\SOR_EQU_C004.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57653,,,0,,,0,Item\Costume\SOR_EQU_C004.mesh,Item\Costume\SOR_EQU_C004.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57654,,,0,,,0,Item\Costume\SOR_EQU_C004.mesh,Item\Costume\SOR_EQU_C004.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57655,,,0,,,0,Item\Costume\SOR_EQU_C008.mesh,Item\Costume\SOR_EQU_C008.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57656,,,0,,,0,Item\Costume\SOR_EQU_C008.mesh,Item\Costume\SOR_EQU_C008.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57657,,,0,,,0,Item\Costume\SOR_EQU_C008.mesh,Item\Costume\SOR_EQU_C008.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+57861,,,0,,,0,,,0,Item\Costume\SUM_EQU_C002.mesh,Item\Costume\SUM_EQU_C002.tpack,0,,,0,,,0,0,0,0,TRUE
+57862,,,0,,,0,,,0,Item\Costume\SUM_EQU_C002.mesh,Item\Costume\SUM_EQU_C002.tpack,0,,,0,,,0,0,0,0,TRUE
+57863,,,0,,,0,,,0,Item\Costume\SUM_EQU_C002.mesh,Item\Costume\SUM_EQU_C002.tpack,0,,,0,,,0,0,0,0,TRUE
+57864,,,0,,,0,,,0,Item\Costume\SUM_EQU_C007.mesh,Item\Costume\SUM_EQU_C007.tpack,0,,,0,,,0,0,0,0,TRUE
+57865,,,0,,,0,,,0,Item\Costume\SUM_EQU_C007.mesh,Item\Costume\SUM_EQU_C007.tpack,0,,,0,,,0,0,0,0,TRUE
+57866,,,0,,,0,,,0,Item\Costume\SUM_EQU_C007.mesh,Item\Costume\SUM_EQU_C007.tpack,0,,,0,,,0,0,0,0,TRUE
+57867,,,0,,,0,,,0,Item\Costume\SUM_EQU_C004.mesh,Item\Costume\SUM_EQU_C004.tpack,0,,,0,,,0,0,0,0,TRUE
+57868,,,0,,,0,,,0,Item\Costume\SUM_EQU_C004.mesh,Item\Costume\SUM_EQU_C004.tpack,0,,,0,,,0,0,0,0,TRUE
+57869,,,0,,,0,,,0,Item\Costume\SUM_EQU_C004.mesh,Item\Costume\SUM_EQU_C004.tpack,0,,,0,,,0,0,0,0,TRUE
+57870,,,0,,,0,,,0,Item\Costume\SUM_EQU_C008.mesh,Item\Costume\SUM_EQU_C008.tpack,0,,,0,,,0,0,0,0,TRUE
+57871,,,0,,,0,,,0,Item\Costume\SUM_EQU_C008.mesh,Item\Costume\SUM_EQU_C008.tpack,0,,,0,,,0,0,0,0,TRUE
+57872,,,0,,,0,,,0,Item\Costume\SUM_EQU_C008.mesh,Item\Costume\SUM_EQU_C008.tpack,0,,,0,,,0,0,0,0,TRUE
+58076,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C002.mesh,Item\Costume\HIL_EQU_C002.tpack,0,,,0,0,0,0,TRUE
+58077,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C002.mesh,Item\Costume\HIL_EQU_C002.tpack,0,,,0,0,0,0,TRUE
+58078,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C002.mesh,Item\Costume\HIL_EQU_C002.tpack,0,,,0,0,0,0,TRUE
+58079,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C007.mesh,Item\Costume\HIL_EQU_C007.tpack,0,,,0,0,0,0,TRUE
+58080,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C007.mesh,Item\Costume\HIL_EQU_C007.tpack,0,,,0,0,0,0,TRUE
+58081,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C007.mesh,Item\Costume\HIL_EQU_C007.tpack,0,,,0,0,0,0,TRUE
+58082,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C004.mesh,Item\Costume\HIL_EQU_C004.tpack,0,,,0,0,0,0,TRUE
+58083,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C004.mesh,Item\Costume\HIL_EQU_C004.tpack,0,,,0,0,0,0,TRUE
+58084,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C004.mesh,Item\Costume\HIL_EQU_C004.tpack,0,,,0,0,0,0,TRUE
+58085,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C008.mesh,Item\Costume\HIL_EQU_C008.tpack,0,,,0,0,0,0,TRUE
+58086,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C008.mesh,Item\Costume\HIL_EQU_C008.tpack,0,,,0,0,0,0,TRUE
+58087,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C008.mesh,Item\Costume\HIL_EQU_C008.tpack,0,,,0,0,0,0,TRUE
+58291,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C002.mesh,Item\Costume\WAR_EQU_C002.tpack,0,0,0,0,TRUE
+58292,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C002.mesh,Item\Costume\WAR_EQU_C002.tpack,0,0,0,0,TRUE
+58293,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C002.mesh,Item\Costume\WAR_EQU_C002.tpack,0,0,0,0,TRUE
+58294,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C007.mesh,Item\Costume\WAR_EQU_C007.tpack,0,0,0,0,TRUE
+58295,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C007.mesh,Item\Costume\WAR_EQU_C007.tpack,0,0,0,0,TRUE
+58296,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C007.mesh,Item\Costume\WAR_EQU_C007.tpack,0,0,0,0,TRUE
+58297,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C004.mesh,Item\Costume\WAR_EQU_C004.tpack,0,0,0,0,TRUE
+58298,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C004.mesh,Item\Costume\WAR_EQU_C004.tpack,0,0,0,0,TRUE
+58299,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C004.mesh,Item\Costume\WAR_EQU_C004.tpack,0,0,0,0,TRUE
+58300,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C008.mesh,Item\Costume\WAR_EQU_C008.tpack,0,0,0,0,TRUE
+58301,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C008.mesh,Item\Costume\WAR_EQU_C008.tpack,0,0,0,0,TRUE
+58302,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C008.mesh,Item\Costume\WAR_EQU_C008.tpack,0,0,0,0,TRUE
+58303,Item\Costume\SWD_EQU_C009.mesh,Item\Costume\SWD_EQU_C009.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58304,Item\Costume\SWD_EQU_C009.mesh,Item\Costume\SWD_EQU_C009.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58305,Item\Costume\SWD_EQU_C009.mesh,Item\Costume\SWD_EQU_C009.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58306,,,0,Item\Costume\ARC_EQU_C009.mesh,Item\Costume\ARC_EQU_C009.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58307,,,0,Item\Costume\ARC_EQU_C009.mesh,Item\Costume\ARC_EQU_C009.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58308,,,0,Item\Costume\ARC_EQU_C009.mesh,Item\Costume\ARC_EQU_C009.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58309,,,0,,,0,Item\Costume\SOR_EQU_C009.mesh,Item\Costume\SOR_EQU_C009.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58310,,,0,,,0,Item\Costume\SOR_EQU_C009.mesh,Item\Costume\SOR_EQU_C009.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58311,,,0,,,0,Item\Costume\SOR_EQU_C009.mesh,Item\Costume\SOR_EQU_C009.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58312,,,0,,,0,,,0,Item\Costume\SUM_EQU_C009.mesh,Item\Costume\SUM_EQU_C009.tpack,0,,,0,,,0,0,0,0,TRUE
+58313,,,0,,,0,,,0,Item\Costume\SUM_EQU_C009.mesh,Item\Costume\SUM_EQU_C009.tpack,0,,,0,,,0,0,0,0,TRUE
+58314,,,0,,,0,,,0,Item\Costume\SUM_EQU_C009.mesh,Item\Costume\SUM_EQU_C009.tpack,0,,,0,,,0,0,0,0,TRUE
+58315,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C009.mesh,Item\Costume\HIL_EQU_C009.tpack,0,,,0,0,0,0,TRUE
+58316,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C009.mesh,Item\Costume\HIL_EQU_C009.tpack,0,,,0,0,0,0,TRUE
+58317,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C009.mesh,Item\Costume\HIL_EQU_C009.tpack,0,,,0,0,0,0,TRUE
+58318,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C009.mesh,Item\Costume\WAR_EQU_C009.tpack,0,0,0,0,TRUE
+58319,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C009.mesh,Item\Costume\WAR_EQU_C009.tpack,0,0,0,0,TRUE
+58320,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C009.mesh,Item\Costume\WAR_EQU_C009.tpack,0,0,0,0,TRUE
+58321,Item\Costume\ALO_EQU_C007.mesh,Item\Costume\ALO_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58322,Item\Costume\ALO_EQU_C007.mesh,Item\Costume\ALO_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58323,Item\Costume\ALO_EQU_C007.mesh,Item\Costume\ALO_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58324,Item\Costume\ALO_EQU_C008.mesh,Item\Costume\ALO_EQU_C008.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58325,Item\Costume\ALO_EQU_C008.mesh,Item\Costume\ALO_EQU_C008.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58326,Item\Costume\ALO_EQU_C008.mesh,Item\Costume\ALO_EQU_C008.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58327,Item\Costume\ALO_EQU_C009.mesh,Item\Costume\ALO_EQU_C009.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58328,Item\Costume\ALO_EQU_C009.mesh,Item\Costume\ALO_EQU_C009.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58329,Item\Costume\ALO_EQU_C009.mesh,Item\Costume\ALO_EQU_C009.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58330,Item\Costume\ALO_EQU_C004.mesh,Item\Costume\ALO_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58331,Item\Costume\ALO_EQU_C004.mesh,Item\Costume\ALO_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58332,Item\Costume\ALO_EQU_C004.mesh,Item\Costume\ALO_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58333,Item\Costume\ALO_EQU_C002.mesh,Item\Costume\ALO_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58334,Item\Costume\ALO_EQU_C002.mesh,Item\Costume\ALO_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58335,Item\Costume\ALO_EQU_C002.mesh,Item\Costume\ALO_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58336,Item\Costume\SWD_EQU_C002.mesh,Item\Costume\SWD_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58337,Item\Costume\SWD_EQU_C007.mesh,Item\Costume\SWD_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58338,Item\Costume\SWD_EQU_C004.mesh,Item\Costume\SWD_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58339,,,0,Item\Costume\ARC_EQU_C002.mesh,Item\Costume\ARC_EQU_C002.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58340,,,0,Item\Costume\ARC_EQU_C007.mesh,Item\Costume\ARC_EQU_C007.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58341,,,0,Item\Costume\ARC_EQU_C004.mesh,Item\Costume\ARC_EQU_C004.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58342,,,0,,,0,Item\Costume\SOR_EQU_C002.mesh,Item\Costume\SOR_EQU_C002.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58343,,,0,,,0,Item\Costume\SOR_EQU_C007.mesh,Item\Costume\SOR_EQU_C007.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58344,,,0,,,0,Item\Costume\SOR_EQU_C004.mesh,Item\Costume\SOR_EQU_C004.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58345,,,0,,,0,,,0,Item\Costume\SUM_EQU_C002.mesh,Item\Costume\SUM_EQU_C002.tpack,0,,,0,,,0,0,0,0,TRUE
+58346,,,0,,,0,,,0,Item\Costume\SUM_EQU_C007.mesh,Item\Costume\SUM_EQU_C007.tpack,0,,,0,,,0,0,0,0,TRUE
+58347,,,0,,,0,,,0,Item\Costume\SUM_EQU_C004.mesh,Item\Costume\SUM_EQU_C004.tpack,0,,,0,,,0,0,0,0,TRUE
+58348,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C002.mesh,Item\Costume\HIL_EQU_C002.tpack,0,,,0,0,0,0,TRUE
+58349,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C007.mesh,Item\Costume\HIL_EQU_C007.tpack,0,,,0,0,0,0,TRUE
+58350,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C004.mesh,Item\Costume\HIL_EQU_C004.tpack,0,,,0,0,0,0,TRUE
+58351,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C002.mesh,Item\Costume\WAR_EQU_C002.tpack,0,0,0,0,TRUE
+58352,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C007.mesh,Item\Costume\WAR_EQU_C007.tpack,0,0,0,0,TRUE
+58353,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C004.mesh,Item\Costume\WAR_EQU_C004.tpack,0,0,0,0,TRUE
+58354,Item\Armor\AWK\SWD_AWK.mesh,Item\Armor\AWK\SWD_AWK.tpack,718,Item\Armor\AWK\ARC_AWK.mesh,Item\Armor\AWK\ARC_AWK.tpack,734,Item\Armor\AWK\SOR_AWK.mesh,Item\Armor\AWK\SOR_AWK.tpack,722,Item\Armor\AWK\SUM_AWK.mesh,Item\Armor\AWK\SUM_AWK.tpack,728,Item\Armor\AWK\HIL_AWK.mesh,Item\Armor\AWK\HIL_AWK.tpack,740,Item\Armor\AWK\BGW_AWK.mesh,Item\Armor\AWK\BGW_AWK.tpack,745,Item\Armor\AWK\ALO_AWK.mesh,Item\Armor\AWK\ALO_AWK.tpack,750,TRUE
+58355,Item\Armor\AWK\SWD_AWK.mesh,Item\Armor\AWK\SWD_AWK.tpack,718,Item\Armor\AWK\ARC_AWK.mesh,Item\Armor\AWK\ARC_AWK.tpack,734,Item\Armor\AWK\SOR_AWK.mesh,Item\Armor\AWK\SOR_AWK.tpack,722,Item\Armor\AWK\SUM_AWK.mesh,Item\Armor\AWK\SUM_AWK.tpack,728,Item\Armor\AWK\HIL_AWK.mesh,Item\Armor\AWK\HIL_AWK.tpack,740,Item\Armor\AWK\BGW_AWK.mesh,Item\Armor\AWK\BGW_AWK.tpack,745,Item\Armor\AWK\ALO_AWK.mesh,Item\Armor\AWK\ALO_AWK.tpack,750,TRUE
+58356,Item\Armor\AWK\SWD_AWK.mesh,Item\Armor\AWK\SWD_AWK.tpack,718,Item\Armor\AWK\ARC_AWK.mesh,Item\Armor\AWK\ARC_AWK.tpack,734,Item\Armor\AWK\SOR_AWK.mesh,Item\Armor\AWK\SOR_AWK.tpack,722,Item\Armor\AWK\SUM_AWK.mesh,Item\Armor\AWK\SUM_AWK.tpack,728,Item\Armor\AWK\HIL_AWK.mesh,Item\Armor\AWK\HIL_AWK.tpack,740,Item\Armor\AWK\BGW_AWK.mesh,Item\Armor\AWK\BGW_AWK.tpack,745,Item\Armor\AWK\ALO_AWK.mesh,Item\Armor\AWK\ALO_AWK.tpack,750,TRUE
+3151,Item\Armor\Helmet\SWD_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\SWD_EQU_HEL_SANTA.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+3152,,,0,Item\Armor\Helmet\ARC_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\ARC_EQU_HEL_SANTA.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+3153,,,0,,,0,Item\Armor\Helmet\SOR_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\SOR_EQU_HEL_SANTA.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+3154,,,0,,,0,,,0,Item\Armor\Helmet\SUM_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\SUM_EQU_HEL_SANTA.tpack,0,,,0,,,0,0,0,0,TRUE
+3155,,,0,,,0,,,0,,,0,Item\Armor\Helmet\HIL_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\HIL_EQU_HEL_SANTA.tpack,0,,,0,0,0,0,TRUE
+3156,,,0,,,0,,,0,,,0,,,0,Item\Armor\Helmet\WAR_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\WAR_EQU_HEL_SANTA.tpack,0,0,0,0,TRUE
+3157,,,0,,,0,,,0,,,0,,,0,,,0,Item\Armor\Helmet\ALO_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\ALO_EQU_HEL_SANTA.tpack,0,TRUE
+3159,Item\Costume\SWD_EQU_C010.mesh,Item\Costume\SWD_EQU_C010.tpack,0,Item\Costume\ARC_EQU_C010.mesh,Item\Costume\ARC_EQU_C010.tpack,0,Item\Costume\SOR_EQU_C010.mesh,Item\Costume\SOR_EQU_C010.tpack,0,Item\Costume\SUM_EQU_C010.mesh,Item\Costume\SUM_EQU_C010.tpack,0,Item\Costume\HIL_EQU_C010.mesh,Item\Costume\HIL_EQU_C010.tpack,0,Item\Costume\WAR_EQU_C010.mesh,Item\Costume\WAR_EQU_C010.tpack,0,Item\Costume\ALO_EQU_C010.mesh,Item\Costume\ALO_EQU_C010.tpack,0,TRUE
+3160,Item\Costume\SWD_EQU_C011.mesh,Item\Costume\SWD_EQU_C011.tpack,0,Item\Costume\ARC_EQU_C011.mesh,Item\Costume\ARC_EQU_C011.tpack,0,Item\Costume\SOR_EQU_C011.mesh,Item\Costume\SOR_EQU_C011.tpack,0,Item\Costume\SUM_EQU_C011.mesh,Item\Costume\SUM_EQU_C011.tpack,0,Item\Costume\HIL_EQU_C011.mesh,Item\Costume\HIL_EQU_C011.tpack,0,Item\Costume\WAR_EQU_C011.mesh,Item\Costume\WAR_EQU_C011.tpack,0,Item\Costume\ALO_EQU_C011.mesh,Item\Costume\ALO_EQU_C011.tpack,0,TRUE
+3194,Item\Armor\Helmet\SWD_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\SWD_EQU_HEL_SANTA.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+3195,,,0,Item\Armor\Helmet\ARC_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\ARC_EQU_HEL_SANTA.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+3196,,,0,,,0,Item\Armor\Helmet\SOR_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\SOR_EQU_HEL_SANTA.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+3197,,,0,,,0,,,0,Item\Armor\Helmet\SUM_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\SUM_EQU_HEL_SANTA.tpack,0,,,0,,,0,0,0,0,TRUE
+3198,,,0,,,0,,,0,,,0,Item\Armor\Helmet\HIL_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\HIL_EQU_HEL_SANTA.tpack,0,,,0,0,0,0,TRUE
+3199,,,0,,,0,,,0,,,0,,,0,Item\Armor\Helmet\WAR_EQU_HEL_SANTA.mesh,Item\Armor\Helmet\WAR_EQU_HEL_SANTA.tpack,0,0,0,0,TRUE
+58375,Item\Costume\SWD_EQU_C012.mesh,Item\Costume\SWD_EQU_C012.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58376,Item\Costume\SWD_EQU_C012.mesh,Item\Costume\SWD_EQU_C012.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58377,Item\Costume\SWD_EQU_C012.mesh,Item\Costume\SWD_EQU_C012.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58378,,,0,Item\Costume\ARC_EQU_C012.mesh,Item\Costume\ARC_EQU_C012.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58379,,,0,Item\Costume\ARC_EQU_C012.mesh,Item\Costume\ARC_EQU_C012.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58380,,,0,Item\Costume\ARC_EQU_C012.mesh,Item\Costume\ARC_EQU_C012.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58381,,,0,,,0,Item\Costume\SOR_EQU_C012.mesh,Item\Costume\SOR_EQU_C012.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58382,,,0,,,0,Item\Costume\SOR_EQU_C012.mesh,Item\Costume\SOR_EQU_C012.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58383,,,0,,,0,Item\Costume\SOR_EQU_C012.mesh,Item\Costume\SOR_EQU_C012.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58384,,,0,,,0,,,0,Item\Costume\SUM_EQU_C012.mesh,Item\Costume\SUM_EQU_C012.tpack,0,,,0,,,0,0,0,0,TRUE
+58385,,,0,,,0,,,0,Item\Costume\SUM_EQU_C012.mesh,Item\Costume\SUM_EQU_C012.tpack,0,,,0,,,0,0,0,0,TRUE
+58386,,,0,,,0,,,0,Item\Costume\SUM_EQU_C012.mesh,Item\Costume\SUM_EQU_C012.tpack,0,,,0,,,0,0,0,0,TRUE
+58387,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C012.mesh,Item\Costume\HIL_EQU_C012.tpack,0,,,0,0,0,0,TRUE
+58388,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C012.mesh,Item\Costume\HIL_EQU_C012.tpack,0,,,0,0,0,0,TRUE
+58389,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C012.mesh,Item\Costume\HIL_EQU_C012.tpack,0,,,0,0,0,0,TRUE
+58390,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C012.mesh,Item\Costume\WAR_EQU_C012.tpack,0,0,0,0,TRUE
+58391,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C012.mesh,Item\Costume\WAR_EQU_C012.tpack,0,0,0,0,TRUE
+58392,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C012.mesh,Item\Costume\WAR_EQU_C012.tpack,0,0,0,0,TRUE
+58393,Item\Costume\ALO_EQU_C012.mesh,Item\Costume\ALO_EQU_C012.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58394,Item\Costume\ALO_EQU_C012.mesh,Item\Costume\ALO_EQU_C012.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58395,Item\Costume\ALO_EQU_C012.mesh,Item\Costume\ALO_EQU_C012.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58432,Item\Costume\SWD_EQU_c013.mesh,Item\Costume\SWD_EQU_c013.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58433,Item\Costume\SWD_EQU_c013.mesh,Item\Costume\SWD_EQU_c013.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58434,Item\Costume\SWD_EQU_c013.mesh,Item\Costume\SWD_EQU_c013.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58435,,,0,Item\Costume\ARC_EQU_c013.mesh,Item\Costume\ARC_EQU_c013.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58436,,,0,Item\Costume\ARC_EQU_c013.mesh,Item\Costume\ARC_EQU_c013.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58437,,,0,Item\Costume\ARC_EQU_c013.mesh,Item\Costume\ARC_EQU_c013.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58438,,,0,,,0,Item\Costume\SOR_EQU_c013.mesh,Item\Costume\SOR_EQU_c013.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58439,,,0,,,0,Item\Costume\SOR_EQU_c013.mesh,Item\Costume\SOR_EQU_c013.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58440,,,0,,,0,Item\Costume\SOR_EQU_c013.mesh,Item\Costume\SOR_EQU_c013.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58441,,,0,,,0,,,0,Item\Costume\SUM_EQU_c013.mesh,Item\Costume\SUM_EQU_c013.tpack,0,,,0,,,0,0,0,0,TRUE
+58442,,,0,,,0,,,0,Item\Costume\SUM_EQU_c013.mesh,Item\Costume\SUM_EQU_c013.tpack,0,,,0,,,0,0,0,0,TRUE
+58443,,,0,,,0,,,0,Item\Costume\SUM_EQU_c013.mesh,Item\Costume\SUM_EQU_c013.tpack,0,,,0,,,0,0,0,0,TRUE
+58444,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_c013.mesh,Item\Costume\HIL_EQU_c013.tpack,0,,,0,0,0,0,TRUE
+58445,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_c013.mesh,Item\Costume\HIL_EQU_c013.tpack,0,,,0,0,0,0,TRUE
+58446,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_c013.mesh,Item\Costume\HIL_EQU_c013.tpack,0,,,0,0,0,0,TRUE
+58447,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_c013.mesh,Item\Costume\WAR_EQU_c013.tpack,0,0,0,0,TRUE
+58448,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_c013.mesh,Item\Costume\WAR_EQU_c013.tpack,0,0,0,0,TRUE
+58449,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_c013.mesh,Item\Costume\WAR_EQU_c013.tpack,0,0,0,0,TRUE
+58450,Item\Costume\ALO_EQU_c013.mesh,Item\Costume\ALO_EQU_c013.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58451,Item\Costume\ALO_EQU_c013.mesh,Item\Costume\ALO_EQU_c013.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58452,Item\Costume\ALO_EQU_c013.mesh,Item\Costume\ALO_EQU_c013.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58453,Monster\Ancient_Knight_Soul.mesh,Item\Costume\Ancient_Knight_Soul.tpack,0,Monster\Ancient_Hunter_Soul.mesh,Item\Costume\Ancient_Hunter_Soul.tpack,0,Monster\ancient_magician_soul.mesh,Item\Costume\ancient_magician_soul.tpack,0,Monster\ancient_summoner_soul.mesh,Item\Costume\ancient_summoner_soul.tpack,0,Monster\Ancient_Segnale_Soul.mesh,Item\Costume\Ancient_Segnale_Soul.tpack,0,Monster\Ancient_Warrior_Soul.mesh,Item\Costume\Ancient_Warrior_Soul.tpack,0,0,0,0,TRUE
+58454,Monster\Ancient_Knight_Soul.mesh,Item\Costume\Ancient_Knight_Soul.tpack,0,Monster\Ancient_Hunter_Soul.mesh,Item\Costume\Ancient_Hunter_Soul.tpack,0,Monster\ancient_magician_soul.mesh,Item\Costume\ancient_magician_soul.tpack,0,Monster\ancient_summoner_soul.mesh,Item\Costume\ancient_summoner_soul.tpack,0,Monster\Ancient_Segnale_Soul.mesh,Item\Costume\Ancient_Segnale_Soul.tpack,0,Monster\Ancient_Warrior_Soul.mesh,Item\Costume\Ancient_Warrior_Soul.tpack,0,0,0,0,TRUE
+58455,Monster\Ancient_Knight_Soul.mesh,Item\Costume\Ancient_Knight_Soul.tpack,0,Monster\Ancient_Hunter_Soul.mesh,Item\Costume\Ancient_Hunter_Soul.tpack,0,Monster\ancient_magician_soul.mesh,Item\Costume\ancient_magician_soul.tpack,0,Monster\ancient_summoner_soul.mesh,Item\Costume\ancient_summoner_soul.tpack,0,Monster\Ancient_Segnale_Soul.mesh,Item\Costume\Ancient_Segnale_Soul.tpack,0,Monster\Ancient_Warrior_Soul.mesh,Item\Costume\Ancient_Warrior_Soul.tpack,0,0,0,0,TRUE
+58459,Item\Costume\SWD_EQU_C014.mesh,Item\Costume\SWD_EQU_C014.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58460,Item\Costume\SWD_EQU_C014.mesh,Item\Costume\SWD_EQU_C014.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58461,Item\Costume\SWD_EQU_C014.mesh,Item\Costume\SWD_EQU_C014.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58462,,,0,Item\Costume\ARC_EQU_C014.mesh,Item\Costume\ARC_EQU_C014.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58463,,,0,Item\Costume\ARC_EQU_C014.mesh,Item\Costume\ARC_EQU_C014.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58464,,,0,Item\Costume\ARC_EQU_C014.mesh,Item\Costume\ARC_EQU_C014.tpack,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58465,,,0,,,0,Item\Costume\SOR_EQU_C014.mesh,Item\Costume\SOR_EQU_C014.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58466,,,0,,,0,Item\Costume\SOR_EQU_C014.mesh,Item\Costume\SOR_EQU_C014.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58467,,,0,,,0,Item\Costume\SOR_EQU_C014.mesh,Item\Costume\SOR_EQU_C014.tpack,0,,,0,,,0,,,0,0,0,0,TRUE
+58468,,,0,,,0,,,0,Item\Costume\SUM_EQU_C014.mesh,Item\Costume\SUM_EQU_C014.tpack,0,,,0,,,0,0,0,0,TRUE
+58469,,,0,,,0,,,0,Item\Costume\SUM_EQU_C014.mesh,Item\Costume\SUM_EQU_C014.tpack,0,,,0,,,0,0,0,0,TRUE
+58470,,,0,,,0,,,0,Item\Costume\SUM_EQU_C014.mesh,Item\Costume\SUM_EQU_C014.tpack,0,,,0,,,0,0,0,0,TRUE
+58471,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C014.mesh,Item\Costume\HIL_EQU_C014.tpack,0,,,0,0,0,0,TRUE
+58472,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C014.mesh,Item\Costume\HIL_EQU_C014.tpack,0,,,0,0,0,0,TRUE
+58473,,,0,,,0,,,0,,,0,Item\Costume\HIL_EQU_C014.mesh,Item\Costume\HIL_EQU_C014.tpack,0,,,0,0,0,0,TRUE
+58474,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C014.mesh,Item\Costume\WAR_EQU_C014.tpack,0,0,0,0,TRUE
+58475,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C014.mesh,Item\Costume\WAR_EQU_C014.tpack,0,0,0,0,TRUE
+58476,,,0,,,0,,,0,,,0,,,0,Item\Costume\WAR_EQU_C014.mesh,Item\Costume\WAR_EQU_C014.tpack,0,0,0,0,TRUE
+58477,Item\Costume\ALO_EQU_C014.mesh,Item\Costume\ALO_EQU_C014.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58478,Item\Costume\ALO_EQU_C014.mesh,Item\Costume\ALO_EQU_C014.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+58479,Item\Costume\ALO_EQU_C014.mesh,Item\Costume\ALO_EQU_C014.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+57033,Item\Costume\SWD_EQU_C015.mesh,Item\Costume\SWD_EQU_C015.tpack,0,,,0,,,0,Item\Costume\SUM_EQU_C015.mesh,Item\Costume\SUM_EQU_C015.tpack,0,,,0,Item\Costume\WAR_EQU_C015.mesh,Item\Costume\WAR_EQU_C015.tpack,0,,,0,TRUE
+57034,Item\Costume\SWD_EQU_C015.mesh,Item\Costume\SWD_EQU_C015.tpack,0,,,0,,,0,Item\Costume\SUM_EQU_C015.mesh,Item\Costume\SUM_EQU_C015.tpack,0,,,0,Item\Costume\WAR_EQU_C015.mesh,Item\Costume\WAR_EQU_C015.tpack,0,,,0,TRUE
+57035,Item\Costume\SWD_EQU_C015.mesh,Item\Costume\SWD_EQU_C015.tpack,0,,,0,,,0,Item\Costume\SUM_EQU_C015.mesh,Item\Costume\SUM_EQU_C015.tpack,0,,,0,Item\Costume\WAR_EQU_C015.mesh,Item\Costume\WAR_EQU_C015.tpack,0,,,0,TRUE
+57036,,,0,Item\Costume\ARC_EQU_C015.mesh,Item\Costume\ARC_EQU_C015.tpack,0,Item\Costume\SOR_EQU_C015.mesh,Item\Costume\SOR_EQU_C015.tpack,0,,,0,Item\Costume\HIL_EQU_C015.mesh,Item\Costume\HIL_EQU_C015.tpack,0,,,0,Item\Costume\ALO_EQU_C015.mesh,Item\Costume\ALO_EQU_C015.tpack,0,TRUE
+57037,,,0,Item\Costume\ARC_EQU_C015.mesh,Item\Costume\ARC_EQU_C015.tpack,0,Item\Costume\SOR_EQU_C015.mesh,Item\Costume\SOR_EQU_C015.tpack,0,,,0,Item\Costume\HIL_EQU_C015.mesh,Item\Costume\HIL_EQU_C015.tpack,0,,,0,Item\Costume\ALO_EQU_C015.mesh,Item\Costume\ALO_EQU_C015.tpack,0,TRUE
+57038,,,0,Item\Costume\ARC_EQU_C015.mesh,Item\Costume\ARC_EQU_C015.tpack,0,Item\Costume\SOR_EQU_C015.mesh,Item\Costume\SOR_EQU_C015.tpack,0,,,0,Item\Costume\HIL_EQU_C015.mesh,Item\Costume\HIL_EQU_C015.tpack,0,,,0,Item\Costume\ALO_EQU_C015.mesh,Item\Costume\ALO_EQU_C015.tpack,0,TRUE
+59866,Item\Armor\AWK\ALO_AWK.mesh,Item\Armor\AWK\ALO_AWK.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+59867,Item\Armor\AWK\ALO_AWK.mesh,Item\Armor\AWK\ALO_AWK.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUE
+59868,Item\Armor\AWK\ALO_AWK.mesh,Item\Armor\AWK\ALO_AWK.tpack,0,,,0,,,0,,,0,,,0,,,0,0,0,0,TRUEIndex,game/mesh,tpack,effect,inv/mesh,tpack,skel,anim,time,twoside,field/mesh,tpack,twoside,x,y,z,scale,rot-dir,degree,effect,Lod,Costype,Boneindex,Targeteffect
+1,Item\Armor\Pants\SWD_EQU_PAT_01.mesh,,0,Item\Armor\Pants\SWD_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+2,Item\Armor\Pants\SWD_EQU_PAT_02.mesh,,0,Item\Armor\Pants\SWD_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+3,Item\Armor\Pants\SWD_EQU_PAT_03.mesh,,0,Item\Armor\Pants\SWD_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+4,Item\Armor\Pants\SWD_EQU_PAT_04.mesh,,0,Item\Armor\Pants\SWD_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+5,Item\Armor\Pants\SWD_EQU_PAT_05.mesh,,0,Item\Armor\Pants\SWD_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+6,Item\Armor\Pants\SWD_EQU_PAT_06.mesh,,0,Item\Armor\Pants\SWD_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+7,Item\Armor\Pants\SWD_EQU_PAT_07.mesh,,0,Item\Armor\Pants\SWD_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+8,Item\Armor\Pants\SWD_EQU_PAT_08.mesh,,0,Item\Armor\Pants\SWD_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+9,Item\Armor\Pants\SWD_EQU_PAT_09.mesh,,0,Item\Armor\Pants\SWD_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+50,Item\Armor\Pants\SWD_EQU_PAT_09E.mesh,,0,Item\Armor\Pants\SWD_INV_PAT_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+51,Item\Armor\Glove\SWD_EQU_GLV_01.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+52,Item\Armor\Glove\SWD_EQU_GLV_02.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+53,Item\Armor\Glove\SWD_EQU_GLV_03.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+54,Item\Armor\Glove\SWD_EQU_GLV_04.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+55,Item\Armor\Glove\SWD_EQU_GLV_05.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+56,Item\Armor\Glove\SWD_EQU_GLV_06.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+57,Item\Armor\Glove\SWD_EQU_GLV_07.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+58,Item\Armor\Glove\SWD_EQU_GLV_08.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+59,Item\Armor\Glove\SWD_EQU_GLV_09.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+97,Item\Armor\Glove\SWD_EQU_GLV_05E.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+98,Item\Armor\Glove\SWD_EQU_GLV_04E.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+99,Item\Armor\Glove\SWD_EQU_GLV_03E.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+100,Item\Armor\Glove\SWD_EQU_GLV_02E.mesh,,0,Item\Armor\Glove\SWD_INV_GLV_02E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+101,Item\Armor\Helmet\SWD_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+102,Item\Armor\Helmet\SWD_EQU_HEL_02.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+103,Item\Armor\Helmet\SWD_EQU_HEL_03.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+104,Item\Armor\Helmet\SWD_EQU_HEL_04.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+105,Item\Armor\Helmet\SWD_EQU_HEL_05.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+106,Item\Armor\Helmet\SWD_EQU_HEL_06.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+107,Item\Armor\Helmet\SWD_EQU_HEL_07.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+108,Item\Armor\Helmet\SWD_EQU_HEL_08.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+109,Item\Armor\Helmet\SWD_EQU_HEL_09.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+145,Item\Armor\Helmet\SWD_EQU_HEL_09E.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+146,Item\Armor\Helmet\SWD_EQU_HEL_05E.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+147,Item\Armor\Helmet\SWD_EQU_HEL_04E.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+148,Item\Armor\Helmet\SWD_EQU_HEL_03E.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+149,Item\Armor\Helmet\SWD_EQU_HEL_02E.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_02E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+150,Item\Armor\Helmet\SWD_EQU_HEL_01E.mesh,,0,Item\Armor\Helmet\SWD_INV_HEL_01E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+151,Item\Armor\Boots\SWD_EQU_BOT_01.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+152,Item\Armor\Boots\SWD_EQU_BOT_02.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+153,Item\Armor\Boots\SWD_EQU_BOT_03.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+154,Item\Armor\Boots\SWD_EQU_BOT_04.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+155,Item\Armor\Boots\SWD_EQU_BOT_05.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+156,Item\Armor\Boots\SWD_EQU_BOT_06.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+157,Item\Armor\Boots\SWD_EQU_BOT_07.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+158,Item\Armor\Boots\SWD_EQU_BOT_08.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+159,Item\Armor\Boots\SWD_EQU_BOT_09.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+198,Item\Armor\Boots\SWD_EQU_BOT_05E.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+199,Item\Armor\Boots\SWD_EQU_BOT_04E.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+200,Item\Armor\Boots\SWD_EQU_BOT_03E.mesh,,0,Item\Armor\Boots\SWD_INV_BOT_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+201,Item\Armor\Coat\SWD_EQU_COT_01.mesh,,0,Item\Armor\Coat\SWD_INV_COT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+202,Item\Armor\Coat\SWD_EQU_COT_02.mesh,,0,Item\Armor\Coat\SWD_INV_COT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+203,Item\Armor\Coat\SWD_EQU_COT_03.mesh,,0,Item\Armor\Coat\SWD_INV_COT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+204,Item\Armor\Coat\SWD_EQU_COT_04.mesh,,0,Item\Armor\Coat\SWD_INV_COT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+205,Item\Armor\Coat\SWD_EQU_COT_05.mesh,,0,Item\Armor\Coat\SWD_INV_COT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+206,Item\Armor\Coat\SWD_EQU_COT_06.mesh,,0,Item\Armor\Coat\SWD_INV_COT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+207,Item\Armor\Coat\SWD_EQU_COT_07.mesh,,0,Item\Armor\Coat\SWD_INV_COT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+208,Item\Armor\Coat\SWD_EQU_COT_08.mesh,,0,Item\Armor\Coat\SWD_INV_COT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+209,Item\Armor\Coat\SWD_EQU_COT_09.mesh,,0,Item\Armor\Coat\SWD_INV_COT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+250,Item\Armor\Coat\SWD_EQU_COT_09E.mesh,,0,Item\Armor\Coat\SWD_INV_COT_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+251,Item\Armor\Pants\ARC_EQU_PAT_01.mesh,,0,Item\Armor\Pants\ARC_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+252,Item\Armor\Pants\ARC_EQU_PAT_02.mesh,,0,Item\Armor\Pants\ARC_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+253,Item\Armor\Pants\ARC_EQU_PAT_03.mesh,,0,Item\Armor\Pants\ARC_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+254,Item\Armor\Pants\ARC_EQU_PAT_04.mesh,,0,Item\Armor\Pants\ARC_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+255,Item\Armor\Pants\ARC_EQU_PAT_05.mesh,,0,Item\Armor\Pants\ARC_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+256,Item\Armor\Pants\ARC_EQU_PAT_06.mesh,,0,Item\Armor\Pants\ARC_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+257,Item\Armor\Pants\ARC_EQU_PAT_07.mesh,,0,Item\Armor\Pants\ARC_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+258,Item\Armor\Pants\ARC_EQU_PAT_08.mesh,,0,Item\Armor\Pants\ARC_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+259,Item\Armor\Pants\ARC_EQU_PAT_09.mesh,,0,Item\Armor\Pants\ARC_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+300,Item\Armor\Pants\ARC_EQU_PAT_09E.mesh,,0,Item\Armor\Pants\ARC_INV_PAT_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+301,Item\Armor\Glove\ARC_EQU_GLV_01.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+302,Item\Armor\Glove\ARC_EQU_GLV_02.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+303,Item\Armor\Glove\ARC_EQU_GLV_03.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+304,Item\Armor\Glove\ARC_EQU_GLV_04.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+305,Item\Armor\Glove\ARC_EQU_GLV_05.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+306,Item\Armor\Glove\ARC_EQU_GLV_06.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+307,Item\Armor\Glove\ARC_EQU_GLV_07.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+308,Item\Armor\Glove\ARC_EQU_GLV_08.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+309,Item\Armor\Glove\ARC_EQU_GLV_09.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+347,Item\Armor\Glove\ARC_EQU_GLV_05E.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+348,Item\Armor\Glove\ARC_EQU_GLV_04E.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+349,Item\Armor\Glove\ARC_EQU_GLV_03E.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+350,Item\Armor\Glove\ARC_EQU_GLV_02E.mesh,,0,Item\Armor\Glove\ARC_INV_GLV_02E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+351,Item\Armor\Helmet\ARC_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+352,Item\Armor\Helmet\ARC_EQU_HEL_02.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+353,Item\Armor\Helmet\ARC_EQU_HEL_03.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+354,Item\Armor\Helmet\ARC_EQU_HEL_04.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+355,Item\Armor\Helmet\ARC_EQU_HEL_05.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+356,Item\Armor\Helmet\ARC_EQU_HEL_06.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+357,Item\Armor\Helmet\ARC_EQU_HEL_07.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+358,Item\Armor\Helmet\ARC_EQU_HEL_08.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+359,Item\Armor\Helmet\ARC_EQU_HEL_09.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+395,Item\Armor\Helmet\ARC_EQU_HEL_09E.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+396,Item\Armor\Helmet\ARC_EQU_HEL_05E.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+397,Item\Armor\Helmet\ARC_EQU_HEL_04E.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+398,Item\Armor\Helmet\ARC_EQU_HEL_03E.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+399,Item\Armor\Helmet\ARC_EQU_HEL_02E.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_02E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+400,Item\Armor\Helmet\ARC_EQU_HEL_01E.mesh,,0,Item\Armor\Helmet\ARC_INV_HEL_01E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+401,Item\Armor\Boots\ARC_EQU_BOT_01.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+402,Item\Armor\Boots\ARC_EQU_BOT_02.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+403,Item\Armor\Boots\ARC_EQU_BOT_03.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+404,Item\Armor\Boots\ARC_EQU_BOT_04.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+405,Item\Armor\Boots\ARC_EQU_BOT_05.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+406,Item\Armor\Boots\ARC_EQU_BOT_06.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+407,Item\Armor\Boots\ARC_EQU_BOT_07.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+408,Item\Armor\Boots\ARC_EQU_BOT_08.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+409,Item\Armor\Boots\ARC_EQU_BOT_09.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+448,Item\Armor\Boots\ARC_EQU_BOT_05E.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+449,Item\Armor\Boots\ARC_EQU_BOT_04E.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+450,Item\Armor\Boots\ARC_EQU_BOT_03E.mesh,,0,Item\Armor\Boots\ARC_INV_BOT_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+451,Item\Armor\Coat\ARC_EQU_COT_01.mesh,,0,Item\Armor\Coat\ARC_INV_COT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+452,Item\Armor\Coat\ARC_EQU_COT_02.mesh,,0,Item\Armor\Coat\ARC_INV_COT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+453,Item\Armor\Coat\ARC_EQU_COT_03.mesh,,0,Item\Armor\Coat\ARC_INV_COT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+454,Item\Armor\Coat\ARC_EQU_COT_04.mesh,,0,Item\Armor\Coat\ARC_INV_COT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+455,Item\Armor\Coat\ARC_EQU_COT_05.mesh,,0,Item\Armor\Coat\ARC_INV_COT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+456,Item\Armor\Coat\ARC_EQU_COT_06.mesh,,0,Item\Armor\Coat\ARC_INV_COT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+457,Item\Armor\Coat\ARC_EQU_COT_07.mesh,,0,Item\Armor\Coat\ARC_INV_COT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+458,Item\Armor\Coat\ARC_EQU_COT_08.mesh,,0,Item\Armor\Coat\ARC_INV_COT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+459,Item\Armor\Coat\ARC_EQU_COT_09.mesh,,0,Item\Armor\Coat\ARC_INV_COT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+500,Item\Armor\Coat\ARC_EQU_COT_09E.mesh,,0,Item\Armor\Coat\ARC_INV_COT_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+501,Item\Armor\Pants\SOR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\SOR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+502,Item\Armor\Pants\SOR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\SOR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+503,Item\Armor\Pants\SOR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\SOR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+504,Item\Armor\Pants\SOR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\SOR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+505,Item\Armor\Pants\SOR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\SOR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+506,Item\Armor\Pants\SOR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\SOR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+507,Item\Armor\Pants\SOR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\SOR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+508,Item\Armor\Pants\SOR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\SOR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+509,Item\Armor\Pants\SOR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\SOR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+550,Item\Armor\Pants\SOR_EQU_PAT_09E.mesh,,0,Item\Armor\Pants\SOR_INV_PAT_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+551,Item\Armor\Glove\SOR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+552,Item\Armor\Glove\SOR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+553,Item\Armor\Glove\SOR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+554,Item\Armor\Glove\SOR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+555,Item\Armor\Glove\SOR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+556,Item\Armor\Glove\SOR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+557,Item\Armor\Glove\SOR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+558,Item\Armor\Glove\SOR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+559,Item\Armor\Glove\SOR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+597,Item\Armor\Glove\SOR_EQU_GLV_05E.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+598,Item\Armor\Glove\SOR_EQU_GLV_04E.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+599,Item\Armor\Glove\SOR_EQU_GLV_03E.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+600,Item\Armor\Glove\SOR_EQU_GLV_02E.mesh,,0,Item\Armor\Glove\SOR_INV_GLV_02E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+601,Item\Armor\Helmet\SOR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+602,Item\Armor\Helmet\SOR_EQU_HEL_02.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+603,Item\Armor\Helmet\SOR_EQU_HEL_03.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+604,Item\Armor\Helmet\SOR_EQU_HEL_04.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+605,Item\Armor\Helmet\SOR_EQU_HEL_05.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+606,Item\Armor\Helmet\SOR_EQU_HEL_06.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+607,Item\Armor\Helmet\SOR_EQU_HEL_07.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+608,Item\Armor\Helmet\SOR_EQU_HEL_08.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+609,Item\Armor\Helmet\SOR_EQU_HEL_09.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+645,Item\Armor\Helmet\SOR_EQU_HEL_09E.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+646,Item\Armor\Helmet\SOR_EQU_HEL_05E.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+647,Item\Armor\Helmet\SOR_EQU_HEL_04E.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+648,Item\Armor\Helmet\SOR_EQU_HEL_03E.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+649,Item\Armor\Helmet\SOR_EQU_HEL_02E.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_02E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+650,Item\Armor\Helmet\SOR_EQU_HEL_01E.mesh,,0,Item\Armor\Helmet\SOR_INV_HEL_01E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+651,Item\Armor\Boots\SOR_EQU_BOT_01.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+652,Item\Armor\Boots\SOR_EQU_BOT_02.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+653,Item\Armor\Boots\SOR_EQU_BOT_03.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+654,Item\Armor\Boots\SOR_EQU_BOT_04.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+655,Item\Armor\Boots\SOR_EQU_BOT_05.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+656,Item\Armor\Boots\SOR_EQU_BOT_06.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+657,Item\Armor\Boots\SOR_EQU_BOT_07.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+658,Item\Armor\Boots\SOR_EQU_BOT_08.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+659,Item\Armor\Boots\SOR_EQU_BOT_09.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+698,Item\Armor\Boots\SOR_EQU_BOT_05E.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+699,Item\Armor\Boots\SOR_EQU_BOT_04E.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+700,Item\Armor\Boots\SOR_EQU_BOT_03E.mesh,,0,Item\Armor\Boots\SOR_INV_BOT_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+701,Item\Armor\Coat\SOR_EQU_COT_01.mesh,,0,Item\Armor\Coat\SOR_INV_COT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+702,Item\Armor\Coat\SOR_EQU_COT_02.mesh,,0,Item\Armor\Coat\SOR_INV_COT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+703,Item\Armor\Coat\SOR_EQU_COT_03.mesh,,0,Item\Armor\Coat\SOR_INV_COT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+704,Item\Armor\Coat\SOR_EQU_COT_04.mesh,,0,Item\Armor\Coat\SOR_INV_COT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+705,Item\Armor\Coat\SOR_EQU_COT_05.mesh,,0,Item\Armor\Coat\SOR_INV_COT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+706,Item\Armor\Coat\SOR_EQU_COT_06.mesh,,0,Item\Armor\Coat\SOR_INV_COT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+707,Item\Armor\Coat\SOR_EQU_COT_07.mesh,,0,Item\Armor\Coat\SOR_INV_COT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+708,Item\Armor\Coat\SOR_EQU_COT_08.mesh,,0,Item\Armor\Coat\SOR_INV_COT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+709,Item\Armor\Coat\SOR_EQU_COT_09.mesh,,0,Item\Armor\Coat\SOR_INV_COT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+750,Item\Armor\Coat\SOR_EQU_COT_09E.mesh,,0,Item\Armor\Coat\SOR_INV_COT_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+751,Item\Armor\Pants\SUM_EQU_PAT_01.mesh,,0,Item\Armor\Pants\SUM_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+752,Item\Armor\Pants\SUM_EQU_PAT_02.mesh,,0,Item\Armor\Pants\SUM_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+753,Item\Armor\Pants\SUM_EQU_PAT_03.mesh,,0,Item\Armor\Pants\SUM_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+754,Item\Armor\Pants\SUM_EQU_PAT_04.mesh,,0,Item\Armor\Pants\SUM_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+755,Item\Armor\Pants\SUM_EQU_PAT_05.mesh,,0,Item\Armor\Pants\SUM_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+756,Item\Armor\Pants\SUM_EQU_PAT_06.mesh,,0,Item\Armor\Pants\SUM_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+757,Item\Armor\Pants\SUM_EQU_PAT_07.mesh,,0,Item\Armor\Pants\SUM_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+758,Item\Armor\Pants\SUM_EQU_PAT_08.mesh,,0,Item\Armor\Pants\SUM_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+759,Item\Armor\Pants\SUM_EQU_PAT_09.mesh,,0,Item\Armor\Pants\SUM_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+800,Item\Armor\Pants\SUM_EQU_PAT_09E.mesh,,0,Item\Armor\Pants\SUM_INV_PAT_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+801,Item\Armor\Glove\SUM_EQU_GLV_01.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+802,Item\Armor\Glove\SUM_EQU_GLV_02.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+803,Item\Armor\Glove\SUM_EQU_GLV_03.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+804,Item\Armor\Glove\SUM_EQU_GLV_04.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+805,Item\Armor\Glove\SUM_EQU_GLV_05.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+806,Item\Armor\Glove\SUM_EQU_GLV_06.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+807,Item\Armor\Glove\SUM_EQU_GLV_07.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+808,Item\Armor\Glove\SUM_EQU_GLV_08.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+809,Item\Armor\Glove\SUM_EQU_GLV_09.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+847,Item\Armor\Glove\SUM_EQU_GLV_05E.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+848,Item\Armor\Glove\SUM_EQU_GLV_04E.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+849,Item\Armor\Glove\SUM_EQU_GLV_03E.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+850,Item\Armor\Glove\SUM_EQU_GLV_02E.mesh,,0,Item\Armor\Glove\SUM_INV_GLV_02E.mesh,,,,2,TRUE,,,,0,0.3,0,1,x,180,2,TRUE,0,0,0
+851,Item\Armor\Helmet\SUM_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+852,Item\Armor\Helmet\SUM_EQU_HEL_02.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+853,Item\Armor\Helmet\SUM_EQU_HEL_03.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+854,Item\Armor\Helmet\SUM_EQU_HEL_04.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+855,Item\Armor\Helmet\SUM_EQU_HEL_05.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+856,Item\Armor\Helmet\SUM_EQU_HEL_06.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+857,Item\Armor\Helmet\SUM_EQU_HEL_07.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+858,Item\Armor\Helmet\SUM_EQU_HEL_08.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+859,Item\Armor\Helmet\SUM_EQU_HEL_09.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+895,Item\Armor\Helmet\SUM_EQU_HEL_09E.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+896,Item\Armor\Helmet\SUM_EQU_HEL_05E.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+897,Item\Armor\Helmet\SUM_EQU_HEL_04E.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+898,Item\Armor\Helmet\SUM_EQU_HEL_03E.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+899,Item\Armor\Helmet\SUM_EQU_HEL_02E.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_02E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+900,Item\Armor\Helmet\SUM_EQU_HEL_01E.mesh,,0,Item\Armor\Helmet\SUM_INV_HEL_01E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+901,Item\Armor\Boots\SUM_EQU_BOT_01.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+902,Item\Armor\Boots\SUM_EQU_BOT_02.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+903,Item\Armor\Boots\SUM_EQU_BOT_03.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+904,Item\Armor\Boots\SUM_EQU_BOT_04.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+905,Item\Armor\Boots\SUM_EQU_BOT_05.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+906,Item\Armor\Boots\SUM_EQU_BOT_06.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+907,Item\Armor\Boots\SUM_EQU_BOT_07.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+908,Item\Armor\Boots\SUM_EQU_BOT_08.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+909,Item\Armor\Boots\SUM_EQU_BOT_09.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+948,Item\Armor\Boots\SUM_EQU_BOT_05E.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+949,Item\Armor\Boots\SUM_EQU_BOT_04E.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+950,Item\Armor\Boots\SUM_EQU_BOT_03E.mesh,,0,Item\Armor\Boots\SUM_INV_BOT_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+951,Item\Armor\Coat\SUM_EQU_COT_01.mesh,,0,Item\Armor\Coat\SUM_INV_COT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+952,Item\Armor\Coat\SUM_EQU_COT_02.mesh,,0,Item\Armor\Coat\SUM_INV_COT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+953,Item\Armor\Coat\SUM_EQU_COT_03.mesh,,0,Item\Armor\Coat\SUM_INV_COT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+954,Item\Armor\Coat\SUM_EQU_COT_04.mesh,,0,Item\Armor\Coat\SUM_INV_COT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+955,Item\Armor\Coat\SUM_EQU_COT_05.mesh,,0,Item\Armor\Coat\SUM_INV_COT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+956,Item\Armor\Coat\SUM_EQU_COT_06.mesh,,0,Item\Armor\Coat\SUM_INV_COT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+957,Item\Armor\Coat\SUM_EQU_COT_07.mesh,,0,Item\Armor\Coat\SUM_INV_COT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+958,Item\Armor\Coat\SUM_EQU_COT_08.mesh,,0,Item\Armor\Coat\SUM_INV_COT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+959,Item\Armor\Coat\SUM_EQU_COT_09.mesh,,0,Item\Armor\Coat\SUM_INV_COT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1000,Item\Armor\Coat\SUM_EQU_COT_09E.mesh,,0,Item\Armor\Coat\SUM_INV_COT_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1001,Item\Armor\Pants\HIL_EQU_PAT_01.mesh,,0,Item\Armor\Pants\HIL_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1002,Item\Armor\Pants\HIL_EQU_PAT_02.mesh,,0,Item\Armor\Pants\HIL_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1003,Item\Armor\Pants\HIL_EQU_PAT_03.mesh,,0,Item\Armor\Pants\HIL_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1004,Item\Armor\Pants\HIL_EQU_PAT_04.mesh,,0,Item\Armor\Pants\HIL_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1005,Item\Armor\Pants\HIL_EQU_PAT_05.mesh,,0,Item\Armor\Pants\HIL_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1006,Item\Armor\Pants\HIL_EQU_PAT_06.mesh,,0,Item\Armor\Pants\HIL_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1007,Item\Armor\Pants\HIL_EQU_PAT_07.mesh,,0,Item\Armor\Pants\HIL_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1008,Item\Armor\Pants\HIL_EQU_PAT_08.mesh,,0,Item\Armor\Pants\HIL_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1009,Item\Armor\Pants\HIL_EQU_PAT_09.mesh,,0,Item\Armor\Pants\HIL_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1050,Item\Armor\Pants\HIL_EQU_PAT_09E.mesh,,0,Item\Armor\Pants\HIL_INV_PAT_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1051,Item\Armor\glove\HIL_EQU_glv_01.mesh,,0,Item\Armor\glove\HIL_INV_glv_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1052,Item\Armor\glove\HIL_EQU_glv_02.mesh,,0,Item\Armor\glove\HIL_INV_glv_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1053,Item\Armor\glove\HIL_EQU_glv_03.mesh,,0,Item\Armor\glove\HIL_INV_glv_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1054,Item\Armor\glove\HIL_EQU_glv_04.mesh,,0,Item\Armor\glove\HIL_INV_glv_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1055,Item\Armor\glove\HIL_EQU_glv_05.mesh,,0,Item\Armor\glove\HIL_INV_glv_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1056,Item\Armor\glove\HIL_EQU_glv_06.mesh,,0,Item\Armor\glove\HIL_INV_glv_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1057,Item\Armor\glove\HIL_EQU_glv_07.mesh,,0,Item\Armor\glove\HIL_INV_glv_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1058,Item\Armor\glove\HIL_EQU_glv_08.mesh,,0,Item\Armor\glove\HIL_INV_glv_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1059,Item\Armor\glove\HIL_EQU_glv_09.mesh,,0,Item\Armor\glove\HIL_INV_glv_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1097,Item\Armor\glove\HIL_EQU_glv_05E.mesh,,0,Item\Armor\glove\HIL_INV_glv_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1098,Item\Armor\glove\HIL_EQU_glv_04E.mesh,,0,Item\Armor\glove\HIL_INV_glv_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1099,Item\Armor\glove\HIL_EQU_glv_03E.mesh,,0,Item\Armor\glove\HIL_INV_glv_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1100,Item\Armor\glove\HIL_EQU_glv_02E.mesh,,0,Item\Armor\glove\HIL_INV_glv_02E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1101,Item\Armor\helmet\HIL_EQU_hel_01.mesh,,0,Item\Armor\helmet\HIL_INV_hel_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1102,Item\Armor\helmet\HIL_EQU_hel_02.mesh,,0,Item\Armor\helmet\HIL_INV_hel_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1103,Item\Armor\helmet\HIL_EQU_hel_03.mesh,,0,Item\Armor\helmet\HIL_INV_hel_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1104,Item\Armor\helmet\HIL_EQU_hel_04.mesh,,0,Item\Armor\helmet\HIL_INV_hel_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1105,Item\Armor\helmet\HIL_EQU_hel_05.mesh,,0,Item\Armor\helmet\HIL_INV_hel_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1106,Item\Armor\helmet\HIL_EQU_hel_06.mesh,,0,Item\Armor\helmet\HIL_INV_hel_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1107,Item\Armor\helmet\HIL_EQU_hel_07.mesh,,0,Item\Armor\helmet\HIL_INV_hel_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1108,Item\Armor\helmet\HIL_EQU_hel_08.mesh,,0,Item\Armor\helmet\HIL_INV_hel_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1109,Item\Armor\helmet\HIL_EQU_hel_09.mesh,,0,Item\Armor\helmet\HIL_INV_hel_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1145,Item\Armor\helmet\HIL_EQU_hel_09E.mesh,,0,Item\Armor\helmet\HIL_INV_hel_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1146,Item\Armor\helmet\HIL_EQU_hel_05E.mesh,,0,Item\Armor\helmet\HIL_INV_hel_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1147,Item\Armor\helmet\HIL_EQU_hel_04E.mesh,,0,Item\Armor\helmet\HIL_INV_hel_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1148,Item\Armor\helmet\HIL_EQU_hel_03E.mesh,,0,Item\Armor\helmet\HIL_INV_hel_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1149,Item\Armor\helmet\HIL_EQU_hel_02E.mesh,,0,Item\Armor\helmet\HIL_INV_hel_02E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1150,Item\Armor\helmet\HIL_EQU_hel_01E.mesh,,0,Item\Armor\helmet\HIL_INV_hel_01E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1151,Item\Armor\boots\HIL_EQU_bot_01.mesh,,0,Item\Armor\boots\HIL_INV_bot_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1152,Item\Armor\boots\HIL_EQU_bot_02.mesh,,0,Item\Armor\boots\HIL_INV_bot_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1153,Item\Armor\boots\HIL_EQU_bot_03.mesh,,0,Item\Armor\boots\HIL_INV_bot_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1154,Item\Armor\boots\HIL_EQU_bot_04.mesh,,0,Item\Armor\boots\HIL_INV_bot_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1155,Item\Armor\boots\HIL_EQU_bot_05.mesh,,0,Item\Armor\boots\HIL_INV_bot_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1156,Item\Armor\boots\HIL_EQU_bot_06.mesh,,0,Item\Armor\boots\HIL_INV_bot_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1157,Item\Armor\boots\HIL_EQU_bot_07.mesh,,0,Item\Armor\boots\HIL_INV_bot_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1158,Item\Armor\boots\HIL_EQU_bot_08.mesh,,0,Item\Armor\boots\HIL_INV_bot_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1159,Item\Armor\boots\HIL_EQU_bot_09.mesh,,0,Item\Armor\boots\HIL_INV_bot_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1198,Item\Armor\boots\HIL_EQU_bot_05E.mesh,,0,Item\Armor\boots\HIL_INV_bot_05E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1199,Item\Armor\boots\HIL_EQU_bot_04E.mesh,,0,Item\Armor\boots\HIL_INV_bot_04E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1200,Item\Armor\boots\HIL_EQU_bot_03E.mesh,,0,Item\Armor\boots\HIL_INV_bot_03E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1201,Item\Armor\coat\HIL_EQU_cot_01.mesh,,0,Item\Armor\coat\HIL_INV_cot_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1202,Item\Armor\coat\HIL_EQU_cot_02.mesh,,0,Item\Armor\coat\HIL_INV_cot_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1203,Item\Armor\coat\HIL_EQU_cot_03.mesh,,0,Item\Armor\coat\HIL_INV_cot_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1204,Item\Armor\coat\HIL_EQU_cot_04.mesh,,0,Item\Armor\coat\HIL_INV_cot_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1205,Item\Armor\coat\HIL_EQU_cot_05.mesh,,0,Item\Armor\coat\HIL_INV_cot_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1206,Item\Armor\coat\HIL_EQU_cot_06.mesh,,0,Item\Armor\coat\HIL_INV_cot_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1207,Item\Armor\coat\HIL_EQU_cot_07.mesh,,0,Item\Armor\coat\HIL_INV_cot_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1208,Item\Armor\coat\HIL_EQU_cot_08.mesh,,0,Item\Armor\coat\HIL_INV_cot_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1209,Item\Armor\coat\HIL_EQU_cot_09.mesh,,0,Item\Armor\coat\HIL_INV_cot_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1250,Item\Armor\coat\HIL_EQU_cot_09E.mesh,,0,Item\Armor\coat\HIL_INV_cot_09E.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1251,Item\Armor\Pants\WAR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22501,Item\Armor\Pants\WAR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22502,Item\Armor\Pants\WAR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22503,Item\Armor\Pants\WAR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22504,Item\Armor\Pants\WAR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22505,Item\Armor\Pants\WAR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22506,Item\Armor\Pants\WAR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22507,Item\Armor\Pants\WAR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22508,Item\Armor\Pants\WAR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22509,Item\Armor\Pants\WAR_EQU_PAT_01.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1252,Item\Armor\Pants\WAR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22511,Item\Armor\Pants\WAR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22512,Item\Armor\Pants\WAR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22513,Item\Armor\Pants\WAR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22514,Item\Armor\Pants\WAR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22515,Item\Armor\Pants\WAR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22516,Item\Armor\Pants\WAR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22517,Item\Armor\Pants\WAR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22518,Item\Armor\Pants\WAR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22519,Item\Armor\Pants\WAR_EQU_PAT_02.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1253,Item\Armor\Pants\WAR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22521,Item\Armor\Pants\WAR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22522,Item\Armor\Pants\WAR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22523,Item\Armor\Pants\WAR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22524,Item\Armor\Pants\WAR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22525,Item\Armor\Pants\WAR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22526,Item\Armor\Pants\WAR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22527,Item\Armor\Pants\WAR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22528,Item\Armor\Pants\WAR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22529,Item\Armor\Pants\WAR_EQU_PAT_03.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1254,Item\Armor\Pants\WAR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22531,Item\Armor\Pants\WAR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22532,Item\Armor\Pants\WAR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22533,Item\Armor\Pants\WAR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22534,Item\Armor\Pants\WAR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22535,Item\Armor\Pants\WAR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22536,Item\Armor\Pants\WAR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22537,Item\Armor\Pants\WAR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22538,Item\Armor\Pants\WAR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22539,Item\Armor\Pants\WAR_EQU_PAT_04.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1255,Item\Armor\Pants\WAR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22541,Item\Armor\Pants\WAR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22542,Item\Armor\Pants\WAR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22543,Item\Armor\Pants\WAR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22544,Item\Armor\Pants\WAR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22545,Item\Armor\Pants\WAR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22546,Item\Armor\Pants\WAR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22547,Item\Armor\Pants\WAR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22548,Item\Armor\Pants\WAR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22549,Item\Armor\Pants\WAR_EQU_PAT_05.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1256,Item\Armor\Pants\WAR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22551,Item\Armor\Pants\WAR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22552,Item\Armor\Pants\WAR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22553,Item\Armor\Pants\WAR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22554,Item\Armor\Pants\WAR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22555,Item\Armor\Pants\WAR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22556,Item\Armor\Pants\WAR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22557,Item\Armor\Pants\WAR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22558,Item\Armor\Pants\WAR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22559,Item\Armor\Pants\WAR_EQU_PAT_06.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1257,Item\Armor\Pants\WAR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22561,Item\Armor\Pants\WAR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22562,Item\Armor\Pants\WAR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22563,Item\Armor\Pants\WAR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22564,Item\Armor\Pants\WAR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22565,Item\Armor\Pants\WAR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22566,Item\Armor\Pants\WAR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22567,Item\Armor\Pants\WAR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22568,Item\Armor\Pants\WAR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22569,Item\Armor\Pants\WAR_EQU_PAT_07.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1258,Item\Armor\Pants\WAR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22571,Item\Armor\Pants\WAR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22572,Item\Armor\Pants\WAR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22573,Item\Armor\Pants\WAR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22574,Item\Armor\Pants\WAR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22575,Item\Armor\Pants\WAR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22576,Item\Armor\Pants\WAR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22577,Item\Armor\Pants\WAR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22578,Item\Armor\Pants\WAR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22579,Item\Armor\Pants\WAR_EQU_PAT_08.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1259,Item\Armor\Pants\WAR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22581,Item\Armor\Pants\WAR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22582,Item\Armor\Pants\WAR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22583,Item\Armor\Pants\WAR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22584,Item\Armor\Pants\WAR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22585,Item\Armor\Pants\WAR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22586,Item\Armor\Pants\WAR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22587,Item\Armor\Pants\WAR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22588,Item\Armor\Pants\WAR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+22589,Item\Armor\Pants\WAR_EQU_PAT_09.mesh,,0,Item\Armor\Pants\WAR_INV_PAT_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1301,Item\Armor\Glove\WAR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23001,Item\Armor\Glove\WAR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23002,Item\Armor\Glove\WAR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23003,Item\Armor\Glove\WAR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23004,Item\Armor\Glove\WAR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23005,Item\Armor\Glove\WAR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23006,Item\Armor\Glove\WAR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23007,Item\Armor\Glove\WAR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23008,Item\Armor\Glove\WAR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23009,Item\Armor\Glove\WAR_EQU_GLV_01.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1302,Item\Armor\Glove\WAR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23011,Item\Armor\Glove\WAR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23012,Item\Armor\Glove\WAR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23013,Item\Armor\Glove\WAR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23014,Item\Armor\Glove\WAR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23015,Item\Armor\Glove\WAR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23016,Item\Armor\Glove\WAR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23017,Item\Armor\Glove\WAR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23018,Item\Armor\Glove\WAR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23019,Item\Armor\Glove\WAR_EQU_GLV_02.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1303,Item\Armor\Glove\WAR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23021,Item\Armor\Glove\WAR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23022,Item\Armor\Glove\WAR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23023,Item\Armor\Glove\WAR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23024,Item\Armor\Glove\WAR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23025,Item\Armor\Glove\WAR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23026,Item\Armor\Glove\WAR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23027,Item\Armor\Glove\WAR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23028,Item\Armor\Glove\WAR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23029,Item\Armor\Glove\WAR_EQU_GLV_03.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_03.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1304,Item\Armor\Glove\WAR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23031,Item\Armor\Glove\WAR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23032,Item\Armor\Glove\WAR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23033,Item\Armor\Glove\WAR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23034,Item\Armor\Glove\WAR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23035,Item\Armor\Glove\WAR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23036,Item\Armor\Glove\WAR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23037,Item\Armor\Glove\WAR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23038,Item\Armor\Glove\WAR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23039,Item\Armor\Glove\WAR_EQU_GLV_04.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_04.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1305,Item\Armor\Glove\WAR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23041,Item\Armor\Glove\WAR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23042,Item\Armor\Glove\WAR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23043,Item\Armor\Glove\WAR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23044,Item\Armor\Glove\WAR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23045,Item\Armor\Glove\WAR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23046,Item\Armor\Glove\WAR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23047,Item\Armor\Glove\WAR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23048,Item\Armor\Glove\WAR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23049,Item\Armor\Glove\WAR_EQU_GLV_05.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_05.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1306,Item\Armor\Glove\WAR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23051,Item\Armor\Glove\WAR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23052,Item\Armor\Glove\WAR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23053,Item\Armor\Glove\WAR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23054,Item\Armor\Glove\WAR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23055,Item\Armor\Glove\WAR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23056,Item\Armor\Glove\WAR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23057,Item\Armor\Glove\WAR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23058,Item\Armor\Glove\WAR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23059,Item\Armor\Glove\WAR_EQU_GLV_06.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_06.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1307,Item\Armor\Glove\WAR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23061,Item\Armor\Glove\WAR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23062,Item\Armor\Glove\WAR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23063,Item\Armor\Glove\WAR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23064,Item\Armor\Glove\WAR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23065,Item\Armor\Glove\WAR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23066,Item\Armor\Glove\WAR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23067,Item\Armor\Glove\WAR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23068,Item\Armor\Glove\WAR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23069,Item\Armor\Glove\WAR_EQU_GLV_07.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_07.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1308,Item\Armor\Glove\WAR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23071,Item\Armor\Glove\WAR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23072,Item\Armor\Glove\WAR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23073,Item\Armor\Glove\WAR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23074,Item\Armor\Glove\WAR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23075,Item\Armor\Glove\WAR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23076,Item\Armor\Glove\WAR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23077,Item\Armor\Glove\WAR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23078,Item\Armor\Glove\WAR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23079,Item\Armor\Glove\WAR_EQU_GLV_08.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_08.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1309,Item\Armor\Glove\WAR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23081,Item\Armor\Glove\WAR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23082,Item\Armor\Glove\WAR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23083,Item\Armor\Glove\WAR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23084,Item\Armor\Glove\WAR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23085,Item\Armor\Glove\WAR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23086,Item\Armor\Glove\WAR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23087,Item\Armor\Glove\WAR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23088,Item\Armor\Glove\WAR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23089,Item\Armor\Glove\WAR_EQU_GLV_09.mesh,,0,Item\Armor\Glove\WAR_INV_GLV_09.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1351,Item\Armor\Helmet\WAR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23501,Item\Armor\Helmet\WAR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23502,Item\Armor\Helmet\WAR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23503,Item\Armor\Helmet\WAR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23504,Item\Armor\Helmet\WAR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23505,Item\Armor\Helmet\WAR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23506,Item\Armor\Helmet\WAR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23507,Item\Armor\Helmet\WAR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23508,Item\Armor\Helmet\WAR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23509,Item\Armor\Helmet\WAR_EQU_HEL_01.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_01.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+1352,Item\Armor\Helmet\WAR_EQU_HEL_02.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23511,Item\Armor\Helmet\WAR_EQU_HEL_02.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23512,Item\Armor\Helmet\WAR_EQU_HEL_02.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0
+23513,Item\Armor\Helmet\WAR_EQU_HEL_02.mesh,,0,Item\Armor\Helmet\WAR_INV_HEL_02.mesh,,,,2,TRUE,,,,0,0.3,0,1,y,90,1,TRUE,0,0,0

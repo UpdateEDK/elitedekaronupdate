@@ -1,0 +1,3250 @@
+0,0,0,0,
+newInven,42,UI\Game\Inven\new_inven_001.dds,442,165,16,45,0,0,0,0,
+newInven,43,UI\Game\Inven\new_inven_001.dds,442,210,16,45,0,0,0,0,
+newInven,50,UI\Game\Inven\new_inven_001.dds,458,75,16,45,0,0,0,0,무기 오른쪽 스왑
+newInven,51,UI\Game\Inven\new_inven_001.dds,458,120,16,45,0,0,0,0,
+newInven,52,UI\Game\Inven\new_inven_001.dds,458,165,16,45,0,0,0,0,
+newInven,53,UI\Game\Inven\new_inven_001.dds,458,210,16,45,0,0,0,0,
+newInven,71,UI\Game\Inven\new_inven_001.dds,340,25,54,23,0,0,0,0,가방 텝 
+newInven,72,UI\Game\Inven\new_inven_001.dds,340,50,54,23,0,0,0,0,
+newInven,81,UI\Game\Inven\new_inven_003.dds,0,0,324,281,0,0,0,0,코스
+
+party,1,UI\Game\party\party.dds,0,0,164,19,0,0,0,0,미니파티창 위
+party,2,UI\Game\party\party.dds,0,19,164,32,0,0,0,0,미니파티창 아래
+party,3,UI\Game\party\party.dds,0,51,258,246,0,0,0,0,파티창
+party,4,UI\Game\party\party.dds,0,299,107,85,0,0,0,0,팝업배경
+party,5,UI\Game\party\party.dds,0,384,248,27,0,0,0,0,파티창선택테두리
+party,6,UI\Game\party\party.dds,0,411,144,16,0,0,0,0,파티 결성창 기입 부분 바탕
+party,7,UI\Game\party\party.dds,1,438,16,18,0,0,0,0,동행버튼비활성
+party,8,UI\Game\party\party.dds,19,438,16,18,0,0,0,0,동행버튼활성
+party,9,UI\Game\party\party.dds,19,437,16,18,0,0,0,0,동행버튼활성클릭시
+
+newParty,1,UI\Game\party\new_party.dds,0,0,283,273,0,0,0,0,패널
+newParty,11,UI\Game\party\new_party.dds,289,0,60,19,0,0,0,0,버튼
+newParty,21,UI\Game\party\new_party.dds,289,20,13,13,0,0,0,0,엑스 버튼
+newParty,22,UI\Game\party\new_party.dds,303,20,13,13,0,0,0,0,
+newParty,23,UI\Game\party\new_party.dds,317,20,13,13,0,0,0,0,
+newParty,31,UI\Game\party\new_party.dds,289,34,16,19,0,0,0,0,화살표 버튼
+newParty,32,UI\Game\party\new_party.dds,289,54,16,19,0,0,0,0,
+newParty,33,UI\Game\party\new_party.dds,289,74,16,19,0,0,0,0,
+newParty,41,UI\Game\party\new_party.dds,0,278,29,27,0,0,0,0,기사
+newParty,42,UI\Game\party\new_party.dds,29,278,29,27,0,0,0,0,바기
+newParty,43,UI\Game\party\new_party.dds,58,278,29,27,0,0,0,0,법사
+newParty,44,UI\Game\party\new_party.dds,87,278,29,27,0,0,0,0,궁수
+newParty,45,UI\Game\party\new_party.dds,116,278,29,27,0,0,0,0,세그
+newParty,46,UI\Game\party\new_party.dds,145,278,29,27,0,0,0,0,서머너
+newParty,47,UI\Game\party\new_party.dds,174,278,29,27,0,0,0,0,알로켄
+newParty,51,UI\Game\party\new_party.dds,2,322,281,29,0,0,0,0,over이미지
+newParty,61,UI\Game\party\new_party.dds,307,34,2,8,0,0,0,0,프로그래스 바
+
+etc_01,1,UI\Game\theme01\etc_01.dds,0,0,232,157,0,0,0,0,각종 메세지 기본창
+etc_01,2,UI\Game\theme01\etc_01.dds,0,157,57,19,0,0,0,0,기본 버튼
+etc_01,3,UI\Game\theme01\etc_01.dds,0,176,13,13,0,0,0,0,X버튼 기본
+etc_01,4,UI\Game\theme01\etc_01.dds,13,176,13,13,0,0,0,0,X버튼 오버
+etc_01,5,UI\Game\theme01\etc_01.dds,26,176,13,13,0,0,0,0,X버튼 누름
+etc_01,6,UI\Game\theme01\etc_01.dds,0,189,12,12,0,0,0,0,+버튼 비활성화
+etc_01,7,UI\Game\theme01\etc_01.dds,12,189,12,12,0,0,0,0,+버튼 활성화
+etc_01,8,UI\Game\theme01\etc_01.dds,24,189,12,12,0,0,0,0,+버튼 오버
+etc_01,9,UI\Game\theme01\etc_01.dds,36,189,12,12,0,0,0,0,+버튼 누름
+etc_01,10,UI\Game\theme01\etc_01.dds,0,201,12,12,0,0,0,0,-버튼 비활성화
+etc_01,11,UI\Game\theme01\etc_01.dds,12,201,12,12,0,0,0,0,-버튼 활성화
+etc_01,12,UI\Game\theme01\etc_01.dds,24,201,12,12,0,0,0,0,-버튼 오버
+etc_01,13,UI\Game\theme01\etc_01.dds,36,201,12,12,0,0,0,0,-버튼 누름
+
+etc_01,14,UI\Game\theme01\etc_01.dds,0,213,12,12,0,0,0,0,아래삼각버튼 비활성화
+etc_01,15,UI\Game\theme01\etc_01.dds,12,213,12,12,0,0,0,0,아래삼각버튼 활성화
+etc_01,16,UI\Game\theme01\etc_01.dds,24,213,12,12,0,0,0,0,아래삼각버튼 오버
+etc_01,17,UI\Game\theme01\etc_01.dds,36,213,12,12,0,0,0,0,아래삼각버튼 누름
+etc_01,18,UI\Game\theme01\etc_01.dds,0,225,12,12,0,0,0,0,위삼각버튼 비활성화
+etc_01,19,UI\Game\theme01\etc_01.dds,12,225,12,12,0,0,0,0,위삼각버튼 활성화
+etc_01,20,UI\Game\theme01\etc_01.dds,24,225,12,12,0,0,0,0,위삼각버튼 오버
+etc_01,21,UI\Game\theme01\etc_01.dds,36,225,12,12,0,0,0,0,위삼각버튼 누름
+etc_01,22,UI\Game\theme01\etc_01.dds,0,237,9,12,0,0,0,0,작은스크롤버튼기본
+etc_01,23,UI\Game\theme01\etc_01.dds,9,237,9,12,0,0,0,0,작은스크롤버튼오버
+etc_01,24,UI\Game\theme01\etc_01.dds,0,249,12,19,0,0,0,0,큰스크롤버튼기본
+etc_01,25,UI\Game\theme01\etc_01.dds,12,249,12,19,0,0,0,0,큰스크롤버튼오버
+
+etc_01,26,UI\Game\theme01\etc_01.dds,0,271,18,18,0,0,0,0,체크기본
+etc_01,27,UI\Game\theme01\etc_01.dds,21,271,18,18,0,0,0,0,체크오버
+etc_01,28,UI\Game\theme01\etc_01.dds,0,289,220,8,0,0,0,0,파란 progress바 배경
+etc_01,29,UI\Game\theme01\etc_01.dds,1,297,1,7,0,0,0,0,파란 progress바 
+etc_01,30,UI\Game\theme01\etc_01.dds,0,304,183,2,0,0,0,0,SlideCtrl라인
+etc_01,31,UI\Game\theme01\etc_01.dds,0,306,2,7,0,0,0,0,붉은 progress바 왼쪽끝
+etc_01,32,UI\Game\theme01\etc_01.dds,4,306,1,8,0,0,0,0,붉은 progress바 가운데
+etc_01,33,UI\Game\theme01\etc_01.dds,7,306,2,7,0,0,0,0,붉은 progress바 오른쪽끝
+etc_01,34,UI\Game\theme01\etc_01.dds,0,314,27,25,0,0,0,0,기사 큰아이콘 
+etc_01,35,UI\Game\theme01\etc_01.dds,27,314,27,25,0,0,0,0,궁수 큰아이콘 
+etc_01,36,UI\Game\theme01\etc_01.dds,54,314,27,25,0,0,0,0,법사 큰아이콘 
+etc_01,37,UI\Game\theme01\etc_01.dds,81,314,27,25,0,0,0,0,소환수 큰아이콘 
+etc_01,38,UI\Game\theme01\etc_01.dds,108,314,27,25,0,0,0,0,힐러 큰아이콘 
+etc_01,39,UI\Game\theme01\etc_01.dds,135,314,27,25,0,0,0,0,바기 큰아이콘 
+etc_01,40,UI\Game\theme01\etc_01.dds,0,339,18,18,0,0,0,0,기사 작은아이콘 
+etc_01,41,UI\Game\theme01\etc_01.dds,18,339,18,18,0,0,0,0,궁수 작은아이콘 
+etc_01,42,UI\Game\theme01\etc_01.dds,36,339,18,18,0,0,0,0,법사 작은아이콘 
+etc_01,43,UI\Game\theme01\etc_01.dds,54,339,18,18,0,0,0,0,소환수 작은아이콘 
+etc_01,44,UI\Game\theme01\etc_01.dds,72,339,18,18,0,0,0,0,힐러 작은아이콘 
+etc_01,45,UI\Game\theme01\etc_01.dds,90,339,18,18,0,0,0,0,바기 작은아이콘 
+etc_01,46,UI\Game\theme01\etc_01.dds,48,213,12,12,0,0,0,0,왼쪽삼각버튼비활성화
+etc_01,47,UI\Game\theme01\etc_01.dds,60,213,12,12,0,0,0,0,왼쪽삼각버튼활성화
+etc_01,48,UI\Game\theme01\etc_01.dds,72,213,12,12,0,0,0,0,왼쪽삼각버튼오버
+etc_01,49,UI\Game\theme01\etc_01.dds,84,213,12,12,0,0,0,0,왼쪽삼각버튼누름
+etc_01,50,UI\Game\theme01\etc_01.dds,48,225,12,12,0,0,0,0,오른쪽삼각버튼비활성화
+etc_01,51,UI\Game\theme01\etc_01.dds,60,225,12,12,0,0,0,0,오른쪽삼각버튼활성화
+etc_01,52,UI\Game\theme01\etc_01.dds,72,225,12,12,0,0,0,0,오른쪽삼각버튼오버
+etc_01,53,UI\Game\theme01\etc_01.dds,84,225,12,12,0,0,0,0,오른쪽삼각버튼누름
+etc_01,54,UI\Game\theme01\etc_01.dds,0,357,70,22,0,0,0,0,기본탭체크
+etc_01,55,UI\Game\theme01\etc_01.dds,0,379,70,22,0,0,0,0,기본탭
+etc_01,56,UI\Game\theme01\etc_01.dds,11,306,1,8,0,0,0,0,파티창붉은바바탕
+etc_01,57,UI\Game\theme01\etc_01.dds,15,307,1,7,0,0,0,0,파티창붉은바
+etc_01,58,UI\Game\theme01\etc_01.dds,0,401,44,44,0,0,0,0,길드마크바탕박스
+etc_01,59,UI\Game\theme01\etc_01.dds,0,445,15,15,0,0,0,0,체크박스기본판
+etc_01,60,UI\Game\theme01\etc_01.dds,73,357,65,22,0,0,0,0,Npc 상점용 탭 클릭후
+etc_01,61,UI\Game\theme01\etc_01.dds,73,380,65,22,0,0,0,0,Npc 상점용 탭 평상시
+etc_01,62,UI\Game\theme01\etc_01.dds,48,189,12,12,0,0,0,0,?버튼비활성화
+etc_01,63,UI\Game\theme01\etc_01.dds,60,189,12,12,0,0,0,0,?버튼 활성화
+etc_01,64,UI\Game\theme01\etc_01.dds,72,189,12,12,0,0,0,0,?버튼 오버
+etc_01,65,UI\Game\theme01\etc_01.dds,84,189,12,12,0,0,0,0,?버튼 누름
+etc_01,66,UI\Game\theme01\etc_01.dds,1,461,20,20,4,4,4,4,툴팁
+etc_01,67,UI\Game\theme01\etc_01.dds,22,446,15,2,5,0,5,0,툴팁확장창라인
+etc_01,68,UI\Game\theme01\etc_01.dds,22,449,32,32,0,0,0,0,◀화살표
+etc_01,69,UI\Game\theme01\etc_01.dds,54,449,32,32,0,0,0,0,▶화살표
+etc_01,75,UI\Game\theme01\etc_01.dds,140,357,55,22,0,0,0,0,인벤용탭클릭후
+etc_01,76,UI\Game\theme01\etc_01.dds,140,379,55,22,0,0,0,0,인벤용탭기본
+etc_01,77,UI\Game\theme01\etc_01.dds,47,264,22,22,0,0,0,0,엑스체크
+etc_01,78,UI\Game\theme01\etc_01.dds,0,483,344,19,0,0,0,0,채팅입력창
+etc_01,79,UI\Game\theme01\etc_01.dds,48,201,12,12,0,0,0,0,'버튼 비활성화
+etc_01,80,UI\Game\theme01\etc_01.dds,60,201,12,12,0,0,0,0,'버튼 활성화
+etc_01,81,UI\Game\theme01\etc_01.dds,72,201,12,12,0,0,0,0,'버튼 오버
+etc_01,82,UI\Game\theme01\etc_01.dds,84,201,12,12,0,0,0,0,'버튼 누름
+etc_01,84,UI\Game\theme01\etc_01.dds,86,429,54,54,0,0,0,0,파티타겟설정아이콘노멀,
+etc_01,85,UI\Game\theme01\etc_01.dds,140,429,54,54,0,0,0,0,파티타겟설정아이콘노멀,정아이콘푸쉬
+etc_01,86,UI\Game\theme01\etc_01.dds,194,429,54,54,0,0,0,0,파티타겟설정아이콘노멀,정아이콘셀렉트
+etc_01,100,UI\Game\theme01\etc_01.dds,0,314,27,25,0,0,0,0,기사 큰아이콘 
+etc_01,101,UI\Game\theme01\etc_01.dds,27,314,27,25,0,0,0,0,궁수 큰아이콘 
+etc_01,102,UI\Game\theme01\etc_01.dds,54,314,27,25,0,0,0,0,법사 큰아이콘 
+etc_01,103,UI\Game\theme01\etc_01.dds,81,314,27,25,0,0,0,0,소환수 큰아이콘 
+etc_01,104,UI\Game\theme01\etc_01.dds,108,314,27,25,0,0,0,0,힐러 큰아이콘 
+etc_01,105,UI\Game\theme01\etc_01.dds,135,314,27,25,0,0,0,0,바기 큰아이콘 
+etc_01,106,UI\Game\theme01\etc_01.dds,162,314,27,25,0,0,0,0,알로켄 큰아이콘 
+etc_01,107,UI\Game\theme01\etc_01.dds,189,314,27,25,0,0,0,0,기사 큰아이콘-2 
+etc_01,108,UI\Game\theme01\etc_01.dds,216,314,27,25,0,0,0,0,궁수 큰아이콘-2 
+etc_01,109,UI\Game\theme01\etc_01.dds,243,314,27,25,0,0,0,0,법사 큰아이콘-2 
+etc_01,110,UI\Game\theme01\etc_01.dds,270,314,27,25,0,0,0,0,소환수 큰아이콘-2
+etc_01,111,UI\Game\theme01\etc_01.dds,297,314,27,25,0,0,0,0,힐러 큰아이콘-2
+etc_01,112,UI\Game\theme01\etc_01.dds,324,314,27,25,0,0,0,0,바기 큰아이콘-2
+etc_01,113,UI\Game\theme01\etc_01.dds,351,314,27,25,0,0,0,0,알로켄 큰아이콘-2
+
+etc_01,200,UI\Game\theme01\etc_01.dds,0,339,18,18,0,0,0,0,기사 작은아이콘 
+etc_01,201,UI\Game\theme01\etc_01.dds,18,339,18,18,0,0,0,0,궁수 작은아이콘 
+etc_01,202,UI\Game\theme01\etc_01.dds,36,339,18,18,0,0,0,0,법사 작은아이콘 
+etc_01,203,UI\Game\theme01\etc_01.dds,54,339,18,18,0,0,0,0,소환수 작은아이콘 
+etc_01,204,UI\Game\theme01\etc_01.dds,72,339,18,18,0,0,0,0,힐러 작은아이콘 
+etc_01,205,UI\Game\theme01\etc_01.dds,90,339,18,18,0,0,0,0,바기 작은아이콘 
+etc_01,206,UI\Game\theme01\etc_01.dds,108,339,18,18,0,0,0,0,알로켄 작은아이콘 
+etc_01,207,UI\Game\theme01\etc_01.dds,189,339,18,18,0,0,0,0,기사 작은아이콘-2
+etc_01,208,UI\Game\theme01\etc_01.dds,207,339,18,18,0,0,0,0,궁수 작은아이콘-2
+etc_01,209,UI\Game\theme01\etc_01.dds,225,339,18,18,0,0,0,0,법사 작은아이콘-2
+etc_01,210,UI\Game\theme01\etc_01.dds,243,339,18,18,0,0,0,0,소환수 작은아이콘-2
+etc_01,211,UI\Game\theme01\etc_01.dds,261,339,18,18,0,0,0,0,힐러 작은아이콘-2
+etc_01,212,UI\Game\theme01\etc_01.dds,279,339,18,18,0,0,0,0,바기 작은아이콘-2
+etc_01,213,UI\Game\theme01\etc_01.dds,297,339,18,18,0,0,0,0,알로켄 작은아이콘-2
+
+etc_01,301,UI\Game\theme01\etc_01.dds,196,158,30,30,0,0,0,0,하얀테두리 
+etc_01,302,UI\Game\theme01\etc_01.dds,227,158,30,30,0,0,0,0,노란테두리
+
+etc_01,303,UI\Game\theme01\etc_01.dds,50,426,20,20,0,0,0,0,체크버튼-미체크
+etc_01,304,UI\Game\theme01\etc_01.dds,50,405,20,20,0,0,0,0,체크버튼-체크
+
+talk,1,UI\Game\theme01\talk.dds,0,0,283,300,0,0,0,0,npc대화창
+
+indun,1,UI\Game\indun\indun.dds,0,0,315,314,0,0,0,0,인던퀘스트정보창
+indun,2,UI\Game\indun\indun.dds,3,350,179,31,0,0,0,0,인던종료시간창
+indun,3,UI\Game\indun\indun.dds,2,316,30,30,0,0,0,0,인던퀘스트느낌표비활성
+indun,4,UI\Game\indun\indun.dds,35,316,30,30,0,0,0,0,인던퀘스트느낌표활성
+indun,5,UI\Game\indun\indun.dds,69,316,30,30,0,0,0,0,인던퀘스트느낌표
+
+help_01,1,UI\Game\helpInfo\help_01.dds,0,0,512,471,0,0,0,0,도움말창왼쪽부분
+help_01,2,UI\Game\helpInfo\help_02.dds,0,0,232,471,0,0,0,0,도움말창오른족부분
+
+quest,1,UI\Game\quest\quest_01.dds,0,0,379,512,0,0,0,0,퀘스트창윗부분
+quest,2,UI\Game\quest\quest_02.dds,0,0,379,65,0,0,0,0,퀘스트창아랫부분
+quest,3,UI\Game\quest\quest_memo.dds,0,0,283,179,0,0,0,0,퀘스트알림창 기본판
+quest,4,UI\Game\quest\quest_memo.dds,1,180,257,50,0,0,0,0,항목표시라인
+quest,5,UI\Game\quest\quest_memo.dds,0,231,30,30,0,0,0,0,느낌표 어두운것
+quest,6,UI\Game\quest\quest_memo.dds,30,231,30,30,0,0,0,0,느낌표 밝은것
+quest,7,UI\Game\quest\quest_memo.dds,0,264,120,22,0,0,0,0,탭클릭시
+quest,8,UI\Game\quest\quest_memo.dds,0,287,120,22,0,0,0,0,탭평상시
+
+new_option,1,UI\Game\Option\option.dds,0,560,232,457,0,0,0,0,옵션기본창
+new_option,2,UI\Game\Option\option.dds,232,560,140,214,0,0,0,0,긴탭창
+new_option,3,UI\Game\Option\option.dds,232,774,140,87,0,0,0,0,짧은탭창
+new_option,4,UI\Game\Option\option.dds,232,861,99,19,0,0,0,0,조작키 변경-클릭전
+new_option,5,UI\Game\Option\option.dds,331,861,99,19,0,0,0,0,조작키 변경-마우스오버
+new_option,6,UI\Game\Option\option.dds,232,881,99,19,0,0,0,0,조작키 변경-클릭시
+new_option,7,UI\Game\Option\option.dds,232,899,185,18,0,0,0,0,조작키변경창-등록된 조작키 레이블(기본창)
+new_option,8,UI\Game\Option\option.dds,232,917,185,18,0,0,0,0,조작키변경창-등록된 조작키 레이블(입력창)
+
+new_option2,1,UI\Game\Option\option.dds,0,0,470,556,0,0,0,0,조작키 변경 기본창
+new_option2,2,UI\Game\Option\option.dds,0,557,444,2,0,0,0,0,가로 구분선
+
+new_trade,1,UI\Game\trade\trade.dds,0,0,333,473,0,0,0,0,개인거래창
+new_trade,2,UI\Game\trade\trade.dds,1,473,99,8,0,0,0,0,진행바 기본판
+new_trade,3,UI\Game\trade\trade.dds,1,481,1,6,0,0,0,0,진행바 파랑
+new_trade,4,UI\Game\trade\tradelock.dds,0,0,319,159,0,0,0,0,거래창 잠금막
+
+store_per,1,UI\Game\store\store_per.dds,0,0,333,215,0,0,0,0,개인상점창
+store_per,2,UI\Game\store\store_per.dds,0,297,333,54,0,0,0,0,아랫부분
+store_per,3,UI\Game\store\store_per.dds,0,352,144,16,0,0,0,0,blink창
+store_per,4,UI\Game\store\store_per.dds,0,215,333,82,0,0,0,0,판매시스템메시지창
+store_per,5,UI\Game\store\store_per_increase.dds,0,0,333,375,0,0,0,0,개인상점창윗부분_확장
+store_npc,1,UI\Game\store\store_npc.dds,0,0,333,432,0,0,0,0,Npc상점창
+new_storage,1,UI\Game\ware\ware.dds,0,0,333,430,0,0,0,0,창고기본판
+
+chat,1,UI\Game\chat\chat.dds,0,0,96,199,0,0,0,0,액션리스트창
+chat,2,UI\Game\chat\chat.dds,97,0,2,144,0,0,0,0,버튼지나가는길
+chat,3,UI\Game\chat\chat.dds,0,199,43,19,0,0,0,0,메뉴버튼
+chat,4,UI\Game\chat\chat.dds,0,218,43,19,0,0,0,0,메뉴버튼선택테두리
+chat,5,UI\Game\chat\chat.dds,43,201,26,26,0,0,0,0,쪽지아이콘 어둠
+chat,6,UI\Game\chat\chat.dds,69,201,26,26,0,0,0,0,쪽지아이콘 밝음
+chat,7,UI\Game\chat\chat.dds,95,201,26,26,0,0,0,0,쪽지아이콘 클릭
+chat,8,UI\Game\chat\chat.dds,43,229,26,26,0,0,0,0,메신저아이콘 어둠
+chat,9,UI\Game\chat\chat.dds,69,229,26,26,0,0,0,0,메신저아이콘 밝음
+chat,10,UI\Game\chat\chat.dds,95,229,26,26,0,0,0,0,메신저아이콘 클릭
+
+chat,11,UI\Game\chat\chat.dds,100,0,20,20,4,4,4,4,IME기본창
+
+new_chat,1,UI\Game\chat\new_chat.dds,0,2,344,1,0,0,0,0,창테두리윗부분
+new_chat,2,UI\Game\chat\new_chat.dds,0,5,344,2,0,0,0,0,창테두리아랫부분
+new_chat,3,UI\Game\chat\new_chat.dds,346,1,2,12,0,0,0,0,창테두리오른쪽부분
+new_chat,4,UI\Game\chat\new_chat.dds,0,13,126,141,0,0,0,0,시스템메시지창설정
+new_chat,5,UI\Game\chat\new_chat.dds,250,32,166,223,0,0,0,0,일반채팅창설정
+new_chat,6,UI\Game\chat\new_chat.dds,211,332,92,149,0,0,0,0,액션리스트창
+new_chat,7,UI\Game\chat\new_chat.dds,127,13,346,18,0,0,0,0,채팅글입력창
+new_chat,8,UI\Game\chat\new_chat.dds,127,32,15,15,0,0,0,0,설정창선택아이콘어둠
+new_chat,9,UI\Game\chat\new_chat.dds,142,32,15,15,0,0,0,0,설정창선택아이콘밝음
+new_chat,10,UI\Game\chat\new_chat.dds,157,32,15,15,0,0,0,0,설정창선택아이콘클릭
+new_chat,11,UI\Game\chat\new_chat.dds,127,47,15,15,0,0,0,0,창열림상태버튼
+new_chat,12,UI\Game\chat\new_chat.dds,142,47,15,15,0,0,0,0,창열림클릭버튼
+new_chat,13,UI\Game\chat\new_chat.dds,157,47,15,15,0,0,0,0,창닫힘상태버튼
+new_chat,14,UI\Game\chat\new_chat.dds,172,47,15,15,0,0,0,0,창닫힘클릭버튼
+new_chat,15,UI\Game\chat\new_chat.dds,187,47,15,15,0,0,0,0,창닫힘상태밝은버튼
+new_chat,16,UI\Game\chat\new_chat.dds,127,63,12,12,0,0,0,0,한글변환버튼
+new_chat,17,UI\Game\chat\new_chat.dds,139,63,12,12,0,0,0,0,영문변환버튼
+new_chat,18,UI\Game\chat\new_chat.dds,127,77,43,19,0,0,0,0,메뉴기본버튼
+new_chat,19,UI\Game\chat\new_chat.dds,127,96,43,19,0,0,0,0,메뉴선택버튼(보라)
+new_chat,20,UI\Game\chat\new_chat.dds,127,115,43,19,0,0,0,0,메뉴선택버튼(파란)
+new_chat,21,UI\Game\chat\new_chat.dds,127,134,43,19,0,0,0,0,메뉴선택버튼(핑크)
+new_chat,22,UI\Game\chat\new_chat.dds,127,153,43,19,0,0,0,0,메뉴선택버튼(하늘)
+new_chat,23,UI\Game\chat\new_chat.dds,127,173,22,19,0,0,0,0,메뉴액션버튼
+new_chat,24,UI\Game\chat\new_chat.dds,149,173,22,19,0,0,0,0,메뉴액션선택버튼
+new_chat,25,UI\Game\chat\new_chat.dds,127,192,22,19,0,0,0,0,메뉴도움말버튼
+new_chat,26,UI\Game\chat\new_chat.dds,149,192,22,19,0,0,0,0,메뉴도움말선택버튼
+new_chat,27,UI\Game\chat\new_chat.dds,171,116,26,26,0,0,0,0,쪽지아이콘어둠
+new_chat,28,UI\Game\chat\new_chat.dds,197,116,26,26,0,0,0,0,쪽지아이콘밝음
+new_chat,29,UI\Game\chat\new_chat.dds,223,116,26,26,0,0,0,0,쪽지아이콘클릭
+new_chat,30,UI\Game\chat\new_chat.dds,171,144,26,26,0,0,0,0,메신져아이콘어둠
+new_chat,31,UI\Game\chat\new_chat.dds,197,144,26,26,0,0,0,0,메신져아이콘밝음
+new_chat,32,UI\Game\chat\new_chat.dds,223,144,26,26,0,0,0,0,메신져아이콘클릭
+
+chatset,1,UI\Game\chat\chatset.dds,0,0,164,108,0,0,0,0,채팅설정창기본판
+
+pcpop,1,UI\Game\pcpop\name.dds,0,33,164,33,0,0,0,0,캐릭터몬스터이름 기본판
+pcpop,2,UI\Game\pcpop\name.dds,196,0,53,21,0,0,0,0,캐릭터몬스터이름 메뉴판
+pcpop,3,UI\Game\pcpop\name.dds,196,21,53,21,0,0,0,0,캐릭터몬스터이름메뉴판선택테두리
+pcpop,4,UI\Game\pcpop\name.dds,0,0,196,33,0,0,0,0,소환수이름 기본판
+pcpop,5,UI\Game\pcpop\name.dds,192,64,32,160,0,0,0,0,소환수이름 메뉴판-아이콘없음
+pcpop,6,UI\Game\pcpop\name.dds,224,64,32,160,0,0,0,0,소환수이름 메뉴판-아이콘있음
+pcpop,7,UI\Game\pcpop\name.dds,164,33,30,30,0,0,0,0,소환수이름메뉴판선택테두리
+pcpop,8,UI\Game\pcpop\name.dds,0,240,15,15,0,0,0,0,몬스터소유상태기본
+pcpop,9,UI\Game\pcpop\name.dds,15,240,13,13,0,0,0,0,몬스터소유연두색 소유
+pcpop,10,UI\Game\pcpop\name.dds,28,240,13,13,0,0,0,0,몬스터소유노랑색 예약
+pcpop,11,UI\Game\pcpop\name.dds,41,240,13,13,0,0,0,0,몬스터소유주황색 다른사람예약
+pcpop,12,UI\Game\pcpop\name.dds,54,240,13,13,0,0,0,0,몬스터소유빨강색 다른사람 소유
+pcpop,13,UI\Game\pcpop\name.dds,0,66,29,28,0,0,0,0,아이콘 텐타토르
+pcpop,14,UI\Game\pcpop\name.dds,0,95,29,28,0,0,0,0,아이콘 셀라임
+pcpop,15,UI\Game\pcpop\name.dds,0,124,29,28,0,0,0,0,아이콘 알데바란
+pcpop,16,UI\Game\pcpop\name.dds,0,153,29,28,0,0,0,0,아이콘 타란툴라
+pcpop,17,UI\Game\pcpop\name.dds,0,182,29,28,0,0,0,0,아이콘 레골루스
+pcpop,18,UI\Game\pcpop\name.dds,0,211,29,28,0,0,0,0,아이콘 그류페인
+pcpop,19,UI\Game\pcpop\name.dds,59,66,29,28,0,0,0,0,아이콘 브래곤
+pcpop,20,UI\Game\pcpop\name.dds,59,95,29,28,0,0,0,0,아이콘 아나데아
+pcpop,21,UI\Game\pcpop\name.dds,30,66,28,28,0,0,0,0,아이콘 강제 공격
+pcpop,22,UI\Game\pcpop\name.dds,30,95,28,28,0,0,0,0,아이콘 자율공격
+pcpop,23,UI\Game\pcpop\name.dds,30,124,28,28,0,0,0,0,아이콘 사용안함
+pcpop,24,UI\Game\pcpop\name.dds,30,153,28,28,0,0,0,0,아이콘 따라다니기
+pcpop,25,UI\Game\pcpop\name.dds,30,182,28,28,0,0,0,0,아이콘 정지
+pcpop,26,UI\Game\pcpop\name.dds,30,211,28,28,0,0,0,0,아이콘 소환해제
+pcpop,32,UI\Game\pcpop\name.dds,263,64,29,28,0,0,0,0,그레이트어택 소드비거
+pcpop,33,UI\Game\pcpop\name.dds,263,93,29,28,0,0,0,0,그레이트어택 메테오
+pcpop,34,UI\Game\pcpop\name.dds,263,122,29,28,0,0,0,0,그레이트어택 부메랑
+pcpop,35,UI\Game\pcpop\name.dds,263,151,29,28,0,0,0,0,그레이트어택 포스웨이브
+pcpop,36,UI\Game\pcpop\name.dds,67,240,13,13,0,0,0,0,수성상태 구슬 파랑
+pcpop,37,UI\Game\pcpop\name.dds,80,240,13,13,0,0,0,0,보라색구슬(데드프론트파티용)
+pcpop,38,UI\Game\pcpop\name.dds,93,240,13,13,0,0,0,0,주황색구슬(데드프론트파티용)
+pcpop,39,UI\Game\pcpop\name.dds,106,240,13,13,0,0,0,0,옥색구슬(데드프론트파티용)
+pcpop,40,UI\Game\pcpop\name.dds,119,240,13,13,0,0,0,0,파랑색구슬(데드프론트파티용)
+pcpop,41,UI\Game\pcpop\name.dds,293,76,152,24,0,0,0,0,TOT창(타겟오브타겟창)
+pcpop,100,UI\Game\pcpop\name_border.dds,0,0,20,20,4,4,4,4,normal
+pcpop,101,UI\Game\pcpop\name_border.dds,22,0,20,20,4,4,4,4,연두색
+pcpop,102,UI\Game\pcpop\name_border.dds,66,0,20,20,4,4,4,4,연보라
+pcpop,103,UI\Game\pcpop\name_border.dds,44,0,20,20,4,4,4,4,빨강
+pcpop,104,UI\Game\pcpop\name_border.dds,88,0,20,20,4,4,4,4,노랑
+pcpop,105,UI\Game\pcpop\name_border.dds,110,0,20,20,4,4,4,4,하늘색
+pcpop,106,UI\Game\pcpop\name_border.dds,132,0,20,20,4,4,4,4,보라색(데드프론트파티용)
+pcpop,107,UI\Game\pcpop\name_border.dds,154,0,20,20,4,4,4,4,주황색(데드프론트파티용)
+pcpop,108,UI\Game\pcpop\name_border.dds,176,0,20,20,4,4,4,4,옥색(데드프론트파티용)
+pcpop,109,UI\Game\pcpop\name_border.dds,198,0,20,20,4,4,4,4,파랑색(데드프론트파티용)
+pcpop,110,UI\Game\pcpop\name_border.dds,13,21,10,10,0,0,0,0,체크포인트
+pcpop,111,UI\Game\pcpop\name_border.dds,24,21,10,10,0,0,0,0,체크포인트비활성
+pcpop,112,UI\Game\pcpop\name_border.dds,35,21,10,10,0,0,0,0,보라파티체크
+pcpop,113,UI\Game\pcpop\name_border.dds,46,21,10,10,0,0,0,0,주황파티체크
+pcpop,114,UI\Game\pcpop\name_border.dds,57,21,10,10,0,0,0,0,옥색파티체크
+pcpop,115,UI\Game\pcpop\name_border.dds,68,21,10,10,0,0,0,0,파랑파티체크
+pcpop,121,UI\Game\pcpop\name_border.dds,80,21,20,20,4,4,4,4,원정대(보라색)
+pcpop,122,UI\Game\pcpop\name_border.dds,102,21,20,20,4,4,4,4,원정대(하늘색)
+pcpop,123,UI\Game\pcpop\name_border.dds,124,21,20,20,4,4,4,4,원정대(녹색)
+pcpop,124,UI\Game\pcpop\name.dds,293,102,32,32,0,0,0,0,알로켄 스킬충전 아이콘
+pcpop,125,UI\Game\pcpop\name.dds,325,102,131,32,0,0,0,0,알로켄 스킬충전바 (마우스이동영역사이즈 7x28)
+pcpop,126,UI\Game\pcpop\name.dds,466,102,2,16,0,0,0,0,알로켄 스킬충전바 기본컬러
+pcpop,127,UI\Game\pcpop\name.dds,457,102,7,32,0,0,0,0,알로켄 스킬충전바 (마우스이동영역사이즈 7x28)
+
+pcpop,27,UI\Game\pcpop\name.dds,67,240,13,13,0,0,0,0,수성상태 구슬 파랑
+pcpop,28,UI\Game\pcpop\name.dds,80,240,13,13,0,0,0,0,보라색구슬(데드프론트파티용)
+pcpop,29,UI\Game\pcpop\name.dds,93,240,13,13,0,0,0,0,주황색구슬(데드프론트파티용)
+pcpop,30,UI\Game\pcpop\name.dds,106,240,13,13,0,0,0,0,옥색구슬(데드프론트파티용)
+pcpop,31,UI\Game\pcpop\name.dds,119,240,13,13,0,0,0,0,파랑색구슬(데드프론트파티용)
+
+mail,1,UI\Game\mail\mail_list.dds,0,0,321,392,0,0,0,0,받은 편지 리스트 기본창
+mail,2,UI\Game\mail\mail_list.dds,0,393,42,42,0,0,0,0,대금청구아이콘
+mail,3,UI\Game\mail\mail_list.dds,43,393,42,42,0,0,0,0,메일아이콘
+mail,4,UI\Game\mail\mail_list.dds,86,393,42,42,0,0,0,0,메일+돈 아이콘
+mail,5,UI\Game\mail\mail_list.dds,129,393,42,42,0,0,0,0,선물 아이콘
+mail,6,UI\Game\mail\mail_list.dds,172,393,42,42,0,0,0,0,선물+돈 아이콘
+mail,7,UI\Game\mail\mail_list.dds,0,436,42,42,0,0,0,0,대금청구아이콘 비활성
+mail,8,UI\Game\mail\mail_list.dds,43,436,42,42,0,0,0,0,메일아이콘 비활성
+mail,9,UI\Game\mail\mail_list.dds,86,436,42,42,0,0,0,0,메일+돈 아이콘 비활성
+mail,10,UI\Game\mail\mail_list.dds,129,436,42,42,0,0,0,0,선물 아이콘 비활성
+mail,11,UI\Game\mail\mail_list.dds,172,436,42,42,0,0,0,0,선물+돈 아이콘 비활성
+mail,12,UI\Game\mail\mail_list.dds,215,393,295,53,0,0,0,0,선택테두리
+mail,21,UI\Game\mail\mail_get.dds,0,0,321,433,0,0,0,0,받은 편지 기본판
+mail,31,UI\Game\mail\mail_send.dds,0,0,321,433,0,0,0,0,보낼편지기본함
+
+letter,1,UI\Game\mail\newmail_send.dds,0,0,320,596,0,0,0,0,"우편함 기본창 테두리"
+letter,2,UI\Game\mail\newmail_send.dds,320,0,308,517,0,0,0,0,"편지 보내기"
+letter,3,UI\Game\mail\newmail_send.dds,628,0,308,517,0,0,0,0,"받은 편지함"
+letter,4,UI\Game\mail\newmail_send.dds,0,597,44,17,0,0,0,0,"DIL단위금액입력버튼_클릭전"
+letter,5,UI\Game\mail\newmail_send.dds,44,597,44,17,0,0,0,0,"DIL단위금액입력버튼_클릭후"
+
+letter,11,UI\Game\mail\newmail_send.dds,133,596,42,42,0,0,0,0,"메일아이콘(읽지 않은 일반 편지)"
+letter,13,UI\Game\mail\newmail_send.dds,219,596,42,42,0,0,0,0,"선물 아이콘(읽지 않은 물품/DIL 첨부편지)"
+letter,15,UI\Game\mail\newmail_send.dds,305,596,42,42,0,0,0,0,"메일아이콘(읽은 일반 편지)"
+letter,16,UI\Game\mail\newmail_send.dds,348,596,42,42,0,0,0,0,"선물 아이콘(읽은 물품/DIL 첨부편지)"
+
+letter,24,UI\Game\mail\newmail_send.dds,0,699,152,77,0,0,0,0,"친구목록 콤보박스"
+letter,27,UI\Game\mail\newmail_send.dds,321,520,308,43,0,0,0,0,"선택테두리"
+letter,29,UI\Game\mail\newmail_send.dds,321,564,156,17,0,0,0,0,"받는사람 아이디선택창(에디트박스)"
+
+login,1,UI\Game\login\login.dds,0,0,217,128,0,0,0,0, Login
+login,2,UI\Game\login\login.dds,0,128,147,211,0,0,0,0, Serverselect
+login,3,UI\Game\login\login.dds,217,0,289,349,0,0,0,0,비밀번호 변경 안내
+login,11,UI\Game\login\login_02.dds,0,0,252,175,0,0,0,0,로그인 기본판
+login,12,UI\Game\login\login_02.dds,252,0,252,175,0,0,0,0,서버선택 기본판
+
+inventory,1,UI\Game\Inven\inven_01.dds,0,172,333,337,0,0,0,0, BG S1 Main
+inventory,2,UI\Game\Inven\inven_02.dds,0,0,333,222,0,0,0,0, BG Inv Cells
+inventory,3,UI\Game\Inven\inven_02.dds,0,222,321,283,0,0,0,0, BG S2 Costume Slot
+inventory,4,UI\Game\Inven\inven_01.dds,334,0,16,45,0,0,0,0, Button
+inventory,5,UI\Game\Inven\inven_01.dds,350,0,16,45,0,0,0,0, Button
+inventory,6,UI\Game\Inven\inven_01.dds,334,45,16,45,0,0,0,0, Button
+inventory,7,UI\Game\Inven\inven_01.dds,350,45,16,45,0,0,0,0, Button
+inventory,8,UI\Game\Inven\inven_01.dds,334,90,16,45,0,0,0,0, Button
+inventory,9,UI\Game\Inven\inven_01.dds,350,90,16,45,0,0,0,0, Button
+inventory,10,UI\Game\Inven\inven_01.dds,334,135,16,45,0,0,0,0, Button
+inventory,11,UI\Game\Inven\inven_01.dds,350,135,16,45,0,0,0,0, Button
+
+Inven_03,1,UI\Game\Inven\inven_03.dds,0,0,321,253,0,0,0,0, S1 Main Swap
+Inven_03,2,UI\Game\Inven\inven_01.dds,365,300,95,127,0,0,0,0, Costume Swap
+Inven_03,12,UI\Game\Inven\inven_03.dds,331,0,23,23,0,0,0,0, Button Protected
+Inven_03,13,UI\Game\Inven\inven_03.dds,357,0,23,23,0,0,0,0, Button Protected
+Inven_03,14,UI\Game\Inven\inven_03.dds,383,0,23,23,0,0,0,0, Button Protected
+Inven_03,15,UI\Game\Inven\inven_03.dds,409,0,23,23,0,0,0,0, Button Protected
+Inven_03,16,UI\Game\Inven\inven_03.dds,331,26,23,23,0,0,0,0, Button Unprotected
+Inven_03,17,UI\Game\Inven\inven_03.dds,356,26,23,23,0,0,0,0, Button Unprotected
+Inven_03,18,UI\Game\Inven\inven_03.dds,381,26,23,23,0,0,0,0, Button Unprotected
+Inven_03,21,UI\Game\Inven\inven_03.dds,331,57,26,22,0,0,0,0, Button Change Equip
+Inven_03,22,UI\Game\Inven\inven_03.dds,358,57,26,22,0,0,0,0, Button Change Equip
+Inven_03,23,UI\Game\Inven\inven_03.dds,385,57,26,22,0,0,0,0, Button Change Equip
+
+Inven_swap_01,1,UI\Game\Inven\inven_01.dds,367,0,321,283,0,0,0,0, S1 Main No WepSlots
+Inven_swap_01,2,UI\Game\Inven\inven_swap_01.dds,0,0,321,283,0,0,0,0, S1 Main No Wepslots Swap
+
+cashinventory,0,UI\Game\Inven\cashinventory.dds,0,0,320,31,0,24,0,3,팝업창 상
+cashinventory,1,UI\Game\Inven\cashinventory.dds,0,33,320,66,0,0,0,0,팝업창 중
+cashinventory,2,UI\Game\Inven\cashinventory.dds,0,101,320,97,0,0,0,0,팝업창 하
+cashinventory,3,UI\Game\Inven\cashinventory.dds,0,200,55,55,0,0,0,0,보물상자 노말
+cashinventory,4,UI\Game\Inven\cashinventory.dds,55,200,55,55,0,0,0,0,보물상자 푸쉬
+cashinventory,5,UI\Game\Inven\cashinventory.dds,110,200,55,55,0,0,0,0,보물상자 셀렉트
+
+new_itemshop,1,UI\Game\itemshop\itemshop_01.dds,0,0,409,426,0,0,0,0,아이템샵왼쪽부분
+new_itemshop,2,UI\Game\itemshop\itemshop_01.dds,0,427,397,29,0,0,0,0,항목선택테두리
+new_itemshop,3,UI\Game\itemshop\itemshop_01.dds,0,457,33,33,0,0,0,0,아이템미리보기테두리
+
+new_itemshop,4,UI\Game\itemshop\itemshop_02.dds,0,0,423,426,0,0,0,0,패키지 아이템상세설명기본창
+
+new_itemshop,5,UI\Game\itemshop\itemshop_03.dds,0,0,313,419,0,0,0,0,충전방법설명창
+
+new_itemshop,6,UI\Game\itemshop\itemshop_04.dds,0,0,341,419,0,0,0,0,미리보기기본창
+new_itemshop,7,UI\Game\itemshop\itemshop_04.dds,0,420,116,81,0,0,0,0,동장선택테두리
+new_itemshop,8,UI\Game\itemshop\itemshop_04.dds,117,420,24,24,0,0,0,0,왼쪽돌리기기본
+new_itemshop,9,UI\Game\itemshop\itemshop_04.dds,141,420,24,24,0,0,0,0,왼쪽돌리기오버
+new_itemshop,10,UI\Game\itemshop\itemshop_04.dds,165,420,24,24,0,0,0,0,왼쪽돌리기클릭
+new_itemshop,11,UI\Game\itemshop\itemshop_04.dds,117,444,24,24,0,0,0,0,오른쪽돌리기기본
+new_itemshop,12,UI\Game\itemshop\itemshop_04.dds,141,444,24,24,0,0,0,0,오른쪽돌리기오버
+new_itemshop,13,UI\Game\itemshop\itemshop_04.dds,165,444,24,24,0,0,0,0,오른쪽돌리기클릭
+
+new_itemshop,14,UI\Game\itemshop\itemshop_05.dds,0,0,232,164,0,0,0,0,아이템구입창
+new_itemshop,15,UI\Game\itemshop\itemshop_05.dds,0,164,232,164,0,0,0,0,아이템구입확인확정창/아이템구입확인창
+new_itemshop,16,UI\Game\itemshop\itemshop_05.dds,232,0,232,211,0,0,0,0,아이템선물창
+new_itemshop,17,UI\Game\itemshop\itemshop_05.dds,232,211,232,211,0,0,0,0,아이템선물창확인확정창/아이템선물창확인
+
+new_itemshop,20,UI\Game\itemshop\itemshop_04.dds,126,471,17,18,0,0,0,0,-버튼 기본
+new_itemshop,21,UI\Game\itemshop\itemshop_04.dds,146,471,17,18,0,0,0,0,-버튼 마우스 오버
+new_itemshop,22,UI\Game\itemshop\itemshop_04.dds,166,471,17,18,0,0,0,0,-버튼 마우스 클릭
+new_itemshop,23,UI\Game\itemshop\itemshop_04.dds,186,471,17,18,0,0,0,0,-버튼 비활성화
+
+new_itemshop,25,UI\Game\itemshop\itemshop_04.dds,126,490,17,18,0,0,0,0,+버튼 기본
+new_itemshop,26,UI\Game\itemshop\itemshop_04.dds,146,490,17,18,0,0,0,0,+버튼 마우스 오버
+new_itemshop,27,UI\Game\itemshop\itemshop_04.dds,166,490,17,18,0,0,0,0,+버튼 마우스 클릭
+new_itemshop,28,UI\Game\itemshop\itemshop_04.dds,186,490,17,18,0,0,0,0,+버튼 비활성화
+
+new_itemshop,30,UI\Game\itemshop\itemshop_04.dds,195,423,22,22,0,0,0,0,돋보기 기본
+new_itemshop,31,UI\Game\itemshop\itemshop_04.dds,220,423,22,22,0,0,0,0,돋보기 마우스 오버
+
+new_itemshop,32,UI\Game\itemshop\itemshop_02.dds,0,426,269,15,0,0,0,0,패키지 아이템 회색바
+
+itemshop_01,1,UI\Game\itemshop\itemshop_01.dds,0,0,564,473,0,0,0,0,아이템샵기본창
+itemshop_01,2,UI\Game\itemshop\itemshop_01.dds,564,0,423,426,0,0,0,0,상세설명기본창
+itemshop_01,3,UI\Game\itemshop\itemshop_01.dds,564,426,66,66,0,0,0,0,아이콘기본테두리창
+itemshop_01,18,UI\Game\itemshop\itemshop_01.dds,0,474,37,19,0,0,0,0,New 아이콘
+_itemshop_01,19,UI\Game\itemshop\itemshop_01.dds,38,474,39,19,0,0,0,0,Best 아이콘
+itemshop_01,20,UI\Game\itemshop\itemshop_01.dds,3,498,477,2,0,0,0,0,중간 라인
+itemshop_01,21,UI\Game\itemshop\itemshop_01.dds,800,474,37,19,0,0,0,0,빈 데코레이션 아이콘
+itemshop_01,22,UI\Game\itemshop\itemshop_01.dds,631,427,30,30,10,10,10,10,공지창 기본 바탕
+
+itemshop_01,19,UI\Game\itemshop\itemshop_01.dds,78,474,40,19,0,0,0,0,SALE아이콘
+itemshop_01,24,UI\Game\itemshop\itemshop_01.dds,118,474,45,19,0,0,0,0,EVENT아이콘
+
+Itemshop_03,4,UI\Game\itemshop\itemshop_03.dds,334,15,94,90,0,0,0,0,아이콘오버테두리
+Itemshop_03,5,UI\Game\itemshop\itemshop_03.dds,0,0,313,419,0,0,0,0,충전방법설명창
+
+Itemshop_04,6,UI\Game\itemshop\itemshop_04.dds,0,0,341,419,0,0,0,0,미리보기기본창
+Itemshop_04,7,UI\Game\itemshop\itemshop_04.dds,0,420,116,81,0,0,0,0,동장선택테두리
+Itemshop_04,8,UI\Game\itemshop\itemshop_04.dds,117,420,24,24,0,0,0,0,왼쪽돌리기기본
+Itemshop_04,9,UI\Game\itemshop\itemshop_04.dds,141,420,24,24,0,0,0,0,왼쪽돌리기오버
+Itemshop_04,10,UI\Game\itemshop\itemshop_04.dds,165,420,24,24,0,0,0,0,왼쪽돌리기클릭
+Itemshop_04,11,UI\Game\itemshop\itemshop_04.dds,117,444,24,24,0,0,0,0,오른쪽돌리기기본
+Itemshop_04,12,UI\Game\itemshop\itemshop_04.dds,141,444,24,24,0,0,0,0,오른쪽돌리기오버
+Itemshop_04,13,UI\Game\itemshop\itemshop_04.dds,165,444,24,24,0,0,0,0,오른쪽돌리기클릭
+
+Itemshop_05,14,UI\Game\itemshop\itemshop_05.dds,0,0,232,164,0,0,0,0,아이템구입창
+Itemshop_05,15,UI\Game\itemshop\itemshop_05.dds,0,164,232,164,0,0,0,0,아이템구입확인확정창/아이템구입확인창
+Itemshop_05,16,UI\Game\itemshop\itemshop_05.dds,232,0,232,211,0,0,0,0,아이템선물창
+Itemshop_05,17,UI\Game\itemshop\itemshop_05.dds,232,211,232,211,0,0,0,0,아이템선물창확인확정창/아이템선물창확인
+
+Itemshop_06,36,UI\Game\itemshop\itemshop_06.dds,0,0,698,513,0,0,0,0,(new)아이템샵 ? 기본창
+Itemshop_06,37,UI\Game\itemshop\itemshop_06.dds,699,0,124,20,0,0,0,0,(new)아이템샵 - 메뉴 버튼
+Itemshop_06,38,UI\Game\itemshop\itemshop_06.dds,699,20,226,189,0,0,0,0,(new)아이템샵 ? 메인창 내용 박스
+dekashopicon_banner_01,1,UI\Game\theme01\dekashopicon_banner_01.dds,0,0,242,86,0,0,0,0,아이템샵 배너/소켓석제거
+dekashopicon_banner_01,2,UI\Game\theme01\dekashopicon_banner_01.dds,0,86,242,86,0,0,0,0,아이템샵 배너/마신의가루/요정의가루
+dekashopicon_banner_01,3,UI\Game\theme01\dekashopicon_banner_01.dds,0,172,242,86,0,0,0,0,아이템샵 배너/코스튬모험가복장
+dekashopicon_banner_01,4,UI\Game\theme01\dekashopicon_banner_01.dds,0,258,242,86,0,0,0,0,아이템샵 배너/창고지기의 꿈
+dekashopicon_banner_01,5,UI\Game\theme01\dekashopicon_banner_01.dds,0,344,242,86,0,0,0,0,아이템샵 배너/애완동물
+dekashopicon_banner_01,6,UI\Game\theme01\dekashopicon_banner_01.dds,242,0,242,86,0,0,0,0,아이템샵 배너/신규이동수단
+dekashopicon_banner_01,7,UI\Game\theme01\dekashopicon_banner_01.dds,242,86,242,86,0,0,0,0,아이템샵 배너/대용량 포션 탄생
+dekashopicon_banner_01,8,UI\Game\theme01\dekashopicon_banner_01.dds,242,172,242,86,0,0,0,0,아이템샵 배너/연금술사의 의지
+dekashopicon_banner_01,9,UI\Game\theme01\dekashopicon_banner_01.dds,242,258,242,86,0,0,0,0,아이템샵 배너/패키지 아이템샵
+dekashopicon_banner_01,10,UI\Game\theme01\dekashopicon_banner_02.dds,0,0,242,86,0,0,0,0,아이템샵 배너/거상의 좌판
+dekashopicon_banner_01,11,UI\Game\theme01\dekashopicon_banner_02.dds,242,0,242,86,0,0,0,0,아이템샵 배너/코스모스의 축복
+dekashopicon_banner_01,12,UI\Game\theme01\dekashopicon_banner_02.dds,0,86,242,86,0,0,0,0,아이템샵 배너/코스모스의 축복 정식출시
+dekashopicon_banner_01,13,UI\Game\theme01\dekashopicon_banner_02.dds,242,86,242,86,0,0,0,0,아이템샵 배너/인챈트보물상자
+dekashopicon_banner_01,14,UI\Game\theme01\dekashopicon_banner_02.dds,0,172,242,86,0,0,0,0,아이템샵 배너/Mix포션3종
+dekashopicon_banner_01,15,UI\Game\theme01\dekashopicon_banner_02.dds,242,172,242,86,0,0,0,0,인카르의 축복/100%능숙한 전투
+dekashopicon_banner_01,16,UI\Game\theme01\dekashopicon_banner_02.dds,0,258,242,86,0,0,0,0,아이템샵 배너/펫 할인 이벤트
+dekashopicon_banner_01,17,UI\Game\theme01\dekashopicon_banner_02.dds,242,258,242,86,0,0,0,0,아이템샵 배너/코스튬 대박 세일
+dekashopicon_banner_01,18,UI\Game\theme01\dekashopicon_banner_02.dds,0,344,242,86,0,0,0,0,아이템샵 배너/서약의 인장
+dekashopicon_banner_01,19,UI\Game\theme01\dekashopicon_banner_02.dds,242,344,242,86,0,0,0,0,아이템샵 배너/성령의 가루
+
+state,1,UI\Game\state\state_01.dds,0,0,283,415,0,0,0,0,능력치기본창
+state,2,UI\Game\state\state_02.dds,0,0,283,307,0,0,0,0,능력치조절기본판
+state,3,UI\Game\state\state_02.dds,0,308,120,8,0,0,0,0,생명력바기본판
+state,4,UI\Game\state\state_02.dds,142,309,1,6,0,0,0,0,생명력바
+state,5,UI\Game\state\state_02.dds,0,317,120,8,0,0,0,0,마법력바기본판
+state,6,UI\Game\state\state_02.dds,142,318,1,6,0,0,0,0,마법력바
+state,7,UI\Game\state\state_02.dds,0,326,120,8,0,0,0,0,쉴드바기본판
+state,8,UI\Game\state\state_02.dds,142,327,1,6,0,0,0,0,쉴드바
+
+pvp,1,UI\Game\pvp\pvp.dds,0,0,232,77,0,0,0,0,기본판
+pvp,2,UI\Game\pvp\pvp.dds,0,77,232,77,0,0,0,0,승자패자기본판
+pvp,3,UI\Game\pvp\pvp.dds,0,154,232,77,0,0,0,0,부활기본판
+
+siege,1,UI\Game\siege\war.dds,0,0,321,383,0,0,0,0,전쟁상황창
+siege,2,UI\Game\siege\war_02.dds,0,0,232,223,0,0,0,0,성문강화창
+siege,3,UI\Game\siege\war_02.dds,0,223,232,157,0,0,0,0,공성시간선포
+siege,4,UI\Game\siege\war_02.dds,232,0,232,157,0,0,0,0,성문강화확인
+siege,5,UI\Game\siege\war_02.dds,232,157,232,157,0,0,0,0,성문상태
+siege,6,UI\Game\siege\war_02.dds,0,380,207,60,0,0,0,0,메세지 큰창
+siege,7,UI\Game\siege\war_02.dds,0,440,113,31,0,0,0,0,메세지 작은창
+siege,8,UI\Game\siege\war_02.dds,0,472,195,8,0,0,0,0,빨강바 기본판
+siege,9,UI\Game\siege\war_02.dds,197,473,1,7,0,0,0,0,빨강바
+siege,10,UI\Game\siege\war_02.dds,0,481,195,8,0,0,0,0,보라바 기본판
+siege,11,UI\Game\siege\war_02.dds,197,482,1,7,0,0,0,0,보라바
+siege,12,UI\Game\siege\war_02.dds,0,493,12,12,0,0,0,0,수성마스터아이콘
+siege,13,UI\Game\siege\war_02.dds,13,493,12,12,0,0,0,0,수성원
+siege,14,UI\Game\siege\war_02.dds,26,493,12,12,0,0,0,0,공성원
+siege,20,UI\Game\siege\war_02.dds,114,440,164,31,0,0,0,0,메세지창 긴것
+
+siege,31,UI\Game\siege\war_01.dds,0,0,230,381,0,0,0,0,전쟁상황창
+siege,32,UI\Game\siege\war_01.dds,231,0,60,313,0,0,0,0,공성상황창-공성수성공용
+siege,33,UI\Game\siege\war_01.dds,0,382,125,39,0,0,0,0,공성상황창-수성용
+siege,34,UI\Game\siege\war_01.dds,142,388,32,38,0,0,0,0,엑스표
+siege,35,UI\Game\siege\war_01.dds,292,0,26,26,0,0,0,0,빨강테두리
+siege,36,UI\Game\siege\war_01.dds,318,0,26,26,0,0,0,0,파랑테두리
+siege,37,UI\Game\siege\war_01.dds,345,0,24,24,0,0,0,0,길드아이콘비활성상태
+siege,38,UI\Game\siege\war_01.dds,371,0,1,8,0,0,0,0,HP바 빨강
+
+notice,1,UI\notice.dds,0,0,353,173,0,0,0,0,GMAnnoucmentWindow
+notice,2,UI\notice.dds,0,174,352,133,0,0,0,0,PlayerAnnoucmentWindow
+
+exchange,1,UI\Game\exchange\exchange.dds,0,0,406,282,0,0,0,0,상품리스트창
+exchange,2,UI\Game\exchange\exchange.dds,0,282,232,157,0,0,0,0,교환확인창
+
+socket_remove,1,UI\Game\RemoveStone\RemoveStone.dds,0,0,456,293,0,0,0,0,소켓제거 기본판
+socket_remove,2,UI\Game\RemoveStone\RemoveStone.dds,11,304,273,128,0,0,0,0,아이템 장착 붉은판
+
+Integrate,1,UI\Game\Login\integrate.dds,0,0,379,536,0,0,0,0,캐릭터이전기본창
+Integrate,2,UI\Game\Login\integrate.dds,387,8,68,23,0,0,0,0,캐릭터이전 PASS
+Integrate,3,UI\Game\Login\integrate.dds,387,36,68,22,0,0,0,0,캐릭터이전 FAIL
+Integrate,4,UI\Game\Login\integrate.dds,0,537,298,243,0,0,0,0,캐릭터명변경창
+Integrate,5,UI\Game\ChangeCharName\integrate.dds,0,780,298,222,0,0,0,0,캐릭터명변경창-국내버전
+
+CashItemIcon,2001,UI\Game\theme01\dekashopicon.dds,64,192,64,64,0,0,0,0,영광의길드B
+CashItemIcon,2002,UI\Game\theme01\dekashopicon.dds,64,192,64,64,0,0,0,0,영광의길드B
+
+CashItemIcon,1,UI\Game\theme01\dekashopicon.dds,0,0,64,64,0,0,0,0,영광의 길드
+CashItemIcon,2,UI\Game\theme01\dekashopicon.dds,0,64,64,64,0,0,0,0,포탈주문서
+CashItemIcon,3,UI\Game\theme01\dekashopicon.dds,0,128,64,64,0,0,0,0,대장장이의 축복
+CashItemIcon,4,UI\Game\theme01\dekashopicon.dds,0,192,64,64,0,0,0,0,연금술사의 영혼
+CashItemIcon,5,UI\Game\theme01\dekashopicon.dds,0,256,64,64,0,0,0,0,재성장 시리즈
+CashItemIcon,6,UI\Game\theme01\dekashopicon.dds,0,320,64,64,0,0,0,0,마스터의 실수
+CashItemIcon,7,UI\Game\theme01\dekashopicon02.dds,128,0,64,64,0,0,0,0,말 스페셜
+CashItemIcon,8,UI\Game\theme01\dekashopicon.dds,0,448,64,64,0,0,0,0,능숙한 전투
+CashItemIcon,9,UI\Game\theme01\dekashopicon.dds,64,192,64,64,0,0,0,0,영광의길드B
+CashItemIcon,10,UI\Game\theme01\dekashopicon.dds,64,256,64,64,0,0,0,0,석공의숨결
+
+CashItemIcon,11,UI\Game\theme01\dekashopicon.dds,64,0,64,64,0,0,0,0,모험가의 가방
+CashItemIcon,12,UI\Game\theme01\dekashopicon.dds,64,64,64,64,0,0,0,0,마신의 가루
+CashItemIcon,13,UI\Game\theme01\dekashopicon.dds,64,128,64,64,0,0,0,0,요정의 가루
+CashItemIcon,14,UI\Game\theme01\dekashopicon02.dds,128,0,64,64,0,0,0,0,말 스페셜
+CashItemIcon,15,UI\Game\theme01\dekashopicon02.dds,0,320,64,64,0,0,0,0,말 스페셜
+
+CashItemIcon,21,UI\Game\theme01\dekashopicon.dds,128,0,64,64,0,0,0,0,슈퍼매직헬스포션
+CashItemIcon,22,UI\Game\theme01\dekashopicon.dds,128,64,64,64,0,0,0,0,슈퍼매직마나포션
+CashItemIcon,23,UI\Game\theme01\dekashopicon.dds,128,128,64,64,0,0,0,0,슈퍼노블헬스포션
+CashItemIcon,24,UI\Game\theme01\dekashopicon.dds,128,192,64,64,0,0,0,0,슈퍼노블마나포션
+CashItemIcon,25,UI\Game\theme01\dekashopicon.dds,128,256,64,64,0,0,0,0,슈퍼디바인헬스포션
+CashItemIcon,26,UI\Game\theme01\dekashopicon.dds,128,320,64,64,0,0,0,0,수퍼디바인마나포션
+
+CashItemIcon,31,UI\Game\theme01\dekashopicon.dds,192,0,64,64,0,0,0,0,매직헬스포션
+CashItemIcon,32,UI\Game\theme01\dekashopicon.dds,192,64,64,64,0,0,0,0,매직마나포션
+CashItemIcon,33,UI\Game\theme01\dekashopicon.dds,192,129,64,64,0,0,0,0,노블헬스포션
+CashItemIcon,34,UI\Game\theme01\dekashopicon.dds,192,192,64,64,0,0,0,0,노블마나포션
+CashItemIcon,35,UI\Game\theme01\dekashopicon.dds,192,256,64,64,0,0,0,0,디바인헬스포션
+CashItemIcon,36,UI\Game\theme01\dekashopicon.dds,192,320,64,64,0,0,0,0,디바인마나포션
+
+CashItemIcon,41,UI\Game\theme01\dekashopicon.dds,256,0,64,64,0,0,0,0,나이트 예복
+CashItemIcon,42,UI\Game\theme01\dekashopicon.dds,256,64,64,64,0,0,0,0,헌터예복
+CashItemIcon,43,UI\Game\theme01\dekashopicon.dds,256,128,64,64,0,0,0,0,메지션 예복
+CashItemIcon,44,UI\Game\theme01\dekashopicon.dds,256,192,64,64,0,0,0,0,서머너 예복
+CashItemIcon,45,UI\Game\theme01\dekashopicon.dds,256,256,64,64,0,0,0,0,세그날레 예복
+CashItemIcon,46,UI\Game\theme01\dekashopicon.dds,256,320,64,64,0,0,0,0,바기워리어 예복
+
+CashItemIcon,51,UI\Game\theme01\dekashopicon.dds,320,0,64,64,0,0,0,0,타이더 나이트 세트
+CashItemIcon,52,UI\Game\theme01\dekashopicon.dds,320,64,64,64,0,0,0,0,플로우 헌터 세트
+CashItemIcon,53,UI\Game\theme01\dekashopicon.dds,320,128,64,64,0,0,0,0,플룬비숍 메지션 세트
+CashItemIcon,54,UI\Game\theme01\dekashopicon.dds,320,192,64,64,0,0,0,0,아가시온 서머너 세트
+CashItemIcon,55,UI\Game\theme01\dekashopicon.dds,320,256,64,64,0,0,0,0,에키드나 세그날레 세트
+CashItemIcon,56,UI\Game\theme01\dekashopicon.dds,320,320,64,64,0,0,0,0,시투스 바기워리어 세트
+
+
+CashItemIcon,61,UI\Game\theme01\dekashopicon.dds,384,0,64,64,0,0,0,0,남성용 바이킹 모자
+CashItemIcon,62,UI\Game\theme01\dekashopicon.dds,384,64,64,64,0,0,0,0,여성용 바이킹 모자
+CashItemIcon,63,UI\Game\theme01\dekashopicon.dds,384,128,64,64,0,0,0,0,여성용 사냥꾼 모자
+CashItemIcon,64,UI\Game\theme01\dekashopicon.dds,384,192,64,64,0,0,0,0,남성용 사냥꾼 모자
+CashItemIcon,65,UI\Game\theme01\dekashopicon.dds,384,256,64,64,0,0,0,0,치우천왕 모자
+CashItemIcon,66,UI\Game\theme01\dekashopicon.dds,384,320,64,64,0,0,0,0,남성용 인디언 추장 모자
+CashItemIcon,67,UI\Game\theme01\dekashopicon.dds,384,384,64,64,0,0,0,0,여성용 인디언 추장 모자
+
+CashItemIcon,71,UI\Game\theme01\dekashopicon.dds,448,0,64,64,0,0,0,0,나이트 수영복
+CashItemIcon,72,UI\Game\theme01\dekashopicon.dds,448,64,64,64,0,0,0,0,헌터 수영복
+CashItemIcon,73,UI\Game\theme01\dekashopicon.dds,448,128,64,64,0,0,0,0,매지션 수영복
+CashItemIcon,74,UI\Game\theme01\dekashopicon.dds,448,192,64,64,0,0,0,0,서머너 수영복
+CashItemIcon,75,UI\Game\theme01\dekashopicon.dds,448,256,64,64,0,0,0,0,세그날레 수영복
+CashItemIcon,76,UI\Game\theme01\dekashopicon.dds,448,320,64,64,0,0,0,0,바기워리어 수영복
+
+CashItemIcon,81,UI\Game\theme01\dekashopicon.dds,256,384,64,64,0,0,0,0,블레이드 나이트 세트
+CashItemIcon,82,UI\Game\theme01\dekashopicon.dds,320,384,64,64,0,0,0,0,발키리 헌터 세트
+CashItemIcon,83,UI\Game\theme01\dekashopicon.dds,256,448,64,64,0,0,0,0,라스푸틴 메지션 세트
+CashItemIcon,84,UI\Game\theme01\dekashopicon.dds,320,448,64,64,0,0,0,0,디세이어 서머너 세트
+CashItemIcon,85,UI\Game\theme01\dekashopicon.dds,384,448,64,64,0,0,0,0,써큐버스 세그날레 세트
+CashItemIcon,86,UI\Game\theme01\dekashopicon.dds,448,448,64,64,0,0,0,0,프로즈칸 바기워리어 세트
+
+CashItemIcon,87,UI\Game\theme01\dekashopicon.dds,64,320,64,64,0,0,0,0,모험가 세그날레
+CashItemIcon,88,UI\Game\theme01\dekashopicon.dds,64,384,64,64,0,0,0,0,모험가 나이트
+CashItemIcon,89,UI\Game\theme01\dekashopicon.dds,128,384,64,64,0,0,0,0,모험가 헌트
+CashItemIcon,90,UI\Game\theme01\dekashopicon.dds,192,384,64,64,0,0,0,0,모험가 서머너
+CashItemIcon,91,UI\Game\theme01\dekashopicon.dds,128,448,64,64,0,0,0,0,모험가 매지션
+CashItemIcon,92,UI\Game\theme01\dekashopicon.dds,192,448,64,64,0,0,0,0,모험가 바기워리어
+
+Integrate,1,UI\Game\Login\integrate.dds,0,0,379,536,0,0,0,0,캐릭터이전기본창
+Integrate,2,UI\Game\Login\integrate.dds,387,8,68,23,0,0,0,0,캐릭터이전 PASS
+Integrate,3,UI\Game\Login\integrate.dds,387,36,68,22,0,0,0,0,캐릭터이전 FAIL
+Integrate,4,UI\Game\Login\integrate.dds,0,537,298,243,0,0,0,0,캐릭터명변경창
+Integrate,5,UI\Game\ChangeCharName\integrate.dds,0,780,298,222,0,0,0,0,캐릭터명변경창-국내버전
+
+
+CashItemIcon,93,UI\Game\theme01\dekashopicon.dds,448,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,94,UI\Game\theme01\dekashopicon02.dds,0,0,64,64,0,0,0,0,펫 알
+CashItemIcon,95,UI\Game\theme01\dekashopicon.dds,64,448,64,64,0,0,0,0,각성의 오카리나
+CashItemIcon,96,UI\Game\theme01\dekashopicon02.dds,64,0,64,64,0,0,0,0,이동수단 말2
+CashItemIcon,97,UI\Game\theme01\dekashopicon02.dds,128,0,64,64,0,0,0,0,이동수단 야수2
+CashItemIcon,98,UI\Game\theme01\dekashopicon02.dds,192,0,64,64,0,0,0,0,펫01
+CashItemIcon,99,UI\Game\theme01\dekashopicon02.dds,256,0,64,64,0,0,0,0,펫02
+CashItemIcon,100,UI\Game\theme01\dekashopicon02.dds,320,0,64,64,0,0,0,0,펫03
+CashItemIcon,101,UI\Game\theme01\dekashopicon02.dds,384,0,64,64,0,0,0,0,옵션제조 성공 확률 증가
+CashItemIcon,102,UI\Game\theme01\dekashopicon02.dds,0,64,64,64,0,0,0,0,헬스포션 2400
+CashItemIcon,103,UI\Game\theme01\dekashopicon02.dds,64,64,64,64,0,0,0,0,마나포션 2400
+CashItemIcon,104,UI\Game\theme01\dekashopicon02.dds,128,64,64,64,0,0,0,0,헬스포션 3200
+CashItemIcon,105,UI\Game\theme01\dekashopicon02.dds,192,64,64,64,0,0,0,0,마나포션 3200
+CashItemIcon,106,UI\Game\theme01\dekashopicon02.dds,0,128,64,64,0,0,0,0,슈퍼헬스포션 2400
+CashItemIcon,107,UI\Game\theme01\dekashopicon02.dds,64,128,64,64,0,0,0,0,슈퍼마나포션 2400
+CashItemIcon,108,UI\Game\theme01\dekashopicon02.dds,128,128,64,64,0,0,0,0,슈퍼헬스포션 3200
+CashItemIcon,109,UI\Game\theme01\dekashopicon02.dds,192,128,64,64,0,0,0,0,슈퍼마나포션 3200
+CashItemIcon,110,UI\Game\theme01\dekashopicon02.dds,448,0,64,64,0,0,0,0,각성의 오카리나 영구
+CashItemIcon,111,UI\Game\theme01\dekashopicon02.dds,256,64,64,64,0,0,0,0,펫05 호랑이새끼
+CashItemIcon,112,UI\Game\theme01\dekashopicon02.dds,320,64,64,64,0,0,0,0,펫04 드라큐라아가씨
+CashItemIcon,113,UI\Game\theme01\dekashopicon02.dds,256,128,64,64,0,0,0,0,캐릭터 이름 바꾸기
+CashItemIcon,114,UI\Game\theme01\dekashopicon02.dds,320,128,64,64,0,0,0,0,쿠폰
+CashItemIcon,115,UI\Game\theme01\dekashopicon02.dds,0,192,64,64,0,0,0,0,초급전사 실속 패키지
+CashItemIcon,116,UI\Game\theme01\dekashopicon02.dds,64,192,64,64,0,0,0,0,초급전사 노블 패키지
+CashItemIcon,117,UI\Game\theme01\dekashopicon02.dds,128,192,64,64,0,0,0,0,일반전사 실속 패키지
+CashItemIcon,118,UI\Game\theme01\dekashopicon02.dds,448,192,64,64,0,0,0,0,나이트 스타일리시 세트
+CashItemIcon,119,UI\Game\theme01\dekashopicon02.dds,448,128,64,64,0,0,0,0,헌터 스타일리시 세트
+CashItemIcon,120,UI\Game\theme01\dekashopicon02.dds,384,192,64,64,0,0,0,0,매지션 스타일리시 세트
+CashItemIcon,121,UI\Game\theme01\dekashopicon02.dds,192,192,64,64,0,0,0,0,세그날레 스타일리시 세트
+CashItemIcon,122,UI\Game\theme01\dekashopicon02.dds,256,192,64,64,0,0,0,0,서머너 스타일리시 세트
+CashItemIcon,123,UI\Game\theme01\dekashopicon02.dds,320,192,64,64,0,0,0,0,바기 스타일리시 세트
+CashItemIcon,124,UI\Game\theme01\dekashopicon02.dds,384,128,64,64,0,0,0,0,거상의 좌판
+
+CashItemIcon,125,UI\Game\theme01\dekashopicon02.dds,0,256,64,64,0,0,0,0,모험가 알로켄                               
+CashItemIcon,126,UI\Game\theme01\dekashopicon02.dds,64,256,64,64,0,0,0,0,알로켄 예복
+CashItemIcon,127,UI\Game\theme01\dekashopicon02.dds,128,256,64,64,0,0,0,0,알로켄 수영복
+CashItemIcon,128,UI\Game\theme01\dekashopicon02.dds,192,256,64,64,0,0,0,0,애쉰실러 알로켄 세트
+CashItemIcon,129,UI\Game\theme01\dekashopicon02.dds,256,256,64,64,0,0,0,0,로제 알로켄 세트
+
+CashItemIcon,130,UI\Game\theme01\dekashopicon02.dds,384,64,64,64,0,0,0,0,코스모스 축복 캐시 아이템
+CashItemIcon,131,UI\Game\theme01\dekashopicon02.dds,448,64,64,64,0,0,0,0,길드 마스터의 실수
+CashItemIcon,132,UI\Game\theme01\dekashopicon02.dds,320,256,64,64,0,0,0,0,할로윈 패키지 아이템 A
+CashItemIcon,133,UI\Game\theme01\dekashopicon02.dds,320,256,64,64,0,0,0,0,할로윈 패키지 아이템 A
+CashItemIcon,134,UI\Game\theme01\dekashopicon02.dds,448,256,64,64,0,0,0,0,할로윈 패키지 아이템 B
+CashItemIcon,135,UI\Game\theme01\dekashopicon02.dds,0,320,64,64,0,0,0,0,할로윈 패키지 아이템 C 
+CashItemIcon,136,UI\Game\theme01\dekashopicon02.dds,64,320,64,64,0,0,0,0,초급전패 패키지아이템 A
+CashItemIcon,137,UI\Game\theme01\dekashopicon02.dds,128,320,64,64,0,0,0,0,초급전패 패키지아이템 B
+CashItemIcon,138,UI\Game\theme01\dekashopicon02.dds,192,320,64,64,0,0,0,0,초급전패 패키지아이템 C
+CashItemIcon,139,UI\Game\theme01\dekashopicon02.dds,256,320,64,64,0,0,0,0,초급전패 패키지아이템 D
+CashItemIcon,140,UI\Game\theme01\dekashopicon02.dds,320,320,64,64,0,0,0,0,연금술사의 영혼 보물상자
+CashItemIcon,141,UI\Game\theme01\dekashopicon02.dds,384,320,64,64,0,0,0,0,석공의 숨결 보물상자
+CashItemIcon,142,UI\Game\theme01\dekashopicon02.dds,448,320,64,64,0,0,0,0,대장장이의 축복 보물상자
+CashItemIcon,143,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,연금술사의 의지 보물상자
+CashItemIcon,144,UI\Game\theme01\dekashopicon02.dds,64,384,64,64,0,0,0,0,연금술사의 영혼 3+1 패키지
+CashItemIcon,145,UI\Game\theme01\dekashopicon02.dds,128,384,64,64,0,0,0,0,석공의 숨결 3+1 패키지
+CashItemIcon,146,UI\Game\theme01\dekashopicon02.dds,192,384,64,64,0,0,0,0,대장장이의 축복 3+1 패키지
+CashItemIcon,147,UI\Game\theme01\dekashopicon02.dds,256,384,64,64,0,0,0,0,연금술사의 의지 3+1 패키지
+CashItemIcon,148,UI\Game\theme01\dekashopicon02.dds,448,384,64,64,0,0,0,0,피오레 믹스 포션 (Piore Mix Potion, HP > MP)
+CashItemIcon,149,UI\Game\theme01\dekashopicon02.dds,320,384,64,64,0,0,0,0,발리스 믹스 포션 (Valis Mix Potion, HP = MP)
+CashItemIcon,150,UI\Game\theme01\dekashopicon02.dds,384,384,64,64,0,0,0,0,몰리 믹스 포션 (Moly Mix Potion, HP < MP)
+CashItemIcon,151,UI\Game\theme01\dekashopicon02.dds,0,448,64,64,0,0,0,0,능숙한전투 70%
+CashItemIcon,152,UI\Game\theme01\dekashopicon02.dds,64,448,64,64,0,0,0,0,성령의 가루(방어, 공격력 업)
+CashItemIcon,153,UI\Game\theme01\dekashopicon02.dds,128,448,64,64,0,0,0,0,캐릭터 이전(상아 도장)
+CashItemIcon,178,UI\Game\theme01\dekashopicon03.dds,128,128,64,64,0,0,0,0,2009수영복 알로켄,,
+CashItemIcon,186,UI\Game\theme01\dekashopicon03.dds,128,192,64,64,0,0,0,0,캐쉬 HP 3600
+CashItemIcon,187,UI\Game\theme01\dekashopicon03.dds,192,192,64,64,0,0,0,0,캐쉬 HP 3600 슈퍼
+CashItemIcon,188,UI\Game\theme01\dekashopicon03.dds,256,192,64,64,0,0,0,0,캐쉬 HP 4200
+CashItemIcon,189,UI\Game\theme01\dekashopicon03.dds,320,192,64,64,0,0,0,0,캐쉬 HP 4200 슈퍼
+CashItemIcon,192,UI\Game\theme01\dekashopicon03.dds,384,192,64,64,0,0,0,0,교복 알로켄,,
+CashItemIcon,201,UI\Game\theme01\dekashopicon03.dds,0,320,64,64,0,0,0,0,마이티 마나포션
+CashItemIcon,202,UI\Game\theme01\dekashopicon03.dds,64,320,64,64,0,0,0,0,슈퍼 마이티 마나포션
+CashItemIcon,203,UI\Game\theme01\dekashopicon03.dds,128,320,64,64,0,0,0,0,블레시드 마나포션
+CashItemIcon,204,UI\Game\theme01\dekashopicon03.dds,192,320,64,64,0,0,0,0,슈퍼 블레시드 마나포션
+CashItemIcon,205,UI\Game\theme01\dekashopicon03.dds,448,256,64,64,0,0,0,0,불량교복 알로,,
+CashItemIcon,154,UI\Game\theme01\dekashopicon02.dds,192,448,64,64,0,0,0,0,능숙한전투 100%
+CashItemIcon,400,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,418,UI\Game\theme01\dekashopicon.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,419,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,420,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,421,UI\Game\theme01\dekashopicon03.dds,448,128,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,422,UI\Game\theme01\dekashopicon03.dds,192,128,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,423,UI\Game\theme01\dekashopicon03.dds,320,128,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,424,UI\Game\theme01\dekashopicon03.dds,384,128,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,425,UI\Game\theme01\dekashopicon03.dds,256,128,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,426,UI\Game\theme01\dekashopicon03.dds,0,192,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,427,UI\Game\theme01\dekashopicon03.dds,192,256,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,428,UI\Game\theme01\dekashopicon03.dds,448,192,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,429,UI\Game\theme01\dekashopicon03.dds,64,256,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,430,UI\Game\theme01\dekashopicon03.dds,128,256,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,431,UI\Game\theme01\dekashopicon03.dds,0,256,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,432,UI\Game\theme01\dekashopicon03.dds,256,256,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,435,UI\Game\theme01\dekashopicon03.dds,256,64,64,64,0,0,0,0,Christmas Packages
+CashItemIcon,433,UI\Game\theme01\dekashopicon03.dds,256,64,64,64,0,0,0,0,Transup Costumes
+CashItemIcon,434,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Soul Costumes
+CashItemIcon,436,UI\Game\theme01\dekashopicon03.dds,384,384,64,64,0,0,0,0,Knight Wild Uniform
+CashItemIcon,437,UI\Game\theme01\dekashopicon03.dds,256,320,64,64,0,0,0,0,Hunter Wild Uniform
+CashItemIcon,438,UI\Game\theme01\dekashopicon03.dds,384,320,64,64,0,0,0,0,Mage Wild Uniform
+CashItemIcon,439,UI\Game\theme01\dekashopicon03.dds,448,320,64,64,0,0,0,0,Summoner Wild Uniform
+CashItemIcon,440,UI\Game\theme01\dekashopicon03.dds,320,320,64,64,0,0,0,0,Segnale Wild Uniform
+CashItemIcon,441,UI\Game\theme01\dekashopicon03.dds,448,384,64,64,0,0,0,0,Bagi Wild Uniform
+CashItemIcon,442,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Friends Package
+CashItemIcon,443,UI\Game\theme01\dekashopicon03.dds,0,448,64,64,0,0,0,0,Male Bunny Ears Uniform
+CashItemIcon,444,UI\Game\theme01\dekashopicon03.dds,320,384,64,64,0,0,0,0,Female Bunny Ears
+CashItemIcon,445,UI\Game\theme01\dekashopicon03.dds,192,384,64,64,0,0,0,0,Mounts
+CashItemIcon,446,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Christmas Packs 1
+CashItemIcon,447,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Christmas Packs 2
+CashItemIcon,448,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Christmas Packs 3
+CashItemIcon,449,UI\Game\theme01\dekashopicon03.dds,192,384,64,64,0,0,0,0,Mounts
+CashItemIcon,452,UI\Game\theme01\dekashopicon03.dds,192,384,64,64,0,0,0,0,Mounts
+CashItemIcon,500,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,501,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,502,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,503,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,504,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,505,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,506,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,507,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,508,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,509,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,510,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,511,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,512,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,513,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,514,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,515,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,516,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,517,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,518,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,519,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,520,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,521,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,522,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,523,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,524,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,525,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,526,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,527,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,528,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,529,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,530,UI\Game\theme01\dekashopicon02.dds,0,384,64,64,0,0,0,0,창고지기의 꿈
+CashItemIcon,531,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,MaleHunter's Preparation Pack
+CashItemIcon,532,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,FemaleHunter's Preparation Pack
+CashItemIcon,533,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,Turkey Day Feast
+CashItemIcon,534,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,Liquid Courage
+CashItemIcon,600,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,Liquid Courage
+CashItemIcon,601,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,Liquid Courage
+CashItemIcon,602,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,Liquid Courage
+CashItemIcon,603,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,Liquid Courage
+CashItemIcon,604,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,Liquid Courage
+CashItemIcon,605,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,Liquid Courage
+CashItemIcon,606,UI\Game\theme01\dekashopicon03.dds,64,192,64,64,0,0,0,0,Liquid Courage
+CashItemIcon,1001,UI\Game\theme01\dekashopicon03.dds,256,64,64,64,0,0,0,0,Transup Costumes
+CashItemIcon,3001,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Light Weapon
+CashItemIcon,3002,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Light Weapon
+CashItemIcon,3003,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Light Weapon
+CashItemIcon,3004,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Light Weapon
+CashItemIcon,3005,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Light Weapon
+CashItemIcon,3006,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Light Weapon
+CashItemIcon,3007,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Light Weapon
+CashItemIcon,3008,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Light Weapon
+CashItemIcon,3009,UI\Game\theme01\dekashopicon03.dds,384,256,64,64,0,0,0,0,Light Weapon
+Permanent,0,UI\Game\theme01\Permanent.dds,0,0,0,0,0,0,0,0, 깜박임용
+Permanent,356,UI\Game\theme01\Permanent.dds,0,0,28,28,0,0,0,0, 성령의 가루
+pet,1,UI\Game\Pet\pet_basic.dds,0,0,333,397,0,0,0,0,기본 테두리
+pet,2,UI\Game\Pet\pet_info.dds,0,0,321,318,0,0,0,0,기본정보창 기본판
+pet,3,UI\Game\Pet\pet_set_01.dds,0,0,321,318,0,0,0,0,설정1창 기본창
+pet,6,UI\Game\Pet\pet_info.dds,0,319,86,86,0,0,0,0,펫이미지-너구리
+pet,7,UI\Game\Pet\pet_info.dds,87,319,86,86,0,0,0,0,펫이미지-요정
+pet,8,UI\Game\Pet\pet_info.dds,174,319,86,86,0,0,0,0,펫이미지-수달
+pet,9,UI\Game\Pet\pet_set_01.dds,0,321,274,173,0,0,0,0,이름설정창
+pet,10,UI\Game\Pet\pet_info.dds,348,319,86,86,0,0,0,0,펫이미지-호랭
+pet,11,UI\Game\Pet\pet_info.dds,261,319,86,86,0,0,0,0,펫이미지-요정2
+pet,12,UI\Game\Pet\pet_info.dds,0,406,86,86,0,0,0,0,펫이미지-네트 
+pet,13,UI\Game\Pet\pet_info.dds,87,406,86,86,0,0,0,0,펫이미지-마시마로
+pet,14,UI\Game\Pet\pet_info.dds,174,406,86,86,0,0,0,0,펫이미지-부갈루 
+pet,15,UI\Game\Pet\pet_info.dds,261,406,86,86,0,0,0,0,펫이미지-백호
+pet,16,UI\Game\Pet\pet_info.dds,348,406,86,86,0,0,0,0,펫이미지-눈사람
+
+notify,1,UI\Game\theme01\notify.dds,0,0,386,259,0,0,0,0,레벨업 알림 기본창
+
+TroopFooting,1,UI\Game\Troop\TroopFooting_01.dds,0,0,230,490,0,0,0,0,편성창왼쪽네모
+TroopFooting,2,UI\Game\Troop\TroopFooting_01.dds,230,0,258,512,0,0,0,0,편성창오른쪽네모
+
+TroopFooting,3,UI\Game\Troop\TroopFooting_02.dds,0,0,258,115,0,0,0,0,오른쪽편성창 나머지부분 녹색라인
+TroopFooting,4,UI\Game\Troop\TroopFooting_02.dds,258,0,55,88,0,0,0,0,네모팝업창작은것
+TroopFooting,5,UI\Game\Troop\TroopFooting_02.dds,318,0,85,88,0,0,0,0,네모팝업창큰것
+TroopFooting,6,UI\Game\Troop\TroopFooting_02.dds,261,92,30,14,0,0,0,0,오른쪽방향버튼 위
+TroopFooting,7,UI\Game\Troop\TroopFooting_02.dds,261,113,30,14,0,0,0,0,오른쪽방향버튼 아래
+TroopFooting,8,UI\Game\Troop\TroopFooting_02.dds,297,93,30,14,0,0,0,0,왼쪽방향버튼 위
+TroopFooting,9,UI\Game\Troop\TroopFooting_02.dds,297,113,30,14,0,0,0,0,왼쪽방향버튼 아래
+TroopFooting,10,UI\Game\Troop\TroopFooting_02.dds,331,93,36,19,0,0,0,0,작은버튼
+
+TroopFooting,20,UI\Game\Troop\TroopFooting_02.dds,370,93,20,20,0,0,0,0,캐릭터명테두리(보라색)
+TroopFooting,21,UI\Game\Troop\TroopFooting_02.dds,392,93,20,20,0,0,0,0,캐릭터명테두리(하늘색)
+TroopFooting,22,UI\Game\Troop\TroopFooting_02.dds,414,93,20,20,0,0,0,0,캐릭터명테두리(녹색)
+
+TroopFooting,30,UI\Game\Troop\TroopFooting_02.dds,337,117,8,8,0,0,0,0,미니맵전투단아이콘(보라색)
+TroopFooting,31,UI\Game\Troop\TroopFooting_02.dds,350,117,8,8,0,0,0,0,미니맵전투단아이콘(하늘색)
+TroopFooting,32,UI\Game\Troop\TroopFooting_02.dds,362,117,8,8,0,0,0,0,미니맵전투단아이콘(녹색)
+
+Combatplan_02,10,UI\Game\Troop\TroopFooting_02.dds,331,93,36,19,0,0,0,0,작은버튼
+Combatplan_02,11,UI\Game\Troop\TroopFooting_02.dds,406,2,103,26,0,0,0,0,노락색라인위에 사망창 잘안보임
+Combatplan_02,12,UI\Game\Troop\TroopFooting_02.dds,406,31,101,24,0,0,0,0,노락색네모난 라인
+Combatplan_02,13,UI\Game\Troop\TroopFooting_02.dds,406,58,103,26,0,0,0,0,흰색네모난라인
+Combatplan_02,14,UI\Game\Troop\TroopFooting_02.dds,0,119,124,28,0,0,0,0,왼쪽편성창 아래 네모
+Combatplan_02,15,UI\Game\Troop\TroopFooting_02.dds,126,119,124,30,0,0,0,0,오른쪽편성창 아래 중간
+Combatplan_02,16,UI\Game\Troop\TroopFooting_02.dds,126,153,124,14,0,0,0,0,오른쪽편성창 아래 밑
+
+Combatplan_02,30,UI\Game\Troop\TroopFooting_02.dds,406,58,103,26,0,0,0,0,보라색네모난라인(1원정대)
+Combatplan_02,31,UI\Game\Troop\TroopFooting_02.dds,406,87,103,26,0,0,0,0,파란색네모난라인(2원정대)
+Combatplan_02,32,UI\Game\Troop\TroopFooting_02.dds,406,117,103,26,0,0,0,0,녹색색네모난라인(3원정대)
+
+optionupgrade,1,UI\Game\optionupgrade\optionupgrade.dds,0,0,264,401,0,0,0,0,옵션제작 기본판
+optionupgrade,2,UI\Game\optionupgrade\optionupgrade.dds,0,408,57,25,0,0,0,0,확률X2
+optionupgrade,3,UI\Game\optionupgrade\optionupgrade.dds,275,10,48,72,0,0,0,0,제조버튼마우스오버
+optionupgrade,4,UI\Game\optionupgrade\optionupgrade.dds,275,98,48,72,0,0,0,0,제조버튼디세이블
+optionupgrade,5,UI\Game\optionupgrade\optionupgrade.dds,348,0,75,127,0,0,0,0,아이템 장착 이펙트 
+optionupgrade,6,UI\Game\optionupgrade\optionupgrade.dds,443,0,50,78,0,0,0,0,옵션석 장착 이펙트
+optionupgrade,7,UI\Game\optionupgrade\optionupgrade.dds,443,82,51,45,0,0,0,0,캐쉬석 장착 이펙트
+
+Partypvp,1,UI\Game\partypvp\partypvp_01.dds,0,0,321,348,0,0,0,0,파티결투신청설정창
+Partypvp,2,UI\Game\partypvp\partypvp_01.dds,322,2,18,18,0,0,0,0,빨간색준비바
+Partypvp,3,UI\Game\partypvp\partypvp_01.dds,322,2,18,18,0,0,0,0,파란색준비바
+Partypvp,4,UI\Game\partypvp\partypvp_01.dds,322,52,97,90,0,0,0,0,시간설정팝업창
+Partypvp,5,UI\Game\partypvp\partypvp_01.dds,0,348,239,58,0,0,0,0,파티결투작은결과창
+Partypvp,6,UI\Game\partypvp\partypvp_02.dds,0,0,321,203,0,0,0,0,파티결투신청창(캐릭터네임)
+Partypvp,7,UI\Game\partypvp\partypvp_02.dds,0,205,331,272,0,0,0,0,파티결투큰결과창
+Partypvp,8,UI\Game\partypvp\partypvp_01.dds,364,3,31,15,0,0,0,0,연결끊김표시
+Partypvp,9,UI\Game\partypvp\partypvp_01.dds,0,348,239,31,0,0,0,0,옵저버파티결투작은결과창
+
+PartypvpImg,1,UI\Game\partypvp\partypvp_03.dds,0,0,273,155,0,0,0,0,운도스타디움이미지
+PartypvpImg,2,UI\Game\partypvp\partypvp_03.dds,0,175,273,155,0,0,0,0,사막맵이미지
+PartypvpImg,3,UI\Game\partypvp\partypvp_03.dds,0,314,273,155,0,0,0,0,감옥맵이미지
+PartypvpImg,4,UI\Game\partypvp\partypvp_04.dds,0,0,273,155,0,0,0,0,용암맵이미지
+
+RandomBox,1,UI\Game\theme01\itemchoice_01.dds,0,0,220,275,0,0,0,0,랜덤박스 아이템 선택창
+
+StorePurchase,1,UI\Game\store\store_purchase.dds,0,0,717,487,0,0,0,0,검색창바탕패널
+StorePurchase,2,UI\Game\store\store_purchase.dds,0,487,423,2,0,0,0,0,가로구분선
+StorePurchase,3,UI\Game\store\store_purchase.dds,0,489,2,16,0,0,0,0,세로구분선
+StorePurchase,4,UI\Game\store\store_purchase.dds,718,0,22,15,0,0,0,0,돋보기아이콘비활성화
+StorePurchase,5,UI\Game\store\store_purchase.dds,740,0,22,15,0,0,0,0,돋보기아이콘
+StorePurchase,6,UI\Game\store\store_purchase.dds,762,0,22,15,0,0,0,0,돋보기아이콘누름
+StorePurchase,7,UI\Game\store\store_purchase.dds,718,15,22,15,0,0,0,0,구매아이콘비활성화
+StorePurchase,8,UI\Game\store\store_purchase.dds,740,15,22,15,0,0,0,0,구매아이콘
+StorePurchase,9,UI\Game\store\store_purchase.dds,762,15,22,15,0,0,0,0,구매아이콘누름
+StorePurchase,10,UI\Game\store\store_purchase.dds,244,47,1,1,0,0,0,0,게시판목록 배경색
+StorePurchase,11,UI\Game\store\store_purchase.dds,480,475,1,1,0,0,0,0,글목록 배경색
+StorePurchase,20,UI\Game\store\store_purchase.dds,0,508,348,222,0,0,0,0,구매창바탕패널
+
+Spell_B,100,UI\Game\skill\spell.dds,0,0,28,28,0,0,0,0,인크리즈 레인지
+Spell_B,101,UI\Game\skill\spell.dds,0,28,28,28,0,0,0,0,마나 쇼크
+Spell_B,102,UI\Game\skill\spell.dds,0,56,28,28,0,0,0,0,블로우 어택
+Spell_B,103,UI\Game\skill\spell.dds,0,84,28,28,0,0,0,0,리플렉션 데미지
+Spell_B,104,UI\Game\skill\spell.dds,0,112,28,28,0,0,0,0,디크리즈 데미지
+Spell_B,105,UI\Game\skill\spell.dds,0,140,28,28,0,0,0,0,아머스매시
+Spell_B,106,UI\Game\skill\spell.dds,0,196,28,28,0,0,0,0,리벨리온스 스워드
+Spell_B,107,UI\Game\skill\spell.dds,51,0,28,28,0,0,0,0,아쿠아 리무브
+Spell_B,108,UI\Game\skill\spell.dds,0,168,28,28,0,0,0,0,레지스트 디클라인
+Spell_B,109,UI\Game\skill\spell.dds,0,224,28,28,0,0,0,0,블레스 오브 큔
+                                  
+Spell_S,100,UI\Game\skill\spell.dds,28,0,23,23,0,0,0,0,인크리즈 레인지(파티창 표시)
+Spell_S,101,UI\Game\skill\spell.dds,28,23,23,23,0,0,0,0,마나 쇼크(파티창 표시)
+Spell_S,102,UI\Game\skill\spell.dds,28,46,23,23,0,0,0,0,블로우 어택(파티창 표시)
+Spell_S,103,UI\Game\skill\spell.dds,28,69,23,23,0,0,0,0,리플렉션 데미지(파티창 표시)
+Spell_S,104,UI\Game\skill\spell.dds,28,92,23,23,0,0,0,0,디크리즈 데미지(파티창 표시)
+Spell_S,105,UI\Game\skill\spell.dds,28,115,23,23,0,0,0,0,아머스매시(파티창 표시)
+Spell_S,106,UI\Game\skill\spell.dds,28,161,23,23,0,0,0,0,리벨리온스 스워드(파티창 표시)
+Spell_S,107,UI\Game\skill\spell.dds,79,0,23,23,0,0,0,0,아쿠아 리무브(파티창 표시)
+Spell_S,108,UI\Game\skill\spell.dds,28,138,23,23,0,0,0,0,레지스트 디클라인(파티창 표시)
+Spell_S,109,UI\Game\skill\spell.dds,28,184,23,23,0,0,0,0,블레스 오브 큔(파티창 표시)
+
+
+TrainingCamp,1,UI\Game\TrainingCamp\trainingcamp_waiting.DDS,0,0,435,341,0,0,0,0,훈련소 대기정보창
+
+TrainingCamp,11,UI\Game\TrainingCamp\trainingcamp_choice.DDS,0,346,26,26,0,0,0,0,새로고침-비활성
+TrainingCamp,12,UI\Game\TrainingCamp\trainingcamp_choice.DDS,26,346,26,26,0,0,0,0,새로고침-클릭전(마우스커서 선택전)
+TrainingCamp,13,UI\Game\TrainingCamp\trainingcamp_choice.DDS,52,346,26,26,0,0,0,0,새로고침-클릭후(평소때)
+TrainingCamp,14,UI\Game\TrainingCamp\trainingcamp_choice.DDS,0,0,435,341,0,0,0,0,훈련소 선택창
+TrainingCamp,15,UI\Game\TrainingCamp\trainingcamp_choice.DDS,462,0,22,15,0,0,0,0,전장선택 대기중 아이콘
+TrainingCamp,16,UI\Game\TrainingCamp\trainingcamp_choice.DDS,462,15,22,15,0,0,0,0,전장선택 전투중 아이콘
+
+TrainingCamp,21,UI\Game\TrainingCamp\trainingcamp_info.DDS,0,0,747,499,0,0,0,0,훈련소 전투 정보창
+TrainingCamp,22,UI\Game\TrainingCamp\trainingcamp_info.DDS,0,500,721,2,0,0,0,0,가로 구분선
+TrainingCamp,23,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,0,22,15,0,0,0,0,네잎클로버 아이콘(비활성화)
+TrainingCamp,24,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,15,22,15,0,0,0,0,기사 아이콘(비활성화)
+TrainingCamp,25,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,30,22,15,0,0,0,0,궁수 아이콘(비활성화)
+TrainingCamp,26,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,45,22,15,0,0,0,0,법사 아이콘(비활성화)
+TrainingCamp,27,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,60,22,15,0,0,0,0,소환사 아이콘(비활성화)
+TrainingCamp,28,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,75,22,15,0,0,0,0,힐러 아이콘(비활성화)
+TrainingCamp,29,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,90,22,15,0,0,0,0,바기 아이콘(비활성화)
+TrainingCamp,30,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,105,22,15,0,0,0,0,알로켄 아이콘(비활성화)
+
+TrainingCamp,31,UI\Game\TrainingCamp\trainingcamp_info.DDS,770,0,22,15,0,0,0,0,네잎클로버 아이콘
+TrainingCamp,32,UI\Game\TrainingCamp\trainingcamp_info.DDS,770,15,22,15,0,0,0,0,기사 아이콘
+TrainingCamp,33,UI\Game\TrainingCamp\trainingcamp_info.DDS,770,30,22,15,0,0,0,0,궁수 아이콘
+TrainingCamp,34,UI\Game\TrainingCamp\trainingcamp_info.DDS,770,45,22,15,0,0,0,0,법사 아이콘
+TrainingCamp,35,UI\Game\TrainingCamp\trainingcamp_info.DDS,770,60,22,15,0,0,0,0,소환사 아이콘
+TrainingCamp,36,UI\Game\TrainingCamp\trainingcamp_info.DDS,770,75,22,15,0,0,0,0,힐러 아이콘
+TrainingCamp,37,UI\Game\TrainingCamp\trainingcamp_info.DDS,770,90,22,15,0,0,0,0,바기 아이콘
+TrainingCamp,38,UI\Game\TrainingCamp\trainingcamp_info.DDS,770,105,22,15,0,0,0,0,알로켄 아이콘
+TrainingCamp,39,UI\Game\TrainingCamp\trainingcamp_info.DDS,0,503,466,10,0,0,0,0,게이지바-파란색
+TrainingCamp,40,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,142,47,44,0,0,0,0,게이지바- 칼아이콘
+TrainingCamp,41,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,121,33,20,0,0,0,0,MVP 
+TrainingCamp,42,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,187,74,23,0,0,0,0,WIN 
+TrainingCamp,43,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,211,74,23,0,0,0,0,LOSE
+TrainingCamp,44,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,235,105,29,0,0,0,0,Miseria(미세리아)
+TrainingCamp,45,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,265,105,29,0,0,0,0,Ricchez(리케츠)
+
+TrainingCamp,46,UI\Game\TrainingCamp\trainingcamp_info.DDS,793,0,66,66,0,0,0,0,전장그래프(테두리)
+TrainingCamp,47,UI\Game\TrainingCamp\trainingcamp_info.DDS,859,0,65,65,0,0,0,0,전장그래프(전체)
+TrainingCamp,48,UI\Game\TrainingCamp\trainingcamp_info.DDS,859,0,33,66,0,0,0,0,전장그래프(파랑색)
+TrainingCamp,49,UI\Game\TrainingCamp\trainingcamp_info.DDS,892,0,33,66,0,0,0,0,전장그래프(빨강색)
+TrainingCamp,50,UI\Game\TrainingCamp\trainingcamp_info.DDS,925,0,37,4,0,0,0,0,중앙 바
+TrainingCamp,51,UI\Game\TrainingCamp\trainingcamp_info.DDS,748,296,74,23,0,0,0,0,DRAW
+TrainingCamp,52,UI\Game\TrainingCamp\trainingcamp_waiting.DDS,0,342,26,26,0,0,0,0,대기표 아이콘(어둠)
+TrainingCamp,53,UI\Game\TrainingCamp\trainingcamp_waiting.DDS,26,342,26,26,0,0,0,0,대기표 아이콘(밝음)
+TrainingCamp,54,UI\Game\TrainingCamp\trainingcamp_waiting.DDS,52,342,26,26,0,0,0,0,대기표 아이콘(클릭)
+TrainingCamp,55,UI\Game\TrainingCamp\trainingcamp_info.DDS,793,67,30,30,0,0,0,0,점수 한계치(전)
+TrainingCamp,56,UI\Game\TrainingCamp\trainingcamp_info.DDS,793,97,30,30,0,0,0,0,점수 한계치(후)
+
+
+TrainingCamp,61,UI\Game\TrainingCamp\trainingcamp_mission.dds,0,0,379,580,0,0,0,0,미션정보창
+TrainingCamp,62,UI\Game\TrainingCamp\trainingcamp_info.dds,749,324,83,42,0,0,0,0,아군 교감 시간 표시
+TrainingCamp,63,UI\Game\TrainingCamp\trainingcamp_info.dds,749,367,83,42,0,0,0,0,적군 교감 시간 표시
+TrainingCamp,64,UI\Game\TrainingCamp\trainingcamp_info.DDS,793,67,30,30,0,0,0,0,점수 한계치 1단계
+TrainingCamp,65,UI\Game\TrainingCamp\trainingcamp_info.DDS,823,97,30,30,0,0,0,0,점수 한계치 2단계
+TrainingCamp,66,UI\Game\TrainingCamp\trainingcamp_info.DDS,853,97,30,30,0,0,0,0,점수 한계치 3단계
+TrainingCamp,67,UI\Game\TrainingCamp\trainingcamp_info.DDS,883,97,30,30,0,0,0,0,점수 한계치 4단계
+TrainingCamp,68,UI\Game\TrainingCamp\trainingcamp_info.DDS,793,97,30,30,0,0,0,0,점수 한계치 5단계
+TrainingCamp,69,UI\Game\TrainingCamp\trainingcamp_info.DDS,913,97,30,30,0,0,0,0,점수 한계치 6단계
+TrainingCamp,70,UI\Game\TrainingCamp\trainingcamp_info.DDS,943,97,30,30,0,0,0,0,점수 한계치 7단계
+
+ImageNumber_01,0,UI\Game\Number\imagenumber.dds,0,224,19,21,0,0,0,0,시간숫자0
+ImageNumber_01,1,UI\Game\Number\imagenumber.dds,20,224,19,21,0,0,0,0,시간숫자1
+ImageNumber_01,2,UI\Game\Number\imagenumber.dds,40,224,19,21,0,0,0,0,시간숫자2
+ImageNumber_01,3,UI\Game\Number\imagenumber.dds,60,224,19,21,0,0,0,0,시간숫자3
+ImageNumber_01,4,UI\Game\Number\imagenumber.dds,80,224,19,21,0,0,0,0,시간숫자4
+ImageNumber_01,5,UI\Game\Number\imagenumber.dds,100,224,19,21,0,0,0,0,시간숫자5
+ImageNumber_01,6,UI\Game\Number\imagenumber.dds,120,224,19,21,0,0,0,0,시간숫자6
+ImageNumber_01,7,UI\Game\Number\imagenumber.dds,140,224,19,21,0,0,0,0,시간숫자7
+ImageNumber_01,8,UI\Game\Number\imagenumber.dds,160,224,19,21,0,0,0,0,시간숫자8
+ImageNumber_01,9,UI\Game\Number\imagenumber.dds,180,224,19,21,0,0,0,0,시간숫자9
+ImageNumber_01,10,UI\Game\Number\imagenumber.dds,200,224,19,21,0,0,0,0,시간숫자:
+ImageNumber_01,11,UI\Game\Number\imagenumber.dds,220,224,19,21,0,0,0,0,시간숫자.
+ImageNumber_02,0,UI\Game\Number\imagenumber.dds,0,0,47,55,0,0,0,0,파란숫자0
+ImageNumber_02,1,UI\Game\Number\imagenumber.dds,48,0,47,55,0,0,0,0,파란숫자1
+ImageNumber_02,2,UI\Game\Number\imagenumber.dds,96,0,47,55,0,0,0,0,파란숫자2
+ImageNumber_02,3,UI\Game\Number\imagenumber.dds,144,0,47,55,0,0,0,0,파란숫자3
+ImageNumber_02,4,UI\Game\Number\imagenumber.dds,192,0,47,55,0,0,0,0,파란숫자4
+ImageNumber_02,5,UI\Game\Number\imagenumber.dds,0,56,47,55,0,0,0,0,파란숫자5
+ImageNumber_02,6,UI\Game\Number\imagenumber.dds,48,56,47,55,0,0,0,0,파란숫자6
+ImageNumber_02,7,UI\Game\Number\imagenumber.dds,96,56,47,55,0,0,0,0,파란숫자7
+ImageNumber_02,8,UI\Game\Number\imagenumber.dds,144,56,47,55,0,0,0,0,파란숫자8
+ImageNumber_02,9,UI\Game\Number\imagenumber.dds,192,56,47,55,0,0,0,0,파란숫자9
+ImageNumber_03,0,UI\Game\Number\imagenumber.dds,0,112,47,55,0,0,0,0,빨간숫자0
+ImageNumber_03,1,UI\Game\Number\imagenumber.dds,48,112,47,55,0,0,0,0,빨간숫자1
+ImageNumber_03,2,UI\Game\Number\imagenumber.dds,96,112,47,55,0,0,0,0,빨간숫자2
+ImageNumber_03,3,UI\Game\Number\imagenumber.dds,144,112,47,55,0,0,0,0,빨간숫자3
+ImageNumber_03,4,UI\Game\Number\imagenumber.dds,192,112,47,55,0,0,0,0,빨간숫자4
+ImageNumber_03,5,UI\Game\Number\imagenumber.dds,0,168,47,55,0,0,0,0,빨간숫자5
+ImageNumber_03,6,UI\Game\Number\imagenumber.dds,48,168,47,55,0,0,0,0,빨간숫자6
+ImageNumber_03,7,UI\Game\Number\imagenumber.dds,96,168,47,55,0,0,0,0,빨간숫자7
+ImageNumber_03,8,UI\Game\Number\imagenumber.dds,144,168,47,55,0,0,0,0,빨간숫자8
+ImageNumber_03,9,UI\Game\Number\imagenumber.dds,192,168,47,55,0,0,0,0,빨간숫자9
+
+chartrade_01,0,UI\Game\trade\chartrade_01.dds,0,0,333,473,0,0,0,0,캐릭터거래창
+chartrade_01,1,UI\Game\trade\chartrade_01.dds,0,473,101,8,0,0,0,0,거래진행바배경
+chartrade_01,2,UI\Game\trade\chartrade_01.dds,0,481,3,6,0,0,0,0,거래진행바
+chartrade_02,0,UI\Game\trade\chartrade_02.dds,0,0,333,193,0,0,0,0,캐릭터이전정보아래
+chartrade_02,1,UI\Game\trade\chartrade_02.dds,0,193,187,51,0,0,0,0,캐릭터정보창
+chartrade_02,2,UI\Game\trade\chartrade_02.dds,0,244,321,184,0,0,0,0,캐릭터이전/ 잠금막 / 윗부분
+
+new_mainbar,47,UI\Game\New_Mainbar\new_mainbar.dds,435,249,76,263,0,0,0,0
+new_mainbar,48,UI\Game\New_Mainbar\new_mainbar.dds,326,0,30,31,0,0,0,0
+new_mainbar,49,UI\Game\New_Mainbar\new_mainbar.dds,387,0,30,31,0,0,0,0
+new_mainbar,50,UI\Game\New_Mainbar\new_mainbar.dds,448,0,30,31,0,0,0,0
+new_mainbar,96,UI\Game\New_Mainbar\new_mainbar.dds,296,0,30,31,0,0,0,0
+new_mainbar,51,UI\Game\New_Mainbar\new_mainbar.dds,326,31,30,31,0,0,0,0
+new_mainbar,52,UI\Game\New_Mainbar\new_mainbar.dds,387,31,30,31,0,0,0,0
+new_mainbar,53,UI\Game\New_Mainbar\new_mainbar.dds,448,31,30,31,0,0,0,0
+new_mainbar,97,UI\Game\New_Mainbar\new_mainbar.dds,296,31,30,31,0,0,0,0
+new_mainbar,54,UI\Game\New_Mainbar\new_mainbar.dds,326,62,30,31,0,0,0,0
+new_mainbar,55,UI\Game\New_Mainbar\new_mainbar.dds,387,62,30,31,0,0,0,0
+new_mainbar,56,UI\Game\New_Mainbar\new_mainbar.dds,448,62,30,31,0,0,0,0
+new_mainbar,98,UI\Game\New_Mainbar\new_mainbar.dds,296,62,30,31,0,0,0,0
+new_mainbar,57,UI\Game\New_Mainbar\new_mainbar.dds,326,93,30,31,0,0,0,0
+new_mainbar,58,UI\Game\New_Mainbar\new_mainbar.dds,387,93,30,31,0,0,0,0
+new_mainbar,59,UI\Game\New_Mainbar\new_mainbar.dds,448,93,30,31,0,0,0,0
+new_mainbar,60,UI\Game\New_Mainbar\new_mainbar.dds,326,124,30,31,0,0,0,0
+new_mainbar,61,UI\Game\New_Mainbar\new_mainbar.dds,387,124,30,31,0,0,0,0
+new_mainbar,62,UI\Game\New_Mainbar\new_mainbar.dds,448,124,30,31,0,0,0,0
+new_mainbar,63,UI\Game\New_Mainbar\new_mainbar.dds,326,155,30,31,0,0,0,0
+new_mainbar,64,UI\Game\New_Mainbar\new_mainbar.dds,387,155,30,31,0,0,0,0
+new_mainbar,65,UI\Game\New_Mainbar\new_mainbar.dds,448,155,30,31,0,0,0,0
+new_mainbar,66,UI\Game\New_Mainbar\new_mainbar.dds,326,186,30,31,0,0,0,0
+new_mainbar,67,UI\Game\New_Mainbar\new_mainbar.dds,387,186,30,31,0,0,0,0
+new_mainbar,68,UI\Game\New_Mainbar\new_mainbar.dds,448,186,30,31,0,0,0,0
+new_mainbar,69,UI\Game\New_Mainbar\new_mainbar.dds,326,217,30,31,0,0,0,0
+new_mainbar,70,UI\Game\New_Mainbar\new_mainbar.dds,387,217,30,31,0,0,0,0
+new_mainbar,71,UI\Game\New_Mainbar\new_mainbar.dds,448,217,30,31,0,0,0,0
+new_mainbar,72,UI\Game\New_Mainbar\new_mainbar.dds,356,0,30,31,0,0,0,0
+new_mainbar,73,UI\Game\New_Mainbar\new_mainbar.dds,417,0,30,31,0,0,0,0
+new_mainbar,74,UI\Game\New_Mainbar\new_mainbar.dds,478,0,30,31,0,0,0,0
+new_mainbar,75,UI\Game\New_Mainbar\new_mainbar.dds,356,31,30,31,0,0,0,0
+new_mainbar,76,UI\Game\New_Mainbar\new_mainbar.dds,417,31,30,31,0,0,0,0
+new_mainbar,77,UI\Game\New_Mainbar\new_mainbar.dds,478,31,30,31,0,0,0,0
+new_mainbar,78,UI\Game\New_Mainbar\new_mainbar.dds,356,62,30,31,0,0,0,0
+new_mainbar,79,UI\Game\New_Mainbar\new_mainbar.dds,417,62,30,31,0,0,0,0
+new_mainbar,80,UI\Game\New_Mainbar\new_mainbar.dds,478,62,30,31,0,0,0,0
+new_mainbar,81,UI\Game\New_Mainbar\new_mainbar.dds,356,93,30,31,0,0,0,0
+new_mainbar,82,UI\Game\New_Mainbar\new_mainbar.dds,417,93,30,31,0,0,0,0
+new_mainbar,83,UI\Game\New_Mainbar\new_mainbar.dds,478,93,30,31,0,0,0,0
+new_mainbar,84,UI\Game\New_Mainbar\new_mainbar.dds,356,124,30,31,0,0,0,0
+new_mainbar,85,UI\Game\New_Mainbar\new_mainbar.dds,417,124,30,31,0,0,0,0
+new_mainbar,86,UI\Game\New_Mainbar\new_mainbar.dds,478,124,30,31,0,0,0,0
+new_mainbar,87,UI\Game\New_Mainbar\new_mainbar.dds,356,155,30,31,0,0,0,0
+new_mainbar,88,UI\Game\New_Mainbar\new_mainbar.dds,417,155,30,31,0,0,0,0
+new_mainbar,89,UI\Game\New_Mainbar\new_mainbar.dds,478,155,30,31,0,0,0,0
+new_mainbar,90,UI\Game\New_Mainbar\new_mainbar.dds,356,186,30,31,0,0,0,0
+new_mainbar,91,UI\Game\New_Mainbar\new_mainbar.dds,417,186,30,31,0,0,0,0
+new_mainbar,92,UI\Game\New_Mainbar\new_mainbar.dds,478,186,30,31,0,0,0,0
+new_mainbar,93,UI\Game\New_Mainbar\new_mainbar.dds,356,217,30,31,0,0,0,0
+new_mainbar,94,UI\Game\New_Mainbar\new_mainbar.dds,417,217,30,31,0,0,0,0
+new_mainbar,95,UI\Game\New_Mainbar\new_mainbar.dds,478,217,30,31,0,0,0,0
+new_mainbar,30,UI\Game\New_Mainbar\new_mainbar.dds,187,270,47,54,0,0,0,0
+new_mainbar,31,UI\Game\New_Mainbar\new_mainbar.dds,187,329,47,54,0,0,0,0
+new_mainbar,32,UI\Game\New_Mainbar\new_mainbar.dds,187,388,47,54,0,0,0,0
+new_mainbar,33,UI\Game\New_Mainbar\new_mainbar.dds,240,270,47,54,0,0,0,0
+new_mainbar,34,UI\Game\New_Mainbar\new_mainbar.dds,240,329,47,54,0,0,0,0
+new_mainbar,35,UI\Game\New_Mainbar\new_mainbar.dds,240,388,47,54,0,0,0,0
+new_mainbar,29,UI\Game\New_Mainbar\new_mainbar.dds,184,216,108,47,0,0,0,0
+
+DKSquare,1,UI\Game\DKSquare\DKSquare_waiting.DDS,0,0,435,341,0,0,0,0,훈련소 대기정보창
+DKSquare,11,UI\Game\DKSquare\DKSquare_info.DDS,0,884,26,26,0,0,0,0,새로고침-비활성
+DKSquare,12,UI\Game\DKSquare\DKSquare_info.DDS,26,884,26,26,0,0,0,0,새로고침-클릭전(마우스커서 선택전)
+DKSquare,13,UI\Game\DKSquare\DKSquare_info.DDS,52,884,26,26,0,0,0,0,새로고침-클릭후(평소때)
+DKSquare,14,UI\Game\DKSquare\DKSquare_info.DDS,0,538,435,341,0,0,0,0,훈련소 선택창
+DKSquare,15,UI\Game\DKSquare\DKSquare_info.DDS,99,884,22,15,0,0,0,0,전장선택 대기중 아이콘
+DKSquare,16,UI\Game\DKSquare\DKSquare_info.DDS,99,899,22,15,0,0,0,0,전장선택 전투중 아이콘
+DKSquare,17,UI\Game\DKSquare\DKSquare_info.DDS,145,884,13,18,0,0,0,0,자물쇠아이콘(잠금)
+DKSquare,18,UI\Game\DKSquare\DKSquare_info.DDS,553,538,277,288,0,0,0,0,로비설정
+DKSquare,21,UI\Game\DKSquare\DKSquare_info.DDS,0,0,747,523,0,0,0,0,훈련소 전투 정보창
+DKSquare,22,UI\Game\DKSquare\DKSquare_info.DDS,0,524,721,2,0,0,0,0,가로구분선
+DKSquare,23,UI\Game\DKSquare\DKSquare_info.DDS,748,0,22,15,0,0,0,0,네잎클로버 아이콘(비활성화)
+DKSquare,24,UI\Game\DKSquare\DKSquare_info.DDS,748,15,22,15,0,0,0,0,기사 아이콘(비활성화)
+DKSquare,25,UI\Game\DKSquare\DKSquare_info.DDS,748,30,22,15,0,0,0,0,궁수 아이콘(비활성화)
+DKSquare,26,UI\Game\DKSquare\DKSquare_info.DDS,748,45,22,15,0,0,0,0,법사 아이콘(비활성화)
+DKSquare,27,UI\Game\DKSquare\DKSquare_info.DDS,748,60,22,15,0,0,0,0,소환사 아이콘(비활성화)
+DKSquare,28,UI\Game\DKSquare\DKSquare_info.DDS,748,75,22,15,0,0,0,0,힐러 아이콘(비활성화)
+DKSquare,29,UI\Game\DKSquare\DKSquare_info.DDS,748,90,22,15,0,0,0,0,바기 아이콘(비활성화)
+DKSquare,30,UI\Game\DKSquare\DKSquare_info.DDS,748,105,22,15,0,0,0,0,알로켄 아이콘(비활성화)
+DKSquare,31,UI\Game\DKSquare\DKSquare_info.DDS,770,0,22,15,0,0,0,0,네잎클로버 아이콘
+DKSquare,32,UI\Game\DKSquare\DKSquare_info.DDS,770,15,22,15,0,0,0,0,기사 아이콘
+DKSquare,33,UI\Game\DKSquare\DKSquare_info.DDS,770,30,22,15,0,0,0,0,궁수 아이콘
+DKSquare,34,UI\Game\DKSquare\DKSquare_info.DDS,770,45,22,15,0,0,0,0,법사 아이콘
+DKSquare,35,UI\Game\DKSquare\DKSquare_info.DDS,770,60,22,15,0,0,0,0,소환사 아이콘
+DKSquare,36,UI\Game\DKSquare\DKSquare_info.DDS,770,75,22,15,0,0,0,0,힐러 아이콘
+DKSquare,37,UI\Game\DKSquare\DKSquare_info.DDS,770,90,22,15,0,0,0,0,바기 아이콘
+DKSquare,38,UI\Game\DKSquare\DKSquare_info.DDS,770,105,22,15,0,0,0,0,알로켄 아이콘
+DKSquare,39,UI\Game\DKSquare\DKSquare_info.DDS,0,527,466,10,0,0,0,0,게이지바-파란색
+DKSquare,40,UI\Game\DKSquare\DKSquare_info.DDS,748,142,47,44,0,0,0,0,게이지바- 칼아이콘
+DKSquare,41,UI\Game\DKSquare\DKSquare_info.DDS,748,121,33,20,0,0,0,0,MVP 
+DKSquare,42,UI\Game\DKSquare\DKSquare_info.DDS,748,187,74,23,0,0,0,0,WIN 
+DKSquare,43,UI\Game\DKSquare\DKSquare_info.DDS,748,211,74,23,0,0,0,0,LOSE
+DKSquare,44,UI\Game\DKSquare\DKSquare_info.DDS,748,235,105,29,0,0,0,0,Miseria(미세리아)
+DKSquare,45,UI\Game\DKSquare\DKSquare_info.DDS,748,265,105,29,0,0,0,0,Ricchez(리케츠)
+DKSquare,46,UI\Game\DKSquare\DKSquare_info.DDS,793,0,66,66,0,0,0,0,전장그래프(테두리)
+DKSquare,47,UI\Game\DKSquare\DKSquare_info.DDS,859,0,65,65,0,0,0,0,전장그래프(전체)
+DKSquare,48,UI\Game\DKSquare\DKSquare_info.DDS,859,0,33,66,0,0,0,0,전장그래프(파랑색)
+DKSquare,49,UI\Game\DKSquare\DKSquare_info.DDS,892,0,33,66,0,0,0,0,전장그래프(빨강색)
+DKSquare,50,UI\Game\DKSquare\DKSquare_info.DDS,925,0,37,4,0,0,0,0,중앙 바
+DKSquare,51,UI\Game\DKSquare\DKSquare_info.DDS,748,296,90,23,0,0,0,0,DRAW
+DKSquare,52,UI\Game\DKSquare\DKSquare_waiting.DDS,0,342,26,26,0,0,0,0,대기표 아이콘(어둠)
+DKSquare,53,UI\Game\DKSquare\DKSquare_waiting.DDS,26,342,26,26,0,0,0,0,대기표 아이콘(밝음)
+DKSquare,54,UI\Game\DKSquare\DKSquare_waiting.DDS,52,342,26,26,0,0,0,0,대기표 아이콘(클릭)
+DKSquare,55,UI\Game\DKSquare\DKSquare_info.DDS,78,914,22,15,0,0,0,0,파티신청 아이콘 (비활성화)
+DKSquare,56,UI\Game\DKSquare\DKSquare_info.DDS,100,914,22,15,0,0,0,0,파티신청 아이콘 (클릭전)
+DKSquare,57,UI\Game\DKSquare\DKSquare_info.DDS,122,914,22,15,0,0,0,0,파티신청 아이콘 (클릭후)
+DKSquare,61,UI\Game\DKSquare\DKSquare_mission.dds,0,0,379,580,0,0,0,0,미션정보창
+DKSquare,62,UI\Game\DKSquare\DKSquare_info.dds,749,324,83,42,0,0,0,0,아군 교감 시간 표시
+DKSquare,63,UI\Game\DKSquare\DKSquare_info.dds,749,367,83,42,0,0,0,0,적군 교감 시간 표시
+DKSquare,64,UI\Game\DKSquare\DKSquare_info.DDS,793,67,30,30,0,0,0,0,점수 한계치 1단계
+DKSquare,65,UI\Game\DKSquare\DKSquare_info.DDS,823,97,30,30,0,0,0,0,점수 한계치 2단계
+DKSquare,66,UI\Game\DKSquare\DKSquare_info.DDS,853,97,30,30,0,0,0,0,점수 한계치 3단계
+DKSquare,67,UI\Game\DKSquare\DKSquare_info.DDS,883,97,30,30,0,0,0,0,점수 한계치 4단계
+DKSquare,68,UI\Game\DKSquare\DKSquare_info.DDS,793,97,30,30,0,0,0,0,점수 한계치 5단계
+DKSquare,69,UI\Game\DKSquare\DKSquare_info.DDS,913,97,30,30,0,0,0,0,점수 한계치 6단계
+DKSquare,70,UI\Game\DKSquare\DKSquare_info.DDS,943,97,30,30,0,0,0,0,점수 한계치 7단계
+
+colosseum,1,UI\Game\Colosseum\pvp_result.dds,0,0,855,424,0,0,0,0,PVPMode-배경
+colosseum,2,UI\Game\Colosseum\pvp_result.dds,0,430,240,70,0,0,0,0,PVPMode-win
+colosseum,3,UI\Game\Colosseum\pvp_result.dds,240,430,240,70,0,0,0,0,PVPMode-draw
+colosseum,4,UI\Game\Colosseum\pvp_result.dds,480,430,240,70,0,0,0,0,PVPMode-lose
+colosseum,5,UI\Game\Colosseum\pvp_result.dds,860,0,22,22,0,0,0,0,PVPMode-나이트(아이콘)
+colosseum,6,UI\Game\Colosseum\pvp_result.dds,883,0,22,22,0,0,0,0,PVPMode-헌터(아이콘)
+colosseum,7,UI\Game\Colosseum\pvp_result.dds,906,0,22,22,0,0,0,0,PVPMode-매지션(아이콘)
+colosseum,8,UI\Game\Colosseum\pvp_result.dds,929,0,22,22,0,0,0,0,PVPMode-서머너(아이콘)
+colosseum,9,UI\Game\Colosseum\pvp_result.dds,952,0,22,22,0,0,0,0,PVPMode-세그날레(아이콘)
+colosseum,10,UI\Game\Colosseum\pvp_result.dds,975,0,22,22,0,0,0,0,PVPMode-바기워리어(아이콘)
+colosseum,11,UI\Game\Colosseum\pvp_result.dds,998,0,22,22,0,0,0,0,PVPMode-알로켄(아이콘)
+colosseum,12,UI\Game\Colosseum\pvp_result.dds,860,30,100,394,0,0,0,0,배틀로얄 중간 정보창
+colosseum,17,UI\Game\Colosseum\pvp_dashboard.dds,183,47,160,34,0,0,0,0,Red Team
+colosseum,18,UI\Game\Colosseum\pvp_dashboard.dds,350,47,160,34,0,0,0,0,Blue Team
+colosseum,19,UI\Game\Colosseum\pvp_dashboard.dds,103,52,80,72,0,0,0,0,Progress-센터도끼
+colosseum,20,UI\Game\Colosseum\pvp_dashboard.dds,0,0,47,47,0,0,0,0,직업군표시링-나이트
+colosseum,21,UI\Game\Colosseum\pvp_dashboard.dds,47,0,47,47,0,0,0,0,직업군표시링-헌터
+colosseum,22,UI\Game\Colosseum\pvp_dashboard.dds,94,0,47,47,0,0,0,0,직업군표시링-매지션
+colosseum,23,UI\Game\Colosseum\pvp_dashboard.dds,141,0,47,47,0,0,0,0,직업군표시링-서머너
+colosseum,24,UI\Game\Colosseum\pvp_dashboard.dds,188,0,47,47,0,0,0,0,직업군표시링-세그
+colosseum,25,UI\Game\Colosseum\pvp_dashboard.dds,235,0,47,47,0,0,0,0,직업군표시링-바기
+colosseum,26,UI\Game\Colosseum\pvp_dashboard.dds,282,0,47,47,0,0,0,0,직업군표시링-알로켄
+colosseum,27,UI\Game\Colosseum\pvp_dashboard.dds,9,55,30,30,0,0,0,0,쉴드
+colosseum,28,UI\Game\Colosseum\pvp_dashboard.dds,59,55,30,30,0,0,0,0,HP
+colosseum,29,UI\Game\Colosseum\pvp_dashboard.dds,0,90,51,10,0,0,0,0,Progress-외각라인
+colosseum,30,UI\Game\Colosseum\pvp_dashboard.dds,0,101,48,8,0,0,0,0,Progress-테두리
+colosseum,31,UI\Game\Colosseum\pvp_dashboard.dds,0,110,46,6,0,0,0,0,Progress-내부색
+colosseum,32,UI\Game\Colosseum\pvp_dashboard.dds,183,81,47,47,0,0,0,0,직업군표시링-나이트(깨짐)
+colosseum,33,UI\Game\Colosseum\pvp_dashboard.dds,230,81,47,47,0,0,0,0,직업군표시링-헌터(깨짐)
+colosseum,34,UI\Game\Colosseum\pvp_dashboard.dds,277,81,47,47,0,0,0,0,직업군표시링-매지션(깨짐)
+colosseum,35,UI\Game\Colosseum\pvp_dashboard.dds,324,81,47,47,0,0,0,0,직업군표시링-서머너(깨짐)
+colosseum,36,UI\Game\Colosseum\pvp_dashboard.dds,371,81,47,47,0,0,0,0,직업군표시링-세그(깨짐)
+colosseum,37,UI\Game\Colosseum\pvp_dashboard.dds,418,81,47,47,0,0,0,0,직업군표시링-바기(깨짐)
+colosseum,38,UI\Game\Colosseum\pvp_dashboard.dds,465,81,47,47,0,0,0,0,직업군표시링-알로켄(깨짐)
+colosseum,39,UI\Game\Colosseum\pvp_dashboard.dds,329,0,47,47,0,0,0,0,직업군표시링-강제종료
+colosseum,40,UI\Game\Colosseum\battleroyal_result.dds,0,0,779,620,0,0,0,0,배틀로얄-결과창
+colosseum,41,UI\Game\Colosseum\battleroyal_result.dds,842,0,22,15,0,0,0,0,배틀로얄-아이콘(나이트)
+colosseum,42,UI\Game\Colosseum\battleroyal_result.dds,842,15,22,15,0,0,0,0,배틀로얄-아이콘(헌터)
+colosseum,43,UI\Game\Colosseum\battleroyal_result.dds,842,30,22,15,0,0,0,0,배틀로얄-아이콘(매지션)
+colosseum,44,UI\Game\Colosseum\battleroyal_result.dds,842,45,22,15,0,0,0,0,배틀로얄-아이콘(서머너)
+colosseum,45,UI\Game\Colosseum\battleroyal_result.dds,842,60,22,15,0,0,0,0,배틀로얄-아이콘(세그)
+colosseum,46,UI\Game\Colosseum\battleroyal_result.dds,842,75,22,15,0,0,0,0,배틀로얄-아이콘(바기)
+colosseum,47,UI\Game\Colosseum\battleroyal_result.dds,842,90,22,15,0,0,0,0,배틀로얄-아이콘(알로켄)
+colosseum,48,UI\Game\Colosseum\battleroyal_result.dds,0,660,340,34,0,0,0,0,배틀로얄-사망자 표시
+colosseum,49,UI\Game\Colosseum\battleroyal_result.dds,540,960,202,40,0,0,0,0,배틀로얄-데스 패널티
+colosseum,50,UI\Game\Colosseum\battleroyal_result.dds,0,960,52,52,0,0,0,0,콜로세움시작버튼(pvp 레드 노멀)
+colosseum,51,UI\Game\Colosseum\battleroyal_result.dds,52,960,52,52,0,0,0,0,콜로세움시작버튼(pvp 레드 다운)
+colosseum,52,UI\Game\Colosseum\battleroyal_result.dds,104,960,52,52,0,0,0,0,콜로세움시작버튼(pvp 오버)
+colosseum,53,UI\Game\Colosseum\battleroyal_result.dds,156,960,52,52,0,0,0,0,콜로세움시작버튼(pvp 그린 노멀)
+colosseum,54,UI\Game\Colosseum\battleroyal_result.dds,208,960,52,52,0,0,0,0,콜로세움시작버튼(pvp 그린 다운)
+colosseum,55,UI\Game\Colosseum\battleroyal_result.dds,260,960,52,52,0,0,0,0,콜로세움시작버튼(배틀로얄 레드 노멀)
+colosseum,56,UI\Game\Colosseum\battleroyal_result.dds,312,960,52,52,0,0,0,0,콜로세움시작버튼(배틀로얄 레드 다운)
+colosseum,57,UI\Game\Colosseum\battleroyal_result.dds,364,960,52,52,0,0,0,0,콜로세움시작버튼(배틀로얄 오버)
+colosseum,58,UI\Game\Colosseum\battleroyal_result.dds,416,960,52,52,0,0,0,0,콜로세움시작버튼(배틀로얄 그린 노멀)
+colosseum,59,UI\Game\Colosseum\battleroyal_result.dds,468,960,52,52,0,0,0,0,콜로세움시작버튼(배틀로얄 그린 다운)
+colosseum,60,UI\Game\Colosseum\ranking.dds,0,0,880,471,0,0,0,0,랭킹-결과창
+colosseum,61,UI\Game\Colosseum\ranking.dds,2,480,99,26,0,0,0,0,랭킹-탭선택
+colosseum,62,UI\Game\Colosseum\ranking.dds,103,474,99,26,0,0,0,0,랭킹-탭비선택
+colosseum,63,UI\Game\Colosseum\ranking.dds,202,480,20,20,0,0,0,0,랭킹-라디오버튼선택
+colosseum,64,UI\Game\Colosseum\ranking.dds,224,480,20,20,0,0,0,0,랭킹-라디오버튼비선택
+colosseum,65,UI\Game\Colosseum\battleroyal_result.dds,500,700,465,130,0,0,0,0,배틀로얄중간결과창 상
+colosseum,66,UI\Game\Colosseum\battleroyal_result.dds,500,840,465,24,0,0,0,0,배틀로얄중간결과창 중
+colosseum,67,UI\Game\Colosseum\battleroyal_result.dds,500,898,465,49,0,0,0,0,배틀로얄중간결과창 하
+colosseum,68,UI\Game\Colosseum\battleroyal_result.dds,970,700,25,24,0,0,0,0,사망표시
+colosseum,69,UI\Game\Colosseum\battleroyal_result.dds,970,725,25,24,0,0,0,0,하트 큰거
+colosseum,70,UI\Game\Colosseum\battleroyal_result.dds,970,750,25,24,0,0,0,0,하트작은거
+colosseum,71,UI\Game\Colosseum\battleroyal_result.dds,800,0,30,30,0,0,0,0,해골버튼 노말
+colosseum,72,UI\Game\Colosseum\battleroyal_result.dds,800,30,30,30,0,0,0,0,해골버튼 블링크
+colosseum,73,UI\Game\Colosseum\battleroyal_result.dds,800,60,30,30,0,0,0,0,해골버튼 다운
+colosseum,74,UI\Game\Colosseum\battleroyal_result.dds,770,960,202,40,0,0,0,0,해골버튼 다운
+
+guildtournament,1,UI\Game\Colosseum\battleroyal_result.dds,0,700,414,95,0,0,0,0,기부순위 확인창 상
+guildtournament,2,UI\Game\Colosseum\battleroyal_result.dds,0,805,414,52,0,0,0,0,기부순위 확인창 중
+guildtournament,3,UI\Game\Colosseum\battleroyal_result.dds,0,867,414,78,0,0,0,0,기부순위 확인창 하
+guildtournament,4,UI\Game\Colosseum\battleroyal_result.dds,420,700,20,20,0,0,0,0,라디오버튼 선택
+guildtournament,5,UI\Game\Colosseum\battleroyal_result.dds,420,720,20,20,0,0,0,0,라디오버튼 비선택
+guildtournament,6,UI\Game\Colosseum\battleroyal_result.dds,0,700,414,35,0,0,0,0,토너먼트 엔트리 확인창 상
+guildtournament,7,UI\Game\Colosseum\battleroyal_result.dds,0,770,414,26,0,0,0,0,토너먼트 엔트리 확인창 리스트타이틀
+guildtournament,8,UI\Game\Colosseum\battleroyal_result.dds,0,915,414,33,0,0,0,0,토너먼트 엔트리 확인창 하
+guildtournament,10,UI\Game\Colosseum\seed.dds,0,0,880,695,0,0,0,0,시드 신청 창
+guildtournament,11,UI\Game\Colosseum\seed_2.dds,0,0,761,561,0,0,0,0,토너먼트 표
+guildtournament,12,UI\Game\Colosseum\seed.dds,890,0,87,43,0,0,0,0,선택버튼 기본
+guildtournament,13,UI\Game\Colosseum\seed.dds,890,44,87,43,0,0,0,0,선택버튼 오버
+guildtournament,14,UI\Game\Colosseum\seed.dds,890,88,87,43,0,0,0,0,선택버튼 다운
+guildtournament,15,UI\Game\Colosseum\seed.dds,890,132,2,25,0,0,0,0,구분선
+guildtournament,16,UI\Game\Colosseum\seed_2.dds,0,580,74,74,0,0,0,0,8강작대기 위쪽
+guildtournament,17,UI\Game\Colosseum\seed_2.dds,0,655,74,74,0,0,0,0,8강작대기 아래쪽
+guildtournament,18,UI\Game\Colosseum\seed_2.dds,75,580,74,144,0,0,0,0,4강작대기 위쪽
+guildtournament,19,UI\Game\Colosseum\seed_2.dds,150,580,74,144,0,0,0,0,4강작대기 아래쪽
+guildtournament,20,UI\Game\Colosseum\seed_2.dds,0,730,74,284,0,0,0,0,결승작대기 위쪽
+guildtournament,21,UI\Game\Colosseum\seed_2.dds,75,730,74,284,0,0,0,0,결승작대기 아래쪽
+guildtournament,22,UI\Game\Colosseum\seed_2.dds,450,580,525,392,0,0,0,0,엔트리선정창
+guildtournament,23,UI\Game\Colosseum\seed_2.dds,450,980,31,35,0,0,0,0,쓰레기통 기본
+guildtournament,24,UI\Game\Colosseum\seed_2.dds,490,980,31,35,0,0,0,0,쓰레기통 마우스오버
+guildtournament,25,UI\Game\Colosseum\seed_2.dds,530,980,31,35,0,0,0,0,쓰레기통 푸쉬
+guildtournament,26,UI\Game\Colosseum\todaybattle.dds,0,0,512,35,0,0,0,0,리스트 상
+guildtournament,27,UI\Game\Colosseum\todaybattle.dds,0,38,512,25,0,0,0,0,리스트 중
+guildtournament,28,UI\Game\Colosseum\todaybattle.dds,0,66,512,424,0,0,0,0,리스트 하
+guildtournament,29,UI\Game\Colosseum\todaybattle.dds,35,500,388,35,0,0,0,0,길드 선택 기본
+guildtournament,30,UI\Game\Colosseum\todaybattle.dds,35,540,388,35,0,0,0,0,길드 선택 마우스오버
+guildtournament,31,UI\Game\Colosseum\todaybattle.dds,35,580,388,35,0,0,0,0,길드 선택  푸시
+guildtournament,32,UI\Game\Colosseum\todaybattle.dds,28,627,205,47,0,0,0,0,16강
+guildtournament,33,UI\Game\Colosseum\todaybattle.dds,250,627,205,47,0,0,0,0,8강
+guildtournament,34,UI\Game\Colosseum\todaybattle.dds,28,674,205,47,0,0,0,0,준결승
+guildtournament,35,UI\Game\Colosseum\todaybattle.dds,250,674,205,47,0,0,0,0,결승
+guildtournament,36,UI\Game\Colosseum\todaybattle.dds,425,500,58,35,0,0,0,0,시간 표시
+guildtournament,37,UI\Game\Colosseum\todaybattle.dds,40,720,435,25,0,0,0,0,시합 종료
+guildtournament,38,UI\Game\Colosseum\todaybattle.dds,0,750,290,46,0,0,0,0,길드토너먼트
+guildtournament,39,UI\Game\Colosseum\todaybattle.dds,0,800,210,36,0,0,0,0,win
+guildtournament,40,UI\Game\Colosseum\todaybattle.dds,210,800,210,36,0,0,0,0,lose
+guildtournament,41,UI\Game\Colosseum\todaybattle.dds,300,750,210,36,0,0,0,0,draw
+guildtournament,42,UI\Game\Colosseum\todaybattle.dds,430,800,70,40,0,0,0,0,패한길드 가림막
+guildtournament,43,UI\Game\Colosseum\todaybattle.dds,0,890,512,34,0,0,0,0,win lose 영역
+guildtournament,44,UI\Game\Colosseum\todaybattle.dds,0,925,200,46,0,0,0,0,round1
+guildtournament,45,UI\Game\Colosseum\todaybattle.dds,200,925,200,46,0,0,0,0,round2
+guildtournament,46,UI\Game\Colosseum\todaybattle.dds,0,972,200,46,0,0,0,0,round3
+guildtournament,47,UI\Game\Colosseum\todaybattle.dds,200,972,200,46,0,0,0,0,round4
+guildtournament,48,UI\Game\Colosseum\todaybattle.dds,300,840,200,46,0,0,0,0,round5
+guildtournament,49,UI\Game\Colosseum\todaybattle.dds,260,840,26,38,0,0,0,0,:
+guildtournament,50,UI\Game\Colosseum\todaybattle.dds,234,840,26,38,0,0,0,0,숫자0
+guildtournament,51,UI\Game\Colosseum\todaybattle.dds,0,840,26,38,0,0,0,0,숫자1
+guildtournament,52,UI\Game\Colosseum\todaybattle.dds,26,840,26,38,0,0,0,0,숫자2
+guildtournament,53,UI\Game\Colosseum\todaybattle.dds,52,840,26,38,0,0,0,0,숫자3
+guildtournament,54,UI\Game\Colosseum\todaybattle.dds,78,840,26,38,0,0,0,0,숫자4
+guildtournament,55,UI\Game\Colosseum\todaybattle.dds,104,840,26,38,0,0,0,0,숫자5
+guildtournament,56,UI\Game\Colosseum\todaybattle.dds,130,840,26,38,0,0,0,0,숫자6
+guildtournament,57,UI\Game\Colosseum\todaybattle.dds,156,840,26,38,0,0,0,0,숫자7
+guildtournament,58,UI\Game\Colosseum\todaybattle.dds,182,840,26,38,0,0,0,0,숫자8
+guildtournament,59,UI\Game\Colosseum\todaybattle.dds,208,840,26,38,0,0,0,0,숫자9
+guildtournament,60,UI\Game\Colosseum\betting.dds,0,0,377,132,0,0,0,0,배팅창 리스트상
+guildtournament,61,UI\Game\Colosseum\betting.dds,0,135,377,18,0,0,0,0,배팅창 리스트중
+guildtournament,62,UI\Game\Colosseum\betting.dds,0,156,377,122,0,0,0,0,배팅창 리스트하
+guildtournament,63,UI\Game\Colosseum\betting.dds,0,280,172,35,0,0,0,0,점수버튼 노말
+guildtournament,64,UI\Game\Colosseum\betting.dds,0,320,172,35,0,0,0,0,점수버튼 오버
+guildtournament,65,UI\Game\Colosseum\betting.dds,0,360,172,35,0,0,0,0,점수버튼 푸시
+guildtournament,66,UI\Game\Colosseum\betting.dds,0,400,77,35,0,0,0,0,배율
+guildtournament,67,UI\Game\Colosseum\betting.dds,0,440,97,26,0,0,0,0,탭선택
+guildtournament,68,UI\Game\Colosseum\betting.dds,0,470,97,20,0,0,0,0,탭비선택
+guildtournament,69,UI\Game\Colosseum\prizemoney.dds,0,0,512,328,0,0,0,0,당첨금수령창
+guildtournament,70,UI\Game\Colosseum\prizemoney.dds,0,330,108,34,0,0,0,0,버튼기본
+guildtournament,71,UI\Game\Colosseum\prizemoney.dds,109,330,108,34,0,0,0,0,버튼오버
+guildtournament,72,UI\Game\Colosseum\prizemoney.dds,218,330,108,34,0,0,0,0,버튼푸시
+guildtournament,73,UI\Game\Colosseum\pvp_dashboard.dds,0,130,205,34,80,0,30,0,길드1(Red)
+guildtournament,74,UI\Game\Colosseum\pvp_dashboard.dds,220,130,205,34,30,0,80,0,길드2(Blue)
+guildtournament,75,UI\Game\Colosseum\pvp_dashboard.dds,430,130,22,28,0,0,0,0,붉은 깃발
+guildtournament,76,UI\Game\Colosseum\pvp_dashboard.dds,453,130,22,28,0,0,0,0,파란 깃발
+guildtournament,77,UI\Game\Colosseum\guildresult.dds,0,0,512,356,0,0,0,0,전투결과 리스트창
+guildtournament,78,UI\Game\Colosseum\guildresult.dds,0,362,20,20,0,0,0,0,왕관
+guildtournament,79,UI\Game\Colosseum\betting.dds,180,280,172,35,0,0,0,0,경우의수버튼비활성화
+guildtournament,80,UI\Game\Colosseum\betting.dds,80,400,73,31,0,0,0,0,배율비활성화
+guildtournament,81,UI\Game\Colosseum\guildresult.dds,0,368,212,41,0,0,0,0,전투결과 리스트창 win
+guildtournament,82,UI\Game\Colosseum\guildresult.dds,0,428,212,41,0,0,0,0,전투결과 리스트창 draw
+guildtournament,83,UI\Game\Colosseum\guildresult.dds,0,470,212,41,0,0,0,0,전투결과 리스트창 foul
+guildtournament,84,UI\Game\Colosseum\guildresult.dds,213,386,212,41,0,0,0,0,전투결과 리스트창 lose
+guildtournament,85,UI\Game\Colosseum\todaybattle.dds,410,930,30,30,0,0,0,0,돋보기 노말(정보보기)
+guildtournament,86,UI\Game\Colosseum\todaybattle.dds,440,930,30,30,0,0,0,0,돋보기 오버(정보보기)
+guildtournament,87,UI\Game\Colosseum\todaybattle.dds,470,930,30,30,0,0,0,0,돋보기 다운(정보보기)
+guildtournament,88,UI\Game\Colosseum\guild_ready.dds,0,0,256,52,0,0,0,0,ready
+guildtournament,89,UI\Game\Colosseum\guild_ready.dds,0,0,256,52,0,0,0,0,break time
+
+login_dk1,1,UI\Game\login\login_panel.dds,0,0,340,170,0,0,0,0, Login_Panel_Custom
+login_dk1,2,UI\Game\login\login_panel2.dds,0,128,147,211,0,0,0,0, Serverselect_Panel_Custom<window>
+	name			channel_select_win
+	enable			true
+	visible			true
+	layer			110
+	position		inverse inverse
+	rect			0 0 0 0
+	titlerect		0 0 0 0
+	<panel>
+		id			pan_class_select1
+		enable		true
+		visible		true
+		layer		100
+		position	right top
+		rect		-355 60 147 49
+		<image>   
+			key		0
+			screen	Character
+			index	1
+		</image>
+		<label>
+			id		lbl_channel
+			enable		true
+			visible		true
+			layer		120
+			align       center
+			rect		0 15 147 30
+			<title>
+				color		ffffffff
+				fontIndex	8
+				text2		2000 43
+			</title>
+		</label>
+	</panel>
+	<panel>
+		id			pan_class_select2
+		enable		true
+		visible		true
+		layer		100
+		position	right top
+		rect		-355 109 147 47
+		<image>   
+			key		0
+			screen	Character
+			index	2
+		</image>
+	</panel>
+	<panel>
+		id			pan_class_select3
+		enable		true
+		visible		true
+		layer		100
+		position	right top
+		rect		-355 156 147 78
+		<image>   
+			key		0
+			screen	Character
+			index	3
+		</image>
+	</panel>
+	<panel>
+		id			pan_bg
+		enable		true
+		visible		true
+		layer		110
+		position	right top
+		rect		-355 110 147 100
+		
+	</panel>
+</window><window>
+	name			char_select_win
+	enable			true
+	visible			true
+	layer			100
+	position		inverse inverse
+	rect			0 0 0 0
+	titlerect		0 0 0 0
+	<panel>
+		id		pan_widebackup
+		enable		true
+		visible		true
+		intersect	false
+		layer		99
+		position	inverse top
+		rect		0 0 0 48
+		<image>
+			key	0
+			color	ff010101
+			screen	common
+			index	1
+		</image>
+	</panel>
+	<panel>
+		id		pan_widebackup_1
+		enable		true
+		visible		true
+		intersect	false
+		layer		99
+		position	inverse top
+		rect		0 48 0 32
+		<image>
+			key	0
+			color	ff010101
+			screen	login_wide
+			index	2
+		</image>
+	</panel>
+	<panel>
+		id			pan_widebackdown
+		enable		true
+		visible		true
+		intersect	false
+		layer		99
+		position	inverse bottom
+		rect		0 -48 0 48
+		<image>
+			key	0
+			color	ff010101
+			screen	common
+			index	1
+		</image>
+	</panel>
+	<panel>
+		id			pan_widebackdown_1
+		enable		true
+		visible		true
+		intersect	false
+		layer		99
+		position	inverse bottom
+		rect		0 -80 0 32
+		<image>
+			key	0
+			color	ff010101
+			screen	login_wide
+			index	1
+		</image>
+	</panel>
+	<panel>
+		id			pan_class_select1
+		enable		true
+		visible		true
+		layer		102
+		position	right top
+		rect		-205 60 200 49
+		<image>   
+			key		0
+			screen	Character
+			index	4
+		</image>
+		<label>
+			id			lbl_selectchar
+			enable		true
+			visible		true
+			layer		120
+			align       center
+			rect		0 15 200 30
+			<title>
+				color		ffffffff
+				fontIndex	8
+				text2		30 21
+			</title>
+		</label>
+	</panel>
+	<panel>
+		id			pan_class_select2
+		enable		true
+		visible		true
+		layer		102
+		position	right top
+		rect		-205 109 200 47
+		<image>   
+			key		0
+			screen	Character
+			index	5
+		</image>
+	</panel>
+	<panel>
+		id			pan_class_select3
+		enable		true
+		visible		true
+		layer		102
+		position	right top
+		rect		-205 156 200 78
+		<image>
+			key		0
+			screen	Character
+			index	6
+		</image>
+		<button>
+			id		btn_page_1
+			enable	false
+			visible	false
+			layer	100
+			blink 		true
+			blinktime	500
+			rect	93 45 14 16
+			<image>
+				key		none
+				screen	Character
+				index	14
+			</image>
+			<image>
+				key		over
+				screen	Character
+				index	15
+			</image>
+			<image>
+				key		down
+				screen	Character
+				index	16
+			</image>
+
+		</button>
+		<button>
+			id		btn_page_2
+			enable	false
+			visible	false
+			layer	100
+			rect	93 45 14 16
+			<image>
+				key		none
+				screen	Character
+				index	11
+			</image>
+			<image>
+				key		over
+				screen	Character
+				index	12
+			</image>
+			<image>
+				key		down
+				screen	Character
+				index	13
+			</image>
+		</button>
+	</panel>
+	<panel>
+		id			pan_bg
+		enable		true
+		visible		true
+		layer		150
+		position	right top
+		rect		-227 80 200 450
+		<button>
+			id			character_list_btn_0
+			enable		true
+			visible		false
+			layer		200
+			type		0
+			multiline	true
+			lineheight	15
+			rect		40 15 180 48
+			<image>
+				key		none
+				color   0x00FFFFFF
+				index	0
+			</image>
+			<image>
+				key		over
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		down
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		check
+				screen	Character_new
+				index	11
+			</image>
+			<title>
+				state		none
+				color		ffffffff
+				fontIndex	2
+			</title>
+			<title>
+				state		over
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		down
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		check
+				color		ff76f856
+				fontIndex	2
+			</title>
+		</button>
+		<button>
+			id			character_list_btn_1
+			enable		true
+			visible		false
+			layer		200
+			type		0
+			multiline	true
+			lineheight	15
+			rect		40 63 180 48
+			<image>
+				key		none
+				color   0x00FFFFFF
+				index	0
+			</image>
+			<image>
+				key		over
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		down
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		check
+				screen	Character_new
+				index	11
+			</image>
+			<title>
+				state		none
+				color		ffffffff
+				fontIndex	2
+			</title>
+			<title>
+				state		over
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		down
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		check
+				color		ff76f856
+				fontIndex	2
+			</title>
+		</button>
+		<button>
+			id			character_list_btn_2
+			enable		true
+			visible		false
+			layer		200
+			type		0
+			multiline	true
+			lineheight	15
+			rect		40 111 180 48
+			<image>
+				key		none
+				color   0x00FFFFFF
+				index	0
+			</image>
+			<image>
+				key		over
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		down
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		check
+				screen	Character_new
+				index	11
+			</image>
+			<title>
+				state		none
+				color		ffffffff
+				fontIndex	2
+			</title>
+			<title>
+				state		over
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		down
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		check
+				color		ff76f856
+				fontIndex	2
+			</title>
+		</button>
+		<button>
+			id			character_list_btn_3
+			enable		true
+			visible		false
+			layer		200
+			type		0
+			multiline	true
+			lineheight	15
+			rect		40 159 180 48
+			<image>
+				key		none
+				color   0x00FFFFFF
+				index	0
+			</image>
+			<image>
+				key		over
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		down
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		check
+				screen	Character_new
+				index	11
+			</image>
+			<title>
+				state		none
+				color		ffffffff
+				fontIndex	2
+			</title>
+			<title>
+				state		over
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		down
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		check
+				color		ff76f856
+				fontIndex	2
+			</title>
+		</button>
+		<button>
+			id			character_list_btn_4
+			enable		true
+			visible		false
+			layer		200
+			type		0
+			multiline	true
+			lineheight	15
+			rect		40 207 180 48
+			<image>
+				key		none
+				color   0x00FFFFFF
+				index	0
+			</image>
+			<image>
+				key		over
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		down
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		check
+				screen	Character_new
+				index	11
+			</image>
+			<title>
+				state		none
+				color		ffffffff
+				fontIndex	2
+			</title>
+			<title>
+				state		over
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		down
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		check
+				color		ff76f856
+				fontIndex	2
+			</title>
+		</button>
+		<button>
+			id			character_list_btn_5
+			enable		true
+			visible		false
+			layer		200
+			type		0
+			multiline	true
+			lineheight	15
+			rect		40 255 180 48
+			<image>
+				key		none
+				color   0x00FFFFFF
+				index	0
+			</image>
+			<image>
+				key		over
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		down
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		check
+				screen	Character_new
+				index	11
+			</image>
+			<title>
+				state		none
+				color		ffffffff
+				fontIndex	2
+			</title>
+			<title>
+				state		over
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		down
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		check
+				color		ff76f856
+				fontIndex	2
+			</title>
+		</button>
+		<button>
+			id			character_list_btn_6
+			enable		true
+			visible		false
+			layer		200
+			type		0
+			multiline	true
+			lineheight	15
+			rect		40 303 180 48
+			<image>
+				key		none
+				color   0x00FFFFFF
+				index	0
+			</image>
+			<image>
+				key		over
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		down
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		check
+				screen	Character_new
+				index	11
+			</image>
+			<title>
+				state		none
+				color		ffffffff
+				fontIndex	2
+			</title>
+			<title>
+				state		over
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		down
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		check
+				color		ff76f856
+				fontIndex	2
+			</title>
+		</button>
+		<button>
+			id			character_list_btn_7
+			enable		true
+			visible		false
+			layer		200
+			type		0
+			multiline	true
+			lineheight	15
+			rect		40 351 180 48
+			<image>
+				key		none
+				color   0x00FFFFFF
+				index	0
+			</image>
+			<image>
+				key		over
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		down
+				screen	Character_new
+				index	11
+			</image>
+			<image>
+				key		check
+				screen	Character_new
+				index	11
+			</image>
+			<title>
+				state		none
+				color		ffffffff
+				fontIndex	2
+			</title>
+			<title>
+				state		over
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		down
+				color		ff76f856
+				fontIndex	2
+			</title>
+			<title>
+				state		check
+				color		ff76f856
+				fontIndex	2
+			</title>
+		</button>
+	</panel>
+	<button>
+		id			btn_servertransfer
+		enable		true
+		visible		true
+		layer		200
+		type		0
+		position	right bottom
+		rect		-290 -42 90 16
+		<title>
+			state		none
+			color		ffffffff
+			fontIndex	8
+			text2		275 5
+                        effect          1001 1 3000 0
+		</title>
+		<title>
+			state		over
+			color		ffc0e7ff
+			fontIndex	8
+			effect          1001 2 500 1
+		</title>
+		<title>
+			state		down
+			color		ffc0e7ff
+			fontIndex	8
+			position	2 2
+                       	effect          1000 3 500 1
+		</title>
+	</button>
+	<button>
+		id			btn_cloning_char
+		enable		false
+		visible		false
+		layer		200
+		type		0
+		position	right bottom
+		rect		-348 -54 109 44
+		align		center
+		<image>
+			key		none
+			screen	Character
+			index	21
+		</image>
+		<image>
+			key		over
+			screen	Character
+			index	22
+		</image>
+		<image>
+			key		down
+			screen	Character
+			index	23
+		</image>
+		<title>
+			state		none
+			color		ffffffff
+			fontIndex	8
+			text2		30 34
+			position	0 14
+                        effect          1000 1 3000 0
+		</title>
+		<title>
+			state		over
+			color		ffc0e7ff
+			fontIndex	8
+			position	0 14
+                        effect          1000 2 500 1
+		</title>
+		<title>
+			state		down
+			color		ffc0e7ff
+			fontIndex	8
+			position	2 16
+                        effect          1000 3 500 1
+		</title>
+	</button>
+	<button>
+		id			btn_create_char
+		enable		true
+		visible		true
+		layer		200
+		type		0
+		position	right bottom
+		rect		-232 -54 109 44
+		align		center
+		<image>
+			key		none
+			screen	Character
+			index	21
+		</image>
+		<image>
+			key		over
+			screen	Character
+			index	22
+		</image>
+		<image>
+			key		down
+			screen	Character
+			index	23
+		</image>
+		<title>
+			state		none
+			color		ffffffff
+			fontIndex	8
+			text2		30 22
+			position	0 14
+                        effect          1000 1 3000 0
+		</title>
+		<title>
+			state		over
+			color		ffc0e7ff
+			fontIndex	8
+			position	0 14
+                        effect          1000 2 500 1
+		</title>
+		<title>
+			state		down
+			color		ffc0e7ff
+			fontIndex	8
+			position	2 16
+                        effect          1000 3 500 1
+		</title>
+	</button>
+	<button>
+		id			btn_delete_char
+		enable		true
+		visible		true
+		layer		200
+		type		0
+		position	right bottom
+		rect		-116 -54 109 44
+		align		center
+		<image>
+			key		none
+			screen	Character
+			index	24
+		</image>
+		<image>
+			key		over
+			screen	Character
+			index	25
+		</image>
+		<image>
+			key		down
+			screen	Character
+			index	26
+		</image>
+		<title>
+			state		none
+			color		ffffffff
+			fontIndex	8
+			text2		30 23
+			position	0 14
+                        effect          1000 1 3000 0
+		</title>
+		<title>
+			state		over
+			color		ffc0e7ff
+			fontIndex	8
+			position	0 14
+                        effect          1000 2 500 1
+		</title>
+		<title>
+			state		down
+			color		ffc0e7ff
+			fontIndex	8
+			position	2 16
+                        effect          1000 3 500 1
+		</title>
+	</button>
+	<panel>
+		id			pan_select_char
+		enable		true
+		visible		false
+		layer		120
+		position	center top
+		rect		-111 96 222 61
+		<image>
+				key		0
+				screen	Character
+				index	7
+		</image>
+		<label>
+			id			lbl_select_msg
+			enable		true
+			visible		true
+			layer		121
+			rect		26 10 163 44
+			align		center
+			multiline 	true
+			lineheight	15
+			<title>
+				color		ffffffff
+				fontIndex	5
+				position	0 10
+			</title>
+		</label>
+	</panel>
+	<panel>
+		id			pan_connect
+		enable		true
+		visible		true
+		layer		109
+		position	center bottom
+		rect		-76 -139 152 51
+		<button>
+			id			btn_connect
+			enable		false
+			visible		true
+			layer		110
+			type		0
+			align		center
+			rect		0 0 152 51
+			<image>
+				key		none
+				screen	Character
+				index	8
+			</image>
+			<image>
+				key		over
+				screen	Character
+				index	9
+			</image>
+			<image>
+				key		down
+				screen	Character
+				index	10
+			</image>
+			<title>
+				state		none
+				color		ffffffff
+				fontIndex	8
+				text2		30 24
+				position	0 15
+			</title>
+			<title>
+				state		over
+				color		ffc0e7ff
+				fontIndex	8
+				position	0 15
+			</title>
+			<title>
+				state		down
+				color		ffc0e7ff
+				fontIndex	8
+				position	2 17
+			</title>
+			<title>
+				state		disable
+				color		ffffffff
+				fontIndex	8
+				position	0 15
+			</title>
+		</button>
+	</panel>
+	<button>
+		id			btn_exit
+		enable		false
+		visible		false
+		layer		200
+		type		0
+		position	left bottom
+		rect		7 -54 109 44
+		align		center
+		<image>
+			key		none
+			screen	Character
+			index	24
+		</image>
+		<image>
+			key		over
+			screen	Character
+			index	25
+		</image>
+		<image>
+			key		down
+			screen	Character
+			index	26
+		</image>
+		<title>
+			state		none
+			color		ffffffff
+			fontIndex	8
+			text2		2000 13
+			position	0 14
+                        effect          1000 1 3000 0
+		</title>
+		<title>
+			state		over
+			color		ffc0e7ff
+			fontIndex	8
+			position	0 14
+                        effect          1000 2 500 1
+		</title>
+		<title>
+			state		down
+			color		ffc0e7ff
+			fontIndex	8
+			position	2 16
+                        effect          1000 3 500 1
+		</title>
+		<title>
+			state		disable
+			color		ffffffff
+			fontIndex	8
+		</title>
+	</button>
+	<button>
+		id			btn_logout
+		enable		true
+		visible		true
+		layer		200
+		type		0
+		position	left bottom
+		rect		7 -54 109 44
+		align		center
+		<image>
+			key		none
+			screen	Character
+			index	24
+		</image>
+		<image>
+			key		over
+			screen	Character
+			index	25
+		</image>
+		<image>
+			key		down
+			screen	Character
+			index	26
+		</image>
+		<title>
+			state		none
+			color		ffffffff
+			fontIndex	8
+			text2		30 20
+			position	0 14
+                        effect          1000 1 3000 0
+		</title>
+		<title>
+			state		over
+			color		ffc0e7ff
+			fontIndex	8
+			position	0 14
+                        effect          1000 2 500 1
+		</title>
+		<title>
+			state		down
+			color		ffc0e7ff
+			fontIndex	8
+			position	2 16
+                        effect          1000 3 500 1
+		</title>
+		<title>
+			state		disable
+			color		ffffffff
+			fontIndex	8
+		</title>
+	</button>
+</window><window>
+	name			char_start_win
+	enable			true
+	visible			true
+	layer			100
+	modal			true
+	position		inverse inverse
+	rect			0 0 0 0
+	<panel>
+		id			pan_bg
+		enable		true
+		visible		true
+		layer		100
+		position	center center
+		rect		-236 -202 472 401
+		<image>
+			key		0
+			screen	Character_new
+			index	101
+		</image>
+		<label>
+			id			lbl_start_title
+			enable		true
+			visible		true
+			layer		120
+			rect		190 8 90 14
+			<title>
+				color		ffffffff
+				fontIndex	2
+				text2		1007 19
+			</title>
+		</label>
+		<button>
+			id			btn_exit
+			enable		true
+			visible		true
+			layer		100
+			rect		437 10 21 21
+			sound  0
+			<image>
+				key		none
+				screen	questwin
+				index	61
+			</image>
+			<image>
+				key		over
+				screen	questwin
+				index	62
+			</image>
+			<image>
+				key		down
+				screen	questwin
+				index	63
+			</image>
+		</button>
+		<textbox>
+			id			textbox_briken
+			enable		true
+			visible		true
+			layer		99
+			rect		24 43 206 308
+			lineheight	16
+			fonttype	5
+			color		FFFFFFFF
+		</textbox>
+		<button>
+			id			btn_briken
+			enable		true
+			visible		true
+			layer		100
+			rect		24 43 206 308
+			<image>
+				key		none
+				color	0x01000000
+			</image>
+			<image>
+				key		over
+				screen	start_region
+				index	40
+			</image>
+			<image>
+				key		check
+				screen	start_region
+				index	40
+			</image>
+		</button>
+		<textbox>
+			id			textbox_loa
+			enable		true
+			visible		true
+			layer		99
+			rect		243 43 206 308
+			lineheight	16
+			fonttype	5
+			color		FFFFFFFF
+		</textbox>
+		<button>
+			id			btn_loa
+			enable		true
+			visible		true
+			layer		100
+			rect		243 43 206 308
+			<image>
+				key		none
+				color	0x01000000
+			</image>
+			<image>
+				key		over
+				screen	start_region
+				index	40
+			</image>
+			<image>
+				key		check
+				screen	start_region
+				index	40
+			</image>
+		</button>
+	</panel>
+</window><window>
+	name			chatbubblewnd
+	enable			true
+	visible			true
+	layer			1000
+	layertype		bottom
+	rect			0 0 1024 768
+	<panel>
+		id			pan_tail
+		enable		true
+		visible		false
+		layer		1
+		intersect	false
+		rect		0 18 7 7
+		<image>
+			key	none
+			screen	pc_pop
+			index	69
+		</image>
+	</panel>
+	<panel>
+		id			pan_middle
+		enable		true
+		visible		true
+		layer		1
+		intersect	false
+		rect		0 0 14 14
+		<image>
+			key	none
+			screen	pcpop
+			index	100
+		</image>
+	</panel>		
+	<textbox>
+		id			textbox
+		enable		false
+		visible		true
+		layer		100
+		rect		4 4 10 10
+		lineheight	16
+		margin		0 0
+		fonttype	2
+		color		FFFFFFFF
+		intersect	false
+		<panel>
+			id			pan_mark
+			enable		true
+			visible		false
+			layer		1
+			intersect	false
+			position	left bottom
+			rect		0 -24 24 24
+		</panel>		
+	</textbox>	
+</window>
+<window>
+	name			chat
+	enable			true
+	visible			true
+	layer			100
+	position		inverse inverse
+	alwaysontop		true
+	<panel>
+		id			pan_effect
+		enable		true
+		visible		true
+		layer		120
+		intersect 	false
+		position	center top
+		rect		-180 80 350 50
+	</panel>
+	<panel>
+			id			pan_chatwindow
+			enable		true
+			visible		true
+			layer		120
+			intersect 	false
+			position	left bottom
+			rect		0 -350 362 290
+		<panel>
+			id			pan_alpha
+			enable		true
+			visible		false
+			layer		110
+			rect		70 0 164 108
+			<image>
+				key		none
+				screen	chatset
+				index	1
+			</image>
+			<label>
+				id			lbl_titleAlpha
+				enable		true
+				visible		true
+				layer		10
+				align		center
+				rect		28 2 106 14
+				<title>
+					color		ffffffff
+					fontIndex	4
+					text2 		230 9
+				</title>
+			</label>
+			<label>
+				id			lbl_msgAlpha
+				enable		true
+				visible		true
+				layer		10
+				align		center
+				rect		42 29 80 14
+				<title>
+					color		ffffffff
+					fontIndex	2
+					text2 		230 10
+				</title>
+			</label>
+			<slidebar>
+				id			sld_alpha
+				enable		true
+				visible		true
+				layer		10
+				rect		13 53 138 12
+				min			0
+				max			255
+				minmaxpos	12 	126
+				<panel>
+					id			sld_alpha_bar
+					enable		true
+					visible		true
+					layer		10
+					rect		12 0 9 12
+					moveable	true
+					noneimage	true
+					<image>
+						key			none
+						screen		etc_01
+						index		22
+					</image>
+					<image>
+						key			over
+						screen		etc_01
+						index		23
+					</image>
+				</panel>
+				<button>
+					id			sld_alpha_minus
+					enable		true
+					visible		true
+					layer		100
+					type		0
+					rect		0 0 12 12
+					<image>
+						key		0
+						screen	etc_01
+						index	11
+					</image>
+					<image>
+						key		over
+						screen	etc_01
+						index	12
+					</image>
+					<image>
+						key		down
+						screen	etc_01
+						index	13
+					</image>
+				</button>
+				<button>
+					id			sld_alpha_plus
+					enable		true
+					visible		true
+					layer		100
+					type		0
+					rect		126 0 12 12
+					<image>
+						key		0
+						screen	etc_01
+						index	7
+					</image>
+					<image>
+						key		over
+						screen	etc_01
+						index	8
+					</image>
+					<image>
+						key		down
+						screen	etc_01
+						index	9
+					</image>
+				</button>	
+			</slidebar>
+			<button>
+				id			btn_alpha_ok
+				enable		true
+				visible		true
+				layer		100
+				rect		13 83 57 19 
+				<image>
+					key		none
+					screen	etc_01
+					index	2
+				</image>
+				<title>
+					state 		none
+					color		ff929292
+					fontIndex	2
+					position	18 3
+					text2		230 11
+				</title>
+				<title>
+					state 		over
+					color		ffffffff
+					fontIndex	2
+					position	18 3
+				</title>
+				<title>
+					state 		down
+					color		ff929292
+					fontIndex	2
+					position	19 4
+				</title>
+			</button>
+			<button>
+				id			btn_alpha_cancel
+				enable		true
+				visible		true
+				layer		100
+				rect		94 83 57 19 
+				<image>
+					key		none
+					screen	etc_01
+					index	2
+				</image>
+				<title>
+					state 		none
+					color		ff929292
+					fontIndex	2
+					position	18 3
+					text2		230 12
+				</title>
+				<title>
+					state 		over
+					color		ffffffff
+					fontIndex	2
+					position	18 3
+				</title>
+				<title>
+					state 		down
+					color		ff929292
+					fontIndex	2
+					position	19 4
+				</title>
+			</button>
+		</panel>
+		<panel>
+			id		pan_color
+			enable		true
+			visible		true
+			intersect 	false
+			layer		60
+			rect		0 120 344 144
+			<image>
+				key	0
+				screen	common
+				index	1
+				color	80010101
+			</image>
+		</panel>
+		
+		<button>
+			id			btn_mail
+			enable		true
+			visible		false
+			layer		100
+			blink 		true
+			blinktime	500
+			rect		0 94 26 26 
+			
+			<image>
+				key		0
+				screen	chat
+				index	5
+			</image>
+			<image>
+				key		over
+				screen	chat
+				index	6
+			</image>
+			<image>
+				key		down
+				screen	chat
+				index	7
+			</image>			
+			<image>
+				key		blink
+				screen	chat
+				index	6
+			</image>
+		</button>
+		<button>
+			id			btn_messenger
+			enable		true
+			visible		false
+			layer		100
+			blink 		true
+			blinktime	500
+			rect		26 94 26 26 
+			
+			<image>
+				key		0
+				screen	chat
+				index	8
+			</image>
+			<image>
+				key		over
+				screen	chat
+				index	9
+			</image>	
+			<image>
+				key		down
+				screen	chat
+				index	10
+			</image>		
+			<image>
+				key		blink
+				screen	chat
+				index	9
+			</image>
+		</button>
+		<panel>
+			id			pan_back
+			enable		true
+			visible		true
+			intersect 	false
+			layer		90
+			rect		0 120 344 144
+			<button>
+				id			btn_normal
+				enable		true
+				visible		true
+				layer		100
+				align       center
+				rect		0 125 43 19
+				<image>
+					key		none
+					screen	chat
+					index	3
+				</image>
+				<image>
+					key		check
+					screen	chat
+					index	4
+				</image>
+				<title>
+					state 		none
+					color		ff929292
+					fontIndex	4
+					position	0 3
+					text2		230 1
+				</title>
+				<title>
+					state 		over
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+				<title>
+					state 		down
+					color		ff929292
+					fontIndex	4
+					position	2 4
+				</title>
+				<title>
+					state 		check
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+			</button>
+			<button>
+				id			btn_party
+				enable		true
+				visible		true
+				layer		100
+				align       center
+				rect		43 125 43 19
+				<image>
+					key		none
+					screen	chat
+					index	3
+				</image>
+				<image>
+					key		check
+					screen	chat
+					index	4
+				</image>
+				<title>
+					state 		none
+					color		ff929292
+					fontIndex	4
+					position	0 3
+					text2		230 2
+				</title>
+				<title>
+					state 		over
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+				<title>
+					state 		down
+					color		ff929292
+					fontIndex	4
+					position	2 4
+				</title>
+				<title>
+					state 		check
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+			</button>
+			<button>
+				id			btn_guild
+				enable		true
+				visible		true
+				layer		100
+				align       center
+				rect		86 125 43 19
+				<image>
+					key		none
+					screen	chat
+					index	3
+				</image>
+				<image>
+					key		check
+					screen	chat
+					index	4
+				</image>
+				<title>
+					state 		none
+					color		ff929292
+					fontIndex	4
+					position	0 3
+					text2		230 3
+				</title>
+				<title>
+					state 		over
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+				<title>
+					state 		down
+					color		ff929292
+					fontIndex	4
+					position	2 4
+				</title>
+				<title>
+					state 		check
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+			</button>
+			<button>
+				id			btn_guildmember
+				enable		true
+				visible		true
+				layer		100
+				align       center
+				rect		129 125 43 19
+				<image>
+					key		none
+					screen	chat
+					index	3
+				</image>
+				<image>
+					key		check
+					screen	chat
+					index	4
+				</image>
+				<title>
+					state 		none
+					color		ff929292
+					fontIndex	4
+					position	0 3
+					text2		230 4
+				</title>
+				<title>
+					state 		over
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+				<title>
+					state 		down
+					color		ff929292
+					fontIndex	4
+					position	2 4
+				</title>
+				<title>
+					state 		check
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+			</button>
+			<button>
+				id			btn_pcstore
+				enable		false
+				visible		true
+				layer		100
+				align       center
+				rect		172 125 43 19
+				<image>
+					key		none
+					screen	chat
+					index	3
+				</image>
+				<image>
+					key		check
+					screen	chat
+					index	4
+				</image>
+				<title>
+					state 		none
+					color		ff929292
+					fontIndex	4
+					position	0 3
+					text2		230 5
+				</title>
+				<title>
+					state 		over
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+				<title>
+					state 		down
+					color		ff929292
+					fontIndex	4
+					position	2 4
+				</title>
+				<title>
+					state 		check
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+			</button>
+			<button>
+				id			btn_alpha
+				enable		true
+				visible		true
+				layer		100
+				align       center
+				rect		215 125 43 19
+				<image>
+					key		none
+					screen	chat
+					index	3
+				</image>
+				<image>
+					key		check
+					screen	chat
+					index	4
+				</image>
+				<title>
+					state 		none
+					color		ff929292
+					fontIndex	4
+					position	0 3
+					text2		230 7
+				</title>
+				<title>
+					state 		over
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+				<title>
+					state 		down
+					color		ff929292
+					fontIndex	4
+					position	2 4
+				</title>
+				<title>
+					state 		check
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+			</button>		
+			<button>
+				id			btn_logsave
+				enable		true
+				visible		true
+				layer		100
+				align       center
+				rect		258 125 43 19
+				<image>
+					key		none
+					screen	chat
+					index	3
+				</image>
+				<image>
+					key		check
+					screen	chat
+					index	4
+				</image>
+				<title>
+					state 		none
+					color		ff929292
+					fontIndex	4
+					position	0 3
+					text2		230 8
+				</title>
+				<title>
+					state 		over
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+				<title>
+					state 		down
+					color		ff929292
+					fontIndex	4
+					position	2 4
+				</title>
+				<title>
+					state 		check
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+			</button>
+			<button>
+				id			btn_action
+				enable		true
+				visible		true
+				layer		100
+				align       center
+				rect		301 125 43 19
+				<image>
+					key		none
+					screen	chat
+					index	3
+				</image>
+				<image>
+					key		check
+					screen	chat
+					index	4
+				</image>
+				<title>
+					state 		none
+					color		ff929292
+					fontIndex	4
+					position	0 3
+					text2		230 6
+				</title>
+				<title>
+					state 		over
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+				<title>
+					state 		down
+					color		ff929292
+					fontIndex	4
+					position	2 4
+				</title>
+				<title>
+					state 		check
+					color		ffffffff
+					fontIndex	4
+					position	0 3
+				</title>
+			</button>		
+		</panel>
+		<combobox>
+			id		com_action
+			enable		true
+			visible		true
+			border 		false
+			intersect 	false
+			layer		198
+			rect		344 40 96 19 
+			
+			<iteminfo>		
+				rect 	0 0 96 13	
+				<item>
+					index   0
+					data	10
+					string 	50 1
+				</item>
+				<item>
+					index   1
+					data	11
+					string 	50 2
+				</item>
+				<item>
+					index   2
+					data	15
+					string 	50 6
+				</item>
+				<item>
+					index   3
+					data	16
+					string 	50 7
+				</item>
+				<item>
+					index   4
+					data	17
+					string 	50 8
+				</item>
+				<item>
+					index   5
+					data	18
+					string 	50 9
+				</item>
+				<item>
+					index   6
+					data	19
+					string 	50 10
+				</item>
+				<item>
+					index   7
+					data	20
+					string 	50 11
+				</item>
+				<item>
+					index   8
+					data	21
+					string 	50 12
+				</item>
+			</iteminfo>
+			<nodeinfo>
+				selrect		0 0 96 0
+				btnrect		0 0 0 0 				
+				<image>
+					key		board_body
+					screen	chat
+					index	1
+					color	90010101
+				</image>
+			</nodeinfo>		
+		</combobox>	
+		<textbox>
+			id			textview
+			enable		true
+			visible		true
+			layer		100
+			rect		0 120 344 125
+			lineheight	12
+			margin		18 5
+			fonttype	2
+			chattype	1
+			color		FFEDFC00
+			<image>
+				key		0
+				screen	common
+				index	1
+				color	00010101
+			</image>
+			<vscroll>
+				id			textview_scroll
+				enable		true
+				visible		true
+				layer		100
+				rect		0 0 12 101
+				maxvalue	0
+				buttontick  1
+				<panel>
+					id			pan_scrollLine
+					enable		true
+					visible		true
+					intersect 	false
+					layer		20
+					rect		5 0 2 101
+					<image>
+						key 	none
+						screen 	chat
+						index	2
+					</image>
+				</panel>
+				<button>
+					id		textview_scroll_upbtn
+					enable		true
+					visible		true
+					layer		100
+					rect		0 0 12 12
+					type		1
+					<image>
+						key	0
+						screen	etc_01
+						index	19
+					</image>
+					<image>
+						key		over
+						screen	etc_01
+						index	20
+					</image>
+					<image>
+						key		down
+						screen	etc_01
+						index	21
+					</image>
+					<image>
+						key		disable
+						screen	etc_01
+						index	18
+					</image>
+				</button>
+				<button>
+					id			textview_scroll_downbtn
+					enable		true
+					visible		true
+					layer		100
+					rect		0 89 12 12
+					type		1
+					<image>
+						key		0
+						screen	etc_01
+						index	15
+					</image>
+					<image>
+						key		over
+						screen	etc_01
+						index	16
+					</image>
+					<image>
+						key		down
+						screen	etc_01
+						index	17
+					</image>
+					<image>
+						key		disable
+						screen	etc_01
+						index	14
+					</image>
+				</button>
+				<panel>
+					id			textview_scroll_bar
+					enable		true
+					visible		true
+					layer		100
+					rect		0 12 12 19 
+					moveable	true
+					noneimage 	true
+					<image>
+						key		none
+						screen	etc_01
+						index	24
+					</image>
+					<image>
+						key		over
+						screen	etc_01
+						index	25
+					</image>
+				</panel>
+			</vscroll>
+		</textbox>
